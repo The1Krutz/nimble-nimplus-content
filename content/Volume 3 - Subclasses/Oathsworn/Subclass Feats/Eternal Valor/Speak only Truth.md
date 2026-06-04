@@ -1,0 +1,1 @@
+Gain WIL temporary Mana when you roll Initiative (expires at the end of the encounter if unused).

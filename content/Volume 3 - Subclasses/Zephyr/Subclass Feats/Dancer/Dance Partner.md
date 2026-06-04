@@ -1,0 +1,1 @@
+(1/round) When an enemy within Reach 2 misses you with an attack, you may gain a Wound to Charm it. At the beginning of the Charmed enemy's turn, they make a WIL save (DC 10+KEY) to end the condition.

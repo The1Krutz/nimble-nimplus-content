@@ -1,0 +1,1 @@
+Your attunement to the cycles of nature grants you knowledge of Fire spells. After upcasting a spell or critting in beastform, you may inflict Smoldering on any creature within Range 6.

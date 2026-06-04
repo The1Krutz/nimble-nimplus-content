@@ -1,0 +1,1 @@
+Light dims nigh imperceptibly in your presence. Nocturnal animals often seem to follow you. As an action, you may extinguish all mundane light sources that you can see.

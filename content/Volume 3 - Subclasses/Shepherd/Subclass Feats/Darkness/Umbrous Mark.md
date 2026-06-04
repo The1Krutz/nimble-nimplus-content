@@ -1,0 +1,1 @@
+Your Lifebinding Spirit is marked by darkness and deals Necrotic damage. When you, your Lifebinding Spirit or an ally within Reach 4 deal Necrotic damage to an enemy, you may spend 1 Mana to also inflict Blinded on that enemy until the end of their next turn.

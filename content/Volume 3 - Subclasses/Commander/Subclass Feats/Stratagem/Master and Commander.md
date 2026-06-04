@@ -1,0 +1,1 @@
+All Commander's Orders with a usage limit may be used an additional time each encounter. You know all Commander's Orders.

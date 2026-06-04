@@ -1,0 +1,1 @@
+You gain the Trickshot Underhanded Ability. Trickshot also applies to Improvised Weapons.

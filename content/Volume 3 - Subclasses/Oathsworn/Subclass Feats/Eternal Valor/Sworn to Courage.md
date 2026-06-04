@@ -1,0 +1,1 @@
+You and allies within your aura gain advantage on saves against Fear, Charm and Petrification.

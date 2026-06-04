@@ -1,0 +1,1 @@
+Choose 1 additional Spellshaper ability. You may use 2 Spellshaper abilities when casting Signature spells.

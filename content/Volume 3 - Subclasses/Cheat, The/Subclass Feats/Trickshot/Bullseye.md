@@ -1,0 +1,1 @@
+Your Thrown weapons gain +2 Range. Also applies to the Trickshot ricochet.

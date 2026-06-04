@@ -1,0 +1,1 @@
+Your Commander's Orders that target an ally or enemy may affect one additional valid target. Choose another Commander's Order.

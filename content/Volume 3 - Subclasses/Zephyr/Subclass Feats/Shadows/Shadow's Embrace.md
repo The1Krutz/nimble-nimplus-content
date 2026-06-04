@@ -1,0 +1,1 @@
+Reaction: Interpose with a Shade, dispelling it in the process (the Shade must be within 2 spaces of the target).

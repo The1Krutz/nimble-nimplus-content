@@ -1,0 +1,1 @@
+Your Shadow Blast and shadow minions grant allies temp HP instead of damaging them.

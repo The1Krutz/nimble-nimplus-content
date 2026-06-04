@@ -1,0 +1,1 @@
+You now grow two size categories while Raging (up to Huge), and your Fury Dice grow one step larger (d20 at level 17).

@@ -1,0 +1,1 @@
+Your first melee attack each encounter is an automatic crit. Recharges when you spend an entire round without attacking.

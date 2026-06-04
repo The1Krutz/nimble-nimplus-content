@@ -1,0 +1,1 @@
+You gain the ability to climb featureless walls and ceilings. You may attack while climbing as long as you have at least one hand touching a surface.

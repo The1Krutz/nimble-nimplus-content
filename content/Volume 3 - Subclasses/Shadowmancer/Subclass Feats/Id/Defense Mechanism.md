@@ -1,0 +1,1 @@
+(1/round) Action/Reaction: Swap places with a shadow minion. Attacks targeting you will hit your shadow minion instead if used as a reaction.

@@ -1,0 +1,1 @@
+(1/encounter) Gain an extra Action. Recharges the first time you are Bloodied each encounter.

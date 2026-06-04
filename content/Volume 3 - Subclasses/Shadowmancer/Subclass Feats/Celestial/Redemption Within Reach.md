@@ -1,0 +1,1 @@
+(1/Safe Rest) Action/Reaction: Until the beginning of your next turn, you gain immunity to all damage and all healing you do is doubled.

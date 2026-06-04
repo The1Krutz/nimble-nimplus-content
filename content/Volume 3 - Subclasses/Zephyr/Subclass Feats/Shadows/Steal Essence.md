@@ -1,0 +1,1 @@
+When YOU kill an enemy, you may conjure a Shade on an adjacent space. You can control up to 2×KEY Shades at the same time.

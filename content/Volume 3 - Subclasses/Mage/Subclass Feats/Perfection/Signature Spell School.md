@@ -1,0 +1,1 @@
+Select a Signature spell school from among the schools you know. Your Signature cantrips are cast with advantage, and your Signature spells are automatically upcast 1 tier for free (even beyond your currently unlocked spell tiers).

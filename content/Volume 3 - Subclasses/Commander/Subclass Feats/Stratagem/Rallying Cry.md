@@ -1,0 +1,1 @@
+Whenever you use a Commander's Order, all allies within Reach 12 that can hear you gain advantage on their next attack (1/round).

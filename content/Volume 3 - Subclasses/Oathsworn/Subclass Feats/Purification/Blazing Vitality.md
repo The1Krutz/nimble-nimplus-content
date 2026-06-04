@@ -1,0 +1,1 @@
+When you heal a creature, all enemies adjacent the target take Fire damage equal to the amount healed.

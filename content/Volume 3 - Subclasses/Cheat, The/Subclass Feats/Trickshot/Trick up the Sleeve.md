@@ -1,0 +1,1 @@
+You gain proficiency with Improvised Weapons and treat them as having Thrown 4. Vicious Opportunist also applies to Thrown weapons.

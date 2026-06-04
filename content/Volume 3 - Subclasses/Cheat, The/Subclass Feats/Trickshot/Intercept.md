@@ -1,0 +1,1 @@
+(1/round) Reaction: Knock a projectile targeting an ally within range of your Thrown weapon out of the air, causing it to miss.
