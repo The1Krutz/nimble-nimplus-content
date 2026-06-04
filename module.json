@@ -2,7 +2,7 @@
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
   "description": "<p>A content module for the Nimble RPG system. Provides additional content from the Nim+ zines.</p><p><a href=\"https://santuric.itch.io/\">available for download here</a>)</p>",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",
@@ -37,8 +37,8 @@
     }
   ],
   "url": "https://github.com/The1Krutz/nimble-nimplus-content",
-  "manifest": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.8/module.json",
-  "download": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.8/module.zip",
+  "manifest": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.9/module.json",
+  "download": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.9/module.zip",
   "license": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/LICENSE",
   "readme": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/README.md",
   "bugs": "https://github.com/The1Krutz/nimble-nimplus-content/issues/new",
