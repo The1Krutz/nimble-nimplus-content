@@ -1,0 +1,38 @@
+name: Create Release
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create assets
+        uses: vimtor/action-zip@v1.3
+        with:
+          files: |
+            assets/
+            lang/
+            packs/
+            module.json
+            LICENSE
+            README.md
+          dest: module.zip
+
+      - name: Release
+        uses: softprops/action-gh-release@v3
+        if: github.ref_type == 'tag'
+        with:
+          generate_release_notes: true
+          prerelease: true
+          files: |
+            module.zip
+            module.json
