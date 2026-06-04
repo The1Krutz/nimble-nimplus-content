@@ -1,8 +1,8 @@
 {
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
-  "description": "A content module for the Nimble RPG system. Provides additional content from the Nim+ zines",
-  "version": "0.0.4",
+  "description": "<p>A content module for the Nimble RPG system. Provides additional content from the Nim+ zines.</p><p><a href=\"https://santuric.itch.io/\">available for download here</a>)</p>",
+  "version": "0.0.5",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",
@@ -11,7 +11,8 @@
   "authors": [
     {
       "name": "Krutz",
-      "url": "https://github.com/The1Krutz"
+      "url": "https://github.com/The1Krutz",
+      "flags": {}
     }
   ],
   "packs": [
@@ -20,28 +21,35 @@
       "label": "Nim+ Ancestries",
       "path": "packs/ancestries/nimplus",
       "type": "Item",
+      "system": "nimble",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "nimble",
-      "flags": {}
+      }
     }
-  ],
-  "system": [
-    "nimble"
   ],
   "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     }
   ],
   "url": "https://github.com/The1Krutz/nimble-nimplus-content",
-  "manifest": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.4/module.json",
-  "download": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.4/module.zip",
+  "manifest": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.5/module.json",
+  "download": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.5/module.zip",
   "license": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/LICENSE",
   "readme": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/README.md",
-  "bugs": "https://github.com/The1Krutz/nimble-nimplus-content/issues/new"
+  "bugs": "https://github.com/The1Krutz/nimble-nimplus-content/issues/new",
+  "relationships": {
+    "systems": [
+      {
+        "id": "nimble",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "flags": {}
 }
