@@ -1,7 +1,7 @@
 Common Ladle
 
-*Heavily stained and well-used.*
+_Heavily stained and well-used._
 
 Cooks delicious stews when using non-traditional ingredients.
 
-*(by Santuric)*
+_(by Santuric)_

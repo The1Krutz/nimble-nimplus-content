@@ -1,7 +1,7 @@
 Rare Amulet
 
-*Not very comfortable to wear.*
+_Not very comfortable to wear._
 
 You always deal a minimum of 5 damage (per instance of damage).
 
-*(by Can Opener)*
+_(by Can Opener)_

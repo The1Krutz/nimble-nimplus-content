@@ -1,8 +1,8 @@
 Uncommon Shortsword
 
-*Extracts both blood and bitter tears.*
+_Extracts both blood and bitter tears._
 
 2d4+DEX Slashing.
 Advantage against Taunted enemies.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

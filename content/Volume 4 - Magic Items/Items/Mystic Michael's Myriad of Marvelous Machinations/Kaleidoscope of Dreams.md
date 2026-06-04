@@ -1,7 +1,7 @@
 Common Toy
 
-*Whoa dude!*
+_Whoa dude!_
 
 Reveals dreamlike shapes and colors. Surely it must be a divine vision!
 
-*(by Santuric)*
+_(by Santuric)_

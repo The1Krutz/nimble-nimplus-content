@@ -1,8 +1,8 @@
 Uncommon Ring
 
-*Work in progress.*
+_Work in progress._
 
 Grants the ability to teleport instead of moving.
 Everything worn and carried stays behind.
 
-*(by Santuric)*
+_(by Santuric)_

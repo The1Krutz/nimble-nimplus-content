@@ -1,8 +1,8 @@
-*The sweat in your eyes.*
-*The blood on the sand.* 
-*The subtle dance of battle.*
+_The sweat in your eyes._
+_The blood on the sand._
+_The subtle dance of battle._
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_
 
 ---
 

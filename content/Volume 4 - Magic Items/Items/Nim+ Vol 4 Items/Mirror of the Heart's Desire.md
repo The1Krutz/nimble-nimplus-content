@@ -1,7 +1,7 @@
 Uncommon Cursed Mirror
 
-*Handheld and heartfelt.*
+_Handheld and heartfelt._
 
 Shows you what your heart longs for the most, real or imaginary.
 
-*(by ApexDM)*
+_(by ApexDM)_

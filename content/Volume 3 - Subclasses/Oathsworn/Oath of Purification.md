@@ -1,7 +1,7 @@
-*The purity of flame is akin to divinity,*
-*purging sin and sinners alike.*
+_The purity of flame is akin to divinity,_
+_purging sin and sinners alike._
 
-*(by Kazok the Goblin)*
+_(by Kazok the Goblin)_
 
 ---
 

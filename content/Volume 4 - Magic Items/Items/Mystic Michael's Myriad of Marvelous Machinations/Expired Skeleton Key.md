@@ -1,7 +1,7 @@
 Uncommon Key
 
-*Brittle key of old bone.*
+_Brittle key of old bone._
 
 Opens any suitable lock. Breaks after one use.
 
-*(by Santuric)*
+_(by Santuric)_

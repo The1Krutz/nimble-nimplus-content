@@ -1,7 +1,7 @@
 Very Rare Focus
 
-*Multi-faceted prism, fracturing both light and magic.*
+_Multi-faceted prism, fracturing both light and magic._
 
 Your cantrips gain +KEY damage.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

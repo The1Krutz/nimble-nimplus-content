@@ -1,7 +1,7 @@
 Uncommon Pan
 
-*Do not wash with soap.*
+_Do not wash with soap._
 
 Turns red-hot when complimented.
 
-*(by Santuric)*
+_(by Santuric)_

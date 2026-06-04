@@ -1,7 +1,7 @@
 Rare Chalk
 
-*Now with rainbow glitter!*
+_Now with rainbow glitter!_
 
 Creates a doorway on a suitable surface (1 use). Disappears once closed.
 
-*(by Santuric)*
+_(by Santuric)_

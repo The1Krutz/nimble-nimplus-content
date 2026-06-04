@@ -1,6 +1,7 @@
-*Powerful artifacts for the discerning adventurer, as seen in the JW Catalogue.*
+_Powerful artifacts for the discerning adventurer, as seen in the JW Catalogue._
 
 # Weapons
+
 1. [[Blink Dagger]]
 2. [[Bloodseeker]]
 3. [[Cleaver of Vengeance]]
@@ -23,6 +24,7 @@
 20. [[Thunderbolt Azur]]
 
 # Armor & Shields
+
 1. [[Abyssal Plate]]
 2. [[Armor of the Hawk]]
 3. [[Armor of the Tyrant King]]
@@ -45,6 +47,7 @@
 20. [[Ward of the Gravestalker]]
 
 # Accessories
+
 1. [[Amulet of Legerdemain]]
 2. [[Amulet of Life and Death]]
 3. [[Amulet of Pain]]
@@ -65,7 +68,9 @@
 18. [[Stabs' Guide to Stabbin']]
 19. [[Strength-o-Maxer]]
 20. [[Trollhide Wrap]]
+
 # Exploration
+
 1. [[Anti-Rope]]
 2. [[Bag of Scolding]]
 3. [[Broom of Flying]]
@@ -88,6 +93,7 @@
 20. [[Trickster's Ring]]
 
 # Consumables & Wands
+
 1. [[Chaos Magic Canister]]
 2. [[Drowsy Poison]]
 3. [[Dverung Charm of the Anvil]]

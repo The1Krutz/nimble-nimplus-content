@@ -1,7 +1,7 @@
 Rare Quiver
 
-*Fur-lined quiver emanating freezing mist.*
+_Fur-lined quiver emanating freezing mist._
 
 Arrows stored in this quiver deal Cold damage, and grant advantage against Hampered enemies.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

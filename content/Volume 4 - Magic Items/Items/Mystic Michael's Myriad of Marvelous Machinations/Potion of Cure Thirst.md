@@ -1,7 +1,7 @@
 Common Potion
 
-*Vial of clear, refreshing liquid.*
+_Vial of clear, refreshing liquid._
 
 Cures the Thirsty condition.
 
-*(by Santuric)*
+_(by Santuric)_

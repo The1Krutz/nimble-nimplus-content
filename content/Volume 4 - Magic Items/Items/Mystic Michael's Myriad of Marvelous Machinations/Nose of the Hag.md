@@ -1,7 +1,7 @@
 Common Prosthetic
 
-*Fake green nose, warts and all.*
+_Fake green nose, warts and all._
 
 "Disguises" the wearer as an ugly hag.
 
-*(by Santuric)*
+_(by Santuric)_

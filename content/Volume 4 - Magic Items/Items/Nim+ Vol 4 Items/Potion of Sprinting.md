@@ -1,8 +1,8 @@
 Uncommon Potion
 
-*Vial of swirling, silvery liquid.*
+_Vial of swirling, silvery liquid._
 
 Grants double Speed until the end of your next turn.
 Become Slowed afterwards.
 
-*(by Malikua)*
+_(by Malikua)_

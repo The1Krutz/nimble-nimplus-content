@@ -1,8 +1,8 @@
-*A knight's oath is a sacred bond,*
-*uplifting all who would rally to their banner,*
-*and rely on their shield.*
+_A knight's oath is a sacred bond,_
+_uplifting all who would rally to their banner,_
+_and rely on their shield._
 
-*(by Charles and Jeannine Archibald)*
+_(by Charles and Jeannine Archibald)_
 
 ---
 

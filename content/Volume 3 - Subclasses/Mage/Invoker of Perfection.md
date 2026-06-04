@@ -1,7 +1,7 @@
-*Some spend their entire lives in service to breadth of knowledge.*
-*Fools, the lot of them! True excellence lies in the perfection of a single thought.*
+_Some spend their entire lives in service to breadth of knowledge._
+_Fools, the lot of them! True excellence lies in the perfection of a single thought._
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_
 
 ---
 

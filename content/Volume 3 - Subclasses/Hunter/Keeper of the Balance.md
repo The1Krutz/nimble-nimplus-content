@@ -1,6 +1,6 @@
-*Stewards of  the delicate natural balance, always seeking the next monstrosity to prune.*
+_Stewards of the delicate natural balance, always seeking the next monstrosity to prune._
 
-*(by Vinícius Conrado)*
+_(by Vinícius Conrado)_
 
 ---
 

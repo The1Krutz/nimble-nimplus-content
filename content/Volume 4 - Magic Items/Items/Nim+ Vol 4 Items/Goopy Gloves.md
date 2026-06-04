@@ -1,7 +1,7 @@
 Uncommon Gloves
 
-*Covered with mimic-based adhesive.*
+_Covered with mimic-based adhesive._
 
 Grants a climb Speed of half your regular Speed, and the ability to stick to most surfaces.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,7 +1,7 @@
 Uncommon Cursed Trinket
 
-*Silver coin created by an unusually unlucky wizard.*
+_Silver coin created by an unusually unlucky wizard._
 
 Flip the coin to roll on the Chaos Magic Table (1/Safe Rest).
 
-*(by Can Opener)*
+_(by Can Opener)_

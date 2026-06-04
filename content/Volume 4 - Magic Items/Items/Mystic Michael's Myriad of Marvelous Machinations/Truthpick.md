@@ -1,7 +1,7 @@
 Uncommon Tool
 
-*Suspiciously pristine set of thieves tools.*
+_Suspiciously pristine set of thieves tools._
 
 Grants advantage during use if you share a secret meanwhile.
 
-*(by Santuric)*
+_(by Santuric)_

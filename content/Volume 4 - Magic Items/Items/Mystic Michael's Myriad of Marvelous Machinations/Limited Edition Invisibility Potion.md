@@ -1,7 +1,7 @@
 Common Potion
 
-*Seems to have expired a few years ago.*
+_Seems to have expired a few years ago._
 
 Turns you semitransparent for 10 minutes.
 
-*(by Santuric)*
+_(by Santuric)_

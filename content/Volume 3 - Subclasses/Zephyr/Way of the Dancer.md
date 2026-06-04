@@ -1,8 +1,8 @@
-*A sway of the hips.*
-*A flash of skin.*
-*A punch to the face.*
+_A sway of the hips._
+_A flash of skin._
+_A punch to the face._
 
-*(by AJ)*
+_(by AJ)_
 
 ---
 

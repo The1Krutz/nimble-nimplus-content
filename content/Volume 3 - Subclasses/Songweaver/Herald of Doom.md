@@ -1,6 +1,6 @@
-*True art is found only through pain.*
+_True art is found only through pain._
 
-*(by Rockergage)*
+_(by Rockergage)_
 
 ---
 

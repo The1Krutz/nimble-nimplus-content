@@ -1,7 +1,7 @@
 Common Tool
 
-*Smooth glass sphere with swirling red smoke inside.*
+_Smooth glass sphere with swirling red smoke inside._
 
 Reveals the presence of a slope by rolling downhill.
 
-*(by Santuric)*
+_(by Santuric)_

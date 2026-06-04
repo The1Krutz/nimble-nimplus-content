@@ -1,7 +1,7 @@
 Uncommon Charm
 
-*Inscribed with the constellation of the Anvil.*
+_Inscribed with the constellation of the Anvil._
 
 Interpose or Defend for free (1/encounter).
 
-*(by Uruzrune)*
+_(by Uruzrune)_

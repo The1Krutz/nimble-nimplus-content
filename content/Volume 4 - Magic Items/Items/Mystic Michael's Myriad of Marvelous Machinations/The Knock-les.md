@@ -1,8 +1,8 @@
 Common Fist Weapon
 
-*Hefty pair of ironwood knuckles.*
+_Hefty pair of ironwood knuckles._
 
 1d4+STR Bludgeoning. 2-handed.
 Advantage to punching locks open.
 
-*(by Santuric)*
+_(by Santuric)_

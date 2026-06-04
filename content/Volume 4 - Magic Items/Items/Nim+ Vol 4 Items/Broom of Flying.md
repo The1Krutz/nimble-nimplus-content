@@ -1,8 +1,8 @@
 Uncommon Vehicle
 
-*Surprisingly common mode of transportation.*
+_Surprisingly common mode of transportation._
 
 Grants a fly Speed of 10.
 Requires Concentration.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

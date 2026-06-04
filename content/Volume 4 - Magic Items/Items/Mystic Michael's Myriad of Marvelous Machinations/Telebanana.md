@@ -1,7 +1,7 @@
 Uncommon Fruit
 
-*Good source of potassium. Stays fresh indefinitely.*
+_Good source of potassium. Stays fresh indefinitely._
 
 Hold next to your face to cast Wind Whisper (1/day).
 
-*(by Santuric)*
+_(by Santuric)_

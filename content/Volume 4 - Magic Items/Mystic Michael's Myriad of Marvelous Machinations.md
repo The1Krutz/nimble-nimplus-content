@@ -1,4 +1,4 @@
-*100 weird and wondrous items created and collected by Mystic Michael, only available in Mystic Michael's Machine of Random Capsules. 10 gold per spin (no refunds).*
+_100 weird and wondrous items created and collected by Mystic Michael, only available in Mystic Michael's Machine of Random Capsules. 10 gold per spin (no refunds)._
 
 1. [[Ladle of Kobold Delicacies]]
 2. [[Coin of Certainty]]

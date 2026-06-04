@@ -1,7 +1,7 @@
 Uncommon Counterweight
 
-*Weights and pulleys attachable to armor.*
+_Weights and pulleys attachable to armor._
 
 Lowers STR requirements for weapons by 1.
 
-*(by Santuric)*
+_(by Santuric)_

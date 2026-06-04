@@ -1,7 +1,7 @@
 Uncommon Amulet
 
-*Golden medallion with a pearl inlay.*
+_Golden medallion with a pearl inlay._
 
 Grants advantage in a skill of your choice at high noon.
 
-*(by Santuric)*
+_(by Santuric)_

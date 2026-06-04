@@ -1,7 +1,7 @@
 Common Hat
 
-*Wide-brimmed and suspiciously clean.*
+_Wide-brimmed and suspiciously clean._
 
 Bird droppings always miss this hat.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,7 +1,7 @@
 Uncommon Ammunition
 
-*Crimson bolt stained with blood.*
+_Crimson bolt stained with blood._
 
 Seeks the nearest creature with a heartbeat when fired (including the shooter).
 
-*(by Santuric)*
+_(by Santuric)_

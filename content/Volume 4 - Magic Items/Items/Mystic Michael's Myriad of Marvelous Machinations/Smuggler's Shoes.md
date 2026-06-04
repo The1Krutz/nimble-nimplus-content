@@ -1,7 +1,7 @@
 Uncommon Shoes
 
-*Throw them off your trail.*
+_Throw them off your trail._
 
 Allows the wearer to change their footprints.
 
-*(by Santuric)*
+_(by Santuric)_

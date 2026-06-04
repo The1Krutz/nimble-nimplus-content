@@ -1,7 +1,7 @@
 Uncommon Artifact
 
-*Very handy!*
+_Very handy!_
 
 Summons an ethereal hand able to perform basic tasks for 1 minute (1/day).
 
-*(by Santuric)*
+_(by Santuric)_

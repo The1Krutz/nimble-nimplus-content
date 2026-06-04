@@ -1,7 +1,7 @@
 Common Spectacles
 
-*Tinted black as the night.*
+_Tinted black as the night._
 
 Grants Darkvision (everything looks darker).
 
-*(by Santuric)*
+_(by Santuric)_

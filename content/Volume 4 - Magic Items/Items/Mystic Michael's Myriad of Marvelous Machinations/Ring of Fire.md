@@ -1,7 +1,7 @@
 Uncommon Ring
 
-*Sooty on the inside.*
+_Sooty on the inside._
 
 Slowly heats up nearby metal when worn, including itself.
 
-*(by Santuric)*
+_(by Santuric)_

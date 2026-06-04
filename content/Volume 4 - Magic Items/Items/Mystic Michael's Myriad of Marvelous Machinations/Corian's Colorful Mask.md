@@ -1,7 +1,7 @@
 Rare Mask
 
-*Very colorful carnival mask.*
+_Very colorful carnival mask._
 
 Grants the ability to magically disguise oneself as an amusing caricature another person.
 
-*(by Santuric)*
+_(by Santuric)_

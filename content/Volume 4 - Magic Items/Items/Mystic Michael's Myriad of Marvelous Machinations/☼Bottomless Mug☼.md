@@ -1,7 +1,7 @@
 Rare Container
 
-*This is a granite mug. All craftsdwarfship is of the highest quality. It is engraved with images of reveling dwarves.*
+_This is a granite mug. All craftsdwarfship is of the highest quality. It is engraved with images of reveling dwarves._
 
 Holds 10 times as much liquid as you would expect.
 
-*(by Santuric)*
+_(by Santuric)_

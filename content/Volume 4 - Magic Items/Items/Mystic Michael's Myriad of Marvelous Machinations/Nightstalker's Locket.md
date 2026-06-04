@@ -1,7 +1,7 @@
 Uncommon Amulet
 
-*Silver locket with an onyx inlay.*
+_Silver locket with an onyx inlay._
 
 Grants advantage in a skill of your choice at midnight.
 
-*(by Santuric)*
+_(by Santuric)_

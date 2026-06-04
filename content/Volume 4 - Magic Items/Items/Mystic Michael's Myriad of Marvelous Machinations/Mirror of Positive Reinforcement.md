@@ -1,7 +1,7 @@
 Common Mirror
 
-*Just one more look...*
+_Just one more look..._
 
 Makes your reflection tell you various encouraging platitudes.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,7 +1,7 @@
 Uncommon Instrument
 
-*Totally rad, with like flames and skulls and stuff.*
+_Totally rad, with like flames and skulls and stuff._
 
 Magically amplified and distorted.
 
-*(by Santuric)*
+_(by Santuric)_

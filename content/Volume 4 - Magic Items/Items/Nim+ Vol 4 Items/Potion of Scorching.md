@@ -1,7 +1,7 @@
 Uncommon Potion
 
-*Vial of warm, auburn liquid.*
+_Vial of warm, auburn liquid._
 
 Grants a fiery aura for 1 minute, dealing 1 Fire damage when attacked in melee.
 
-*(by Malikua)*
+_(by Malikua)_

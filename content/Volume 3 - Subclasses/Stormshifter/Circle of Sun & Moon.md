@@ -1,7 +1,7 @@
-*We are blessed to walk in the Cycle Eternal,*
-*upright in the sun, stalking under the moon.*
+_We are blessed to walk in the Cycle Eternal,_
+_upright in the sun, stalking under the moon._
 
-*(by AJ)*
+_(by AJ)_
 
 ---
 

@@ -1,7 +1,7 @@
 Uncommon Legwear
 
-*Very fashionable!*
+_Very fashionable!_
 
 Increases Armor by 1 while dancing.
 
-*(by Santuric)*
+_(by Santuric)_
