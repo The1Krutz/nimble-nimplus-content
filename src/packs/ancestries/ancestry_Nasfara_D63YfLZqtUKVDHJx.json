@@ -6,7 +6,29 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "speedBonus",
+        "disabled": false,
+        "id": "8fIYKZC4wty1EFvz",
+        "identifier": "",
+        "label": "Apex Predator",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "movementType": null
+      },
+      {
+        "type": "initiativeBonus",
+        "disabled": false,
+        "id": "PKdPh4eHXcZ0DD61",
+        "identifier": "",
+        "label": "Apex Predator",
+        "predicate": {},
+        "priority": 1,
+        "value": "1"
+      }
+    ],
     "description": "<p>Nomadic felines found in deserts, savannas, and jungles. Natural predators with deadly claws, innate agility, and fearsome swiftness. Only foolish prey would not fear to get on their bad side.</p><hr><p><strong>Apex Predator</strong></p><p>+1 Speed and Initiative. [A]</p><p>Your unarmed strikes deal 1d4 Slashing, and may use DEX instead of STR. [A]</p>",
     "exotic": true,
     "size": ["medium"]
@@ -27,7 +49,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594540532,
-    "modifiedTime": 1780594540532,
+    "modifiedTime": 1780601567440,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!D63YfLZqtUKVDHJx"

@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "9VPwmwKeTRdrO1LI",
+        "identifier": "",
+        "label": "At Home in Water",
+        "predicate": {},
+        "priority": 1,
+        "mode": "swim",
+        "speed": "@attributes.movement.walk"
+      }
+    ],
     "description": "<p>Playful, friendly, and always up for some well-intended mischief, Otterfolk are at home both in water and on land. Although they can be fierce warriors, they typically prefer using their environment to their advantage.</p><hr><p><strong>At Home in Water</strong></p><p>You have a swim Speed as long as you are wearing armor no heavier than leather. [A]</p><p>When Field Resting in water, you regain additional HP equal to your level. [A]</p>",
     "exotic": true,
     "size": ["small", "medium"]
@@ -27,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594546670,
-    "modifiedTime": 1780594546670,
+    "modifiedTime": 1780601595412,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!YLy7xnLD8zsaRgXZ"

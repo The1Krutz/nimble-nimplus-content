@@ -6,7 +6,34 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "CmPH4yAyk2H4Ztpw",
+        "identifier": "",
+        "label": "The Call",
+        "predicate": {},
+        "priority": 1,
+        "mode": "swim",
+        "speed": "@attributes.movement.walk"
+      },
+      {
+        "type": "grantProficiency",
+        "disabled": false,
+        "id": "MpHpOJC2NvFyjseO",
+        "identifier": "",
+        "label": "The Call",
+        "predicate": {
+          "intelligence": {
+            "min": 0
+          }
+        },
+        "priority": 1,
+        "proficiencyType": "languages",
+        "values": ["Primordial"]
+      }
+    ],
     "description": "<p>A strange and unknowable people from deep beneath the waves, Deepwalkers are as varied from one another as they are from landwalkers. Some say they commune with the ancient denizens of the deep.</p><hr><p><strong>The Call</strong></p><p>You have a swim Speed, and you can breathe underwater. [A]</p><p>You know Primordial if your INT is not negative. [A]</p>",
     "exotic": true,
     "size": ["medium"]
@@ -27,7 +54,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594479599,
-    "modifiedTime": 1780594479599,
+    "modifiedTime": 1780600772198,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!EZY6u7gLaxTCpOAs"

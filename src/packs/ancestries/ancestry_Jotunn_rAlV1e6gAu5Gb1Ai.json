@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "CMg5L4Xy3ATQEHXu",
+        "identifier": "",
+        "label": "Challenger",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "skills": ["might", "finesse"]
+      }
+    ],
     "description": "<p>Stout as stone and treacherous as a summer glacier. Jotunn hail from distant lands where they while away the winter dark with many competitions of prowess and cunning.</p><hr><p><strong>Challenger</strong></p><p>+1 Might or Finesse. [A]</p><p>You ignore cold weather, and breathe comfortably in extreme altitudes. [A]</p><p>Advantage on skill checks when you engage in duels of wit, speed, strength or drinking. [A]</p>",
     "exotic": true,
     "size": ["large"]
@@ -27,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594514975,
-    "modifiedTime": 1780594514975,
+    "modifiedTime": 1780601163230,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!rAlV1e6gAu5Gb1Ai"

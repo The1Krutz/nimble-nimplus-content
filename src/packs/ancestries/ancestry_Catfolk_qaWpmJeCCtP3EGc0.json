@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "R9juoxaWwgrSEYWt",
+        "identifier": "",
+        "label": "Feline Grace",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "skills": ["stealth", "finesse"]
+      }
+    ],
     "description": "<p>Agile, graceful, and able to fall impossible distances without injury. Some say they have multiple lives, or perhaps some secret magic. They're usually preoccupied with finding the next sunbeam.</p><hr><p><strong>Feline Grace</strong></p><p>+1 Stealth and Finesse. [A]</p><p>Ignore damage from falling or forced movement (1/Safe Rest). [A]</p>",
     "exotic": true,
     "size": ["small", "medium"]
@@ -27,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780593169781,
-    "modifiedTime": 1780594658893,
+    "modifiedTime": 1780600473016,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!qaWpmJeCCtP3EGc0"
