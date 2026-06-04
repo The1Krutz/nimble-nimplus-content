@@ -2,14 +2,16 @@
   "name": "Unbound Imp",
   "type": "ancestry",
   "_id": "YASVvLBUfAaQNOUU",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "small"
+    ]
   },
   "effects": [],
   "folder": null,

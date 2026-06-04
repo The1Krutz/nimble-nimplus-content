@@ -2,14 +2,16 @@
   "name": "Foxfolk",
   "type": "ancestry",
   "_id": "NbYiUjHy03ragq7S",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "medium"
+    ]
   },
   "effects": [],
   "folder": null,

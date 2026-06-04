@@ -2,14 +2,16 @@
   "name": "Mousefolk",
   "type": "ancestry",
   "_id": "HpqKjOxYg7dKmFZu",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "small"
+    ]
   },
   "effects": [],
   "folder": null,

@@ -2,14 +2,16 @@
   "name": "Otterfolk",
   "type": "ancestry",
   "_id": "YLy7xnLD8zsaRgXZ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "small","medium"
+  ]
   },
   "effects": [],
   "folder": null,

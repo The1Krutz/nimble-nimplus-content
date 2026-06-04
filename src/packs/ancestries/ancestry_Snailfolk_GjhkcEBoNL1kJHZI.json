@@ -2,14 +2,16 @@
   "name": "Snailfolk",
   "type": "ancestry",
   "_id": "GjhkcEBoNL1kJHZI",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "small"
+  ]
   },
   "effects": [],
   "folder": null,

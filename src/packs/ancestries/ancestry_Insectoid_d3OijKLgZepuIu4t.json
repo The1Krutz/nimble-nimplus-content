@@ -2,14 +2,16 @@
   "name": "Insectoid",
   "type": "ancestry",
   "_id": "d3OijKLgZepuIu4t",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "small","medium"
+  ]
   },
   "effects": [],
   "folder": null,

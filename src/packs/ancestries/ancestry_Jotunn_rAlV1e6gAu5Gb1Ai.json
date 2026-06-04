@@ -2,14 +2,16 @@
   "name": "Jotunn",
   "type": "ancestry",
   "_id": "rAlV1e6gAu5Gb1Ai",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "large"
+    ]
   },
   "effects": [],
   "folder": null,

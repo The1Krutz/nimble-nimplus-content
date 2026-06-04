@@ -2,14 +2,16 @@
   "name": "Scalekin",
   "type": "ancestry",
   "_id": "70fOWRIV4bhcmWRG",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "small","medium"
+  ]
   },
   "effects": [],
   "folder": null,

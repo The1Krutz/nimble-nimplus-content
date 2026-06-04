@@ -2,14 +2,16 @@
   "name": "Deepwalker",
   "type": "ancestry",
   "_id": "EZY6u7gLaxTCpOAs",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "medium"
+    ]
   },
   "effects": [],
   "folder": null,

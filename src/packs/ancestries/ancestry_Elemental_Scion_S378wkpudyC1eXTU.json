@@ -2,14 +2,16 @@
   "name": "Elemental Scion",
   "type": "ancestry",
   "_id": "S378wkpudyC1eXTU",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "medium"
+    ]
   },
   "effects": [],
   "folder": null,

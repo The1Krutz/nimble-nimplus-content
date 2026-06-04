@@ -2,14 +2,16 @@
   "name": "Crustodian",
   "type": "ancestry",
   "_id": "JPyFsQU2ncDi2kBv",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "medium"
+    ]
   },
   "effects": [],
   "folder": null,

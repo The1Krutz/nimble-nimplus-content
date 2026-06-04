@@ -2,14 +2,16 @@
   "name": "Lupid",
   "type": "ancestry",
   "_id": "6BVxe0ny7X0EZpsx",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "medium"
+  ]
   },
   "effects": [],
   "folder": null,

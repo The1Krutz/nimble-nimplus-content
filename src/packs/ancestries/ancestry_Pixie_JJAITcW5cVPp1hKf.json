@@ -2,14 +2,16 @@
   "name": "Pixie",
   "type": "ancestry",
   "_id": "JJAITcW5cVPp1hKf",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "description": "",
-    "exotic": false,
-    "size": []
+    "exotic": true,
+    "size": [
+      "tiny"
+    ]
   },
   "effects": [],
   "folder": null,
