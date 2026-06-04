@@ -6,7 +6,45 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "speedBonus",
+        "disabled": false,
+        "id": "KQS3EVViEXI57O02",
+        "identifier": "",
+        "label": "Tricksy",
+        "predicate": {},
+        "priority": 1,
+        "value": "-1",
+        "movementType": null
+      },
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "7NgEfxTfMbDMfCn5",
+        "identifier": "",
+        "label": "Tricksy",
+        "predicate": {},
+        "priority": 1,
+        "mode": "fly",
+        "speed": "@attributes.movement.walk"
+      },
+      {
+        "type": "grantProficiency",
+        "disabled": false,
+        "id": "tyeWcdRP0rHGCMNo",
+        "identifier": "",
+        "label": "Tricksy",
+        "predicate": {
+          "intelligence": {
+            "min": 0
+          }
+        },
+        "priority": 1,
+        "proficiencyType": "languages",
+        "values": ["Elvish"]
+      }
+    ],
     "description": "<p>The smallest of the fair folk. Whimsical and unpredictable. Pixies are usually considered harmless, but can be surprisingly competent in combat – especially if mistaken for an insect.</p><hr><p><strong>Tricksy</strong></p><p>-1 Speed. [A]</p><p>You have a fly Speed as long as you are wearing armor no heavier than leather. [A]</p><p>Advantage on Stealth. [A]</p><p>You know Elvish if your INT isn't negative. [A]</p>",
     "exotic": true,
     "size": ["tiny"]
@@ -27,7 +65,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594552684,
-    "modifiedTime": 1780594552684,
+    "modifiedTime": 1780601688040,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!JJAITcW5cVPp1hKf"

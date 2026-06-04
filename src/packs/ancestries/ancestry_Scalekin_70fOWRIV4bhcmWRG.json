@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "7WKh57UpeLJY6YUf",
+        "identifier": "",
+        "label": "Arid Scales",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "skills": ["naturecraft"]
+      }
+    ],
     "description": "<p>The hostile and arid desert reaches from which these lizards hail have made them formidable adversaries. Beware their natural defenses.</p><hr><p><strong>Arid Scales</strong></p><p>Deal Poison damage equal to your Naturecraft to a melee attacker when you Defend (1/encounter). [A]</p><p>+1 Naturecraft. [A]</p>",
     "exotic": true,
     "size": ["small", "medium"]
@@ -27,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594560152,
-    "modifiedTime": 1780594560152,
+    "modifiedTime": 1780601735338,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!70fOWRIV4bhcmWRG"

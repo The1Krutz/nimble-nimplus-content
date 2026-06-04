@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "KdmDfxdP9eKzEY2j",
+        "identifier": "",
+        "label": "Sly as a Fox",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "skills": ["influence"]
+      }
+    ],
     "description": "<p>Trust is hard to come by for Foxfolk, as they are often viewed with suspicion. Perhaps that is why they are quick to learn how to make a good impression.</p><hr><p><strong>Sly as a... Well, you know</strong></p><p>When you Defend, you may add your Influence to your Defense (1/encounter). [A]</p><p>+1 Influence [A]</p>",
     "exotic": true,
     "size": ["medium"]
@@ -27,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594500515,
-    "modifiedTime": 1780594500515,
+    "modifiedTime": 1780601098480,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!NbYiUjHy03ragq7S"
