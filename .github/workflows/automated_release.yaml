@@ -21,24 +21,22 @@ jobs:
           VERSION=$(jq -r '.version' module.json)
           echo "version=v$VERSION" >> $GITHUB_OUTPUT
 
-      - name: debug
+      - name: Create assets
         run: |
-          echo "${{ github.workspace }}"
-          pwd
-          ls
+          zip -r module.zip assets/ lang/ packs/ module.json LICENSE README.md
 
       # https://github.com/marketplace/actions/easy-zip-files
-      - name: Create assets
-        uses: vimtor/action-zip@v1.3
-        with:
-          files: |
-            assets/
-            lang/
-            packs/
-            module.json
-            LICENSE
-            README.md
-          dest: module.zip
+      # - name: Create assets
+      #   uses: vimtor/action-zip@v1.3
+      #   with:
+      #     files: |
+      #       assets/
+      #       lang/
+      #       packs/
+      #       module.json
+      #       LICENSE
+      #       README.md
+      #     dest: module.zip
 
       # https://github.com/softprops/action-gh-release
       - name: Release
