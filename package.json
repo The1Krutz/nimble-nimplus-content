@@ -1,0 +1,24 @@
+{
+  "name": "nimble-nimplus-content",
+  "version": "1.0.0",
+  "description": "Content packs to get Nim+ into FoundryVTT",
+  "homepage": "https://github.com/The1Krutz/nimble-nimplus-content#readme",
+  "bugs": {
+    "url": "https://github.com/The1Krutz/nimble-nimplus-content/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The1Krutz/nimble-nimplus-content.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "packLDB": "node ./scripts/packLDB.mjs",
+    "unpackLDB": "node ./scripts/unpackLDB.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3"
+  }
+}
