@@ -1,0 +1,33 @@
+{
+  "id": "nimble-nimplus-content",
+  "title": "Nimble Nim+ Content",
+  "description": "A content module for the Nimble RPG system. Provides additional content from the Nim+ zines",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351",
+    "maximum": "13.999"
+  },
+  "authors": [
+    {
+      "name": "Krutz",
+      "url": "https://github.com/The1Krutz"
+    }
+  ],
+  "system": [
+    "nimble"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://github.com/The1Krutz/nimble-nimplus-content",
+  "manifest": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.1/module.json",
+  "download": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.1/module.zip",
+  "license": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/LICENSE",
+  "readme": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/README.md",
+  "bugs": "https://github.com/The1Krutz/nimble-nimplus-content/issues/new"
+}

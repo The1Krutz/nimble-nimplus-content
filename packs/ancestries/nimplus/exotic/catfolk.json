@@ -1,0 +1,43 @@
+{
+  "name": "Catfolks",
+  "type": "ancestry",
+  "img": "icons/environment/people/commoner.webp",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "catfolk-skills-id-1",
+        "identifier": "catfolk-skills",
+        "label": "Skill Bonus for Catfolk",
+        "predicate": {},
+        "priority": 1,
+        "value": "+1",
+        "skills": [
+          "finesse",
+          "stealth"
+        ]
+      }
+    ],
+    "description": "<p>Agile, graceful, and able to fall impossible distances without injury. Some say they have multiple lives, or perhaps some secret magic. They're usually preoccupied with finding the next sunbeam.</p><hr><p><strong>Feline Grace</strong></p><p>+1 Stealth and Finesse [A]</p><p>Ignore damage from falling or forced movement (1/Safe Rest).</p>",
+    "exotic": true,
+    "size": [
+      "small",
+      "medium"
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": "nimble",
+    "systemVersion": "0.1.7",
+    "createdTime": 1756448231080,
+    "modifiedTime": 1756448252427,
+    "lastModifiedBy": "krutz"
+  },
+  "_id": "catfolk-id-1"
+}
