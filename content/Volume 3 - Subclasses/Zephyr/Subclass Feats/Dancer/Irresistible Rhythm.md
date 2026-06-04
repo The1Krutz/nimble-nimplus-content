@@ -1,0 +1,1 @@
+When you move, all enemies Taunted or Charmed by you also move 3 spaces in a direction of your choice. This counts as voluntary movement and may provoke attacks of opportunity.

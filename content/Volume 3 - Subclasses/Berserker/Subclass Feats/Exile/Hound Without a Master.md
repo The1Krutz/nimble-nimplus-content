@@ -1,0 +1,1 @@
+While Raging, you gain double advantage on WIL saves and cannot be Charmed.

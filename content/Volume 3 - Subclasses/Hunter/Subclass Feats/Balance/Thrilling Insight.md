@@ -1,0 +1,1 @@
+Double any Thrill of the Hunt charges you get this turn (1/encounter).

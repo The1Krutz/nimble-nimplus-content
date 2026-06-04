@@ -1,0 +1,1 @@
+You may change your Radiant damage to Fire at will, and vice versa. Your weapon counts as your spellcasting focus, and your melee attacks against Smoldering enemies automatically crit, ending the condition.

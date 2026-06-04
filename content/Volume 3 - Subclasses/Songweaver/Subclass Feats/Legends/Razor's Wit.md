@@ -1,0 +1,1 @@
+If you would gain temp HP while your current amount is lower than LVL, you may combine the two amounts instead.

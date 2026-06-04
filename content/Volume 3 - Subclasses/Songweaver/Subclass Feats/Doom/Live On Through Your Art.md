@@ -1,0 +1,1 @@
+The first time each encounter you would drop to 0 HP, set your HP to 1 instead and transform into a ghostly apparition. While in this state, you cannot be healed, ignore all damage less than LVL, and Frighten all enemies within Reach 6. Ends after WIL turns, or you drop to 0 HP.

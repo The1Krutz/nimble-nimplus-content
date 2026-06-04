@@ -1,0 +1,1 @@
+When you attack an enemy, you may expend one of your Hit Dice and add it to the result.

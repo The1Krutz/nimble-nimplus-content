@@ -2,7 +2,7 @@
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
   "description": "<p>A content module for the Nimble RPG system. Provides additional content from the Nim+ zines.",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",
@@ -26,6 +26,50 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "nimplus-backgrounds",
+      "label": "Nim+ Backgrounds",
+      "path": "packs/backgrounds",
+      "type": "Item",
+      "system": "nimble",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "nimplus-class-features",
+      "label": "Nim+ Class Features",
+      "path": "packs/class-features",
+      "type": "Item",
+      "system": "nimble",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "nimplus-subclasses",
+      "label": "Nim+ Subclasses",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "system": "nimble",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "nimplus-magic-items",
+      "label": "Nim+ Magic Items",
+      "path": "packs/magic-items",
+      "type": "Item",
+      "system": "nimble",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -33,7 +77,11 @@
       "name": "Nim+ Content",
       "sorting": "m",
       "packs": [
-        "nimplus-ancestries"
+        "nimplus-ancestries",
+        "nimplus-backgrounds",
+        "nimplus-class-features",
+        "nimplus-magic-items",
+        "nimplus-subclasses"
       ]
     }
   ],

@@ -1,0 +1,1 @@
+After using Songweaver's Inspiration, you may expend one of your Hit Dice and add it to the chosen result. This may change the outcome.

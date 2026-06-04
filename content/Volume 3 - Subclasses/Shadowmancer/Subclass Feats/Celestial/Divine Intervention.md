@@ -1,0 +1,1 @@
+Reaction: Interpose for an ally with a shadow minion (minion must be within 2 spaces of your ally).

@@ -1,0 +1,1 @@
+Action: Target creature within Reach 6 becomes Slowed, or Restrained on a failed DEX save (DC 10+KEY). Linked creatures have disadvantage on the save.

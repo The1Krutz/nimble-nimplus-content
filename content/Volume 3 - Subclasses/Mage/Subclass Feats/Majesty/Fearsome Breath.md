@@ -1,0 +1,1 @@
+(Draconic Power) Action: Spend **X** Mana to deal **X**d6 damage of your chosen type in Cone 3. Half damage on a DEX save (DC 10+KEY). Applies Dragonmarked (counts as any condition for empowering spells, like Smoldering).

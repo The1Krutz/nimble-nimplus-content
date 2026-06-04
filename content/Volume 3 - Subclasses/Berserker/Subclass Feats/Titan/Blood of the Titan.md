@@ -1,0 +1,1 @@
+You grow one size category while Raging (up to Large). You can move freely through spaces with creatures smaller than you. You become able to Grapple creatures within Reach 2 while Raging.

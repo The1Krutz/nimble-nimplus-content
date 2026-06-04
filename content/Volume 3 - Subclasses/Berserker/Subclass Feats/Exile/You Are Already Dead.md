@@ -1,0 +1,1 @@
+When you crit an enemy, you may choose to deal no damage. If you do, that enemy takes twice that amount of damage at the end of its next turn (ignoring armor).

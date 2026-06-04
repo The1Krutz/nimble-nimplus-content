@@ -1,0 +1,1 @@
+Whenever you use Songweaver's Inspiration, you may grant 2×WIL temp HP to yourself or the target.

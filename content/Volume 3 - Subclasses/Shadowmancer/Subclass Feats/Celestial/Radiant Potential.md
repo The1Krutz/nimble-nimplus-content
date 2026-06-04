@@ -1,0 +1,1 @@
+Your Patron is a being of light, and grants you knowledge of Radiant spells. Your Shadow Blast and shadow minions deal either Radiant or Necrotic damage.

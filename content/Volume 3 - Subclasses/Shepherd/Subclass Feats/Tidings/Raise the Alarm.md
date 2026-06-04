@@ -1,0 +1,1 @@
+When you roll Initiative, you may spend 1 Mana per ally to grant them advantage on both Initiative and their first attack this encounter.

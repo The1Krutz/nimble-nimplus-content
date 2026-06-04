@@ -1,0 +1,1 @@
+Gain an aura with a Reach of 4. When you Defend against a melee attack, the attacker gains Smoldering.

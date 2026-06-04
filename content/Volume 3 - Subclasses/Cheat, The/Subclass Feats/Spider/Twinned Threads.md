@@ -1,0 +1,1 @@
+Action: Link two creatures within Range 6 with an ethereal web. When a Linked creature is dealt damage, other Linked creatures are dealt half that amount as Psychic damage (ignoring armor). You can only maintain one web at time.

@@ -1,0 +1,1 @@
+When you hit a Blinded enemy with Searing Light, they become Frightened of you until the end of their next turn and move 3 spaces in a random direction.

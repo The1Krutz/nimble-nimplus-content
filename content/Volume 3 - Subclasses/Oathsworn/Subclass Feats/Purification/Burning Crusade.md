@@ -1,0 +1,1 @@
+You and your allies within your aura gain KEY Fire damage and inflict Smoldering on crit. +2 aura Reach.

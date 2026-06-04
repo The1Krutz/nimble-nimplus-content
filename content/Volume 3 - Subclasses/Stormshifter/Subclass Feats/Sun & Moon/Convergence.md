@@ -1,0 +1,1 @@
+Action: Pull all enemies within Reach 3 adjacent to you and inflict Slowed.

@@ -1,0 +1,1 @@
+Action (after shifting Phases 4+ times): Enter Eclipse Phase until the end of the encounter. While in Eclipse Phase, you gain double the benefits of both Solar and Lunar Phase, and the ability to cast spells while in beastform.

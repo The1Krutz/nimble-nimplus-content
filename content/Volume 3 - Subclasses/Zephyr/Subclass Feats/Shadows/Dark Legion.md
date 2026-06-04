@@ -1,0 +1,1 @@
+Whenever you roll Initiative, you may conjure KEY Shades within Reach 2. Shades are ethereal and untargetable, and disappear at the end of the encounter. When you move, you may move your Shades up to half your Speed at the same time. 

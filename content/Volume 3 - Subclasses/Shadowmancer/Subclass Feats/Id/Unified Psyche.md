@@ -1,0 +1,1 @@
+(1/encounter) 2 actions: Dispel one of your shadow minions to teleport to the space it was on and make an attack for free (melee/ranged/cantrip). Ignores Rushed Attacks penalty. Repeat this for each of your shadow minions.

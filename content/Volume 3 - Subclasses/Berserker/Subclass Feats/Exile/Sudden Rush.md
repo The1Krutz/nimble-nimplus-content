@@ -1,0 +1,1 @@
+If you do not move during your turn, on your next turn you have double your normal Speed, and advantage on your first attack after moving.

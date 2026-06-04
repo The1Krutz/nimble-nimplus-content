@@ -1,0 +1,1 @@
+You and your allies within Reach 12 that can hear you gain WIL Psychic damage while having temp HP.

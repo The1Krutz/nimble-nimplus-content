@@ -1,0 +1,1 @@
+The first Signature cantrip you cast each encounter automatically rolls the highest possible result.

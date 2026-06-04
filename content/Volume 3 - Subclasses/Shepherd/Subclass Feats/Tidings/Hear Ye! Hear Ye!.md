@@ -1,0 +1,1 @@
+Your Lifebinding Spirit chimes like a bell, and your words carry an aura of importance when speaking in public. Searing Light becomes Toll the Hour.

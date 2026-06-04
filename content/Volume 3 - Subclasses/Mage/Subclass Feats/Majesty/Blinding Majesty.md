@@ -1,0 +1,1 @@
+(Draconic Power) When you unleash your draconic aspect, all enemies within Reach 3 become Blinded until the end of their next turn, and gain Dragonmarked.

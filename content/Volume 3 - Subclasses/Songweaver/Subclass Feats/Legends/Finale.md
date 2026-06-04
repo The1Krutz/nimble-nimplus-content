@@ -1,0 +1,1 @@
+(1/encounter) Action: Sacrifice all of your temp HP. Deal Psychic damage (ignoring armor) to an adjacent enemy equal to 3 times the amount sacrificed.

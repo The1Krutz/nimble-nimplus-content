@@ -1,0 +1,1 @@
+When you would break concentration, you don't (1/encounter).

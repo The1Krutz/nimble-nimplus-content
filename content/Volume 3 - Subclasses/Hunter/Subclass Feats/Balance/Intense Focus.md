@@ -1,0 +1,1 @@
+Exploding crits are rolled with advantage against your quarry, and you have advantage on all saves against your quarry.

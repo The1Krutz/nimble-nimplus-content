@@ -1,0 +1,1 @@
+Linked creatures now share full damage with other Linked creatures, and when one dies, the others become Dazed.
