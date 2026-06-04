@@ -18,7 +18,7 @@
         "speed": "@attributes.movement.walk"
       }
     ],
-    "description": "<p>half fish, half person, all badass</p>",
+    "description": "<p>The shallows are in your blood, moving with the rhythm of the sea — fluid and unbound. Though you might walk among those of the shore, the sea always beckons.</p><hr><p><strong>Tidal Grace</strong></p><p>You have a swim Speed, and you can breathe underwater [M]</p><p>Advantage on DEX saves in water, but disadvantage on dry land [A]</p><p>You can talk to creatures of the sea if your INT is not negative [M]</p>",
     "exotic": true,
     "size": [
       "medium"
@@ -39,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780579978219,
-    "modifiedTime": 1780579978219,
+    "modifiedTime": 1780590914645,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_id": "3y8KOpwZQHPLps07",
