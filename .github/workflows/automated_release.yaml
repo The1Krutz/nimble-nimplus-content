@@ -18,8 +18,8 @@ jobs:
       - name: Get module version
         id: read_json
         run: |
-          VALUE=$(jq -r '.version' module.json)
-          echo "version=v$VALUE" >> $env:GITHUB_OUTPUT
+          VERSION=$(jq -r '.version' module.json)
+          echo "version=v$VERSION" >> $GITHUB_OUTPUT
 
       - name: Create assets
         uses: vimtor/action-zip@v1.3
