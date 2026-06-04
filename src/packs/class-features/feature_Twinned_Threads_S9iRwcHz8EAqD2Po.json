@@ -41,9 +41,7 @@
     "group": "tools-of-the-spider",
     "subclass": true,
     "gainedAtLevel": 3,
-    "gainedAtLevels": [
-      3
-    ],
+    "gainedAtLevels": [3],
     "selectionCountByLevel": {}
   },
   "effects": [],

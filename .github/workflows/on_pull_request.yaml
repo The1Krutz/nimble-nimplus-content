@@ -1,16 +1,15 @@
-name: Create Release
+name: PR Checks
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    branches: ['**']
 
 permissions:
   contents: write
 
 jobs:
-  create-release:
-    name: Create Release
+  pr-build:
+    name: Pr Checks
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,6 +22,9 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Check format
+        run: npm run format:check
 
       - name: Get module version
         id: read_json
@@ -39,9 +41,10 @@ jobs:
           zip -r module.zip assets/ lang/ packs/ module.json LICENSE README.md
 
       # https://github.com/softprops/action-gh-release
-      - name: Release
+      - name: Draft release
         uses: softprops/action-gh-release@v3
         with:
+          draft: true
           tag_name: ${{ steps.read_json.outputs.version }}
           generate_release_notes: true
           files: |
