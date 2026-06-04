@@ -2,7 +2,7 @@
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
   "description": "<p>A content module for the Nimble RPG system. Provides additional content from the Nim+ zines.</p><p>(<a href=\"https://santuric.itch.io/\">available for download here</a>)</p>",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",
