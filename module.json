@@ -2,7 +2,7 @@
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
   "description": "A content module for the Nimble RPG system. Provides additional content from the Nim+ zines",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",
@@ -19,7 +19,7 @@
       "name": "ancestries",
       "label": "Nim+ Ancestries",
       "path": "packs/ancestries/nimplus",
-      "type": "Ancestry",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -39,8 +39,8 @@
     }
   ],
   "url": "https://github.com/The1Krutz/nimble-nimplus-content",
-  "manifest": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.3/module.json",
-  "download": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.3/module.zip",
+  "manifest": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.4/module.json",
+  "download": "https://github.com/The1Krutz/nimble-nimplus-content/releases/download/v0.0.4/module.zip",
   "license": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/LICENSE",
   "readme": "https://github.com/The1Krutz/nimble-nimplus-content/blob/main/README.md",
   "bugs": "https://github.com/The1Krutz/nimble-nimplus-content/issues/new"
