@@ -1,0 +1,48 @@
+name: PR Checks
+
+on:
+  pull_request:
+    branches: ['**']
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check format
+        run: npm run format:check
+
+      - name: Get module version
+        id: read_json
+        run: |
+          VERSION=$(jq -r '.version' module.json)
+          echo "version=v$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Pack json into ldb
+        run: |
+          npm run packLDB
+
+      - name: Create assets
+        run: |
+          zip -r module.zip assets/ lang/ packs/ module.json LICENSE README.md
+
+      # https://github.com/softprops/action-gh-release
+      - name: Release
+        uses: softprops/action-gh-release@v3
+        with:
+          draft: true
+          tag_name: ${{ steps.read_json.outputs.version }}
+          generate_release_notes: true
+          files: |
+            module.zip
+            module.json
