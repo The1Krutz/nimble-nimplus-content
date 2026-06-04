@@ -19,7 +19,7 @@ jobs:
         id: read_json
         run: |
           VALUE=$(jq -r '.version' module.json)
-          echo "version=$VALUE" >> $env:GITHUB_OUTPUT
+          echo "version=v$VALUE" >> $env:GITHUB_OUTPUT
 
       - name: Create assets
         uses: vimtor/action-zip@v1.3
@@ -37,7 +37,7 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           draft: true # for debugging, remove later
-          tag_name: "v${{ steps.read_json.outputs.version }}"
+          tag_name: ${{ steps.read_json.outputs.version }}
           generate_release_notes: true
           files: |
             module.zip
