@@ -9,7 +9,7 @@
       {
         "type": "skillBonus",
         "disabled": false,
-        "id": "gMJvC5XPYlun1NT3",
+        "id": "catfolk-skills-id-1",
         "identifier": "catfolk-skills",
         "label": "Skill Bonus for Catfolk",
         "predicate": {},
@@ -37,7 +37,7 @@
     "systemVersion": "0.1.7",
     "createdTime": 1756448231080,
     "modifiedTime": 1756448252427,
-    "lastModifiedBy": "zvcmZ9cAKxekqF5X"
+    "lastModifiedBy": "krutz"
   },
-  "_id": "11SKfGVV3ZWHquUb"
+  "_id": "catfolk-id-1"
 }
