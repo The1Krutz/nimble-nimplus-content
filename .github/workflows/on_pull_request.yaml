@@ -8,7 +8,8 @@ permissions:
   contents: write
 
 jobs:
-  create-release:
+  pr-build:
+    name: Pr Checks
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -40,7 +41,7 @@ jobs:
           zip -r module.zip assets/ lang/ packs/ module.json LICENSE README.md
 
       # https://github.com/softprops/action-gh-release
-      - name: Release
+      - name: Draft release
         uses: softprops/action-gh-release@v3
         with:
           draft: true
