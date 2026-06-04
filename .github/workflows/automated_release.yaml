@@ -29,10 +29,8 @@ jobs:
 
       - name: Release
         uses: softprops/action-gh-release@v3
-        if: github.ref_type == 'tag'
         with:
           generate_release_notes: true
-          prerelease: true
           files: |
             module.zip
             module.json
