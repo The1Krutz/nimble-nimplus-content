@@ -1,7 +1,7 @@
 {
   "name": "Tidewalker",
   "type": "ancestry",
-  "img": "icons/svg/waterfall.svg",
+  "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
@@ -39,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780579978219,
-    "modifiedTime": 1780590914645,
+    "modifiedTime": 1780594434281,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_id": "3y8KOpwZQHPLps07",

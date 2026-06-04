@@ -1,0 +1,36 @@
+{
+  "name": "Lupid",
+  "type": "ancestry",
+  "_id": "6BVxe0ny7X0EZpsx",
+  "img": "icons/svg/barrel.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "description": "",
+    "exotic": true,
+    "size": [
+      "medium"
+  ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.6",
+    "createdTime": 1780594521495,
+    "modifiedTime": 1780594521495,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!6BVxe0ny7X0EZpsx"
+}

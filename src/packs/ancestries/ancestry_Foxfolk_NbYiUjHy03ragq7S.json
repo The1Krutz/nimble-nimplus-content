@@ -1,16 +1,15 @@
 {
-  "name": "Catfolk",
+  "name": "Foxfolk",
   "type": "ancestry",
-  "_id": "qaWpmJeCCtP3EGc0",
+  "_id": "NbYiUjHy03ragq7S",
   "img": "icons/svg/barrel.svg",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p>Agile, graceful, and able to fall impossible distances without injury. Some say they have multiple lives, or perhaps some secret magic. They're usually preoccupied with finding the next sunbeam.</p><hr><p><strong>Feline Grace</strong></p><p>+1 Stealth and Finesse. [A]</p><p>Ignore damage from falling or forced movement (1/Safe Rest). [A]</p>",
+    "description": "",
     "exotic": true,
     "size": [
-      "small",
       "medium"
     ]
   },
@@ -29,9 +28,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.6",
-    "createdTime": 1780593169781,
-    "modifiedTime": 1780594658893,
+    "createdTime": 1780594500515,
+    "modifiedTime": 1780594500515,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!qaWpmJeCCtP3EGc0"
+  "_key": "!items!NbYiUjHy03ragq7S"
 }
