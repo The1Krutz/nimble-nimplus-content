@@ -1,8 +1,8 @@
 Rare Cloth Armor
 
-*Checkered with eye-searingly bright colors.*
+_Checkered with eye-searingly bright colors._
 
 DEX+Influence Armor.
 Most people probably won't take you seriously.
 
-*(by The Pebble)*
+_(by The Pebble)_

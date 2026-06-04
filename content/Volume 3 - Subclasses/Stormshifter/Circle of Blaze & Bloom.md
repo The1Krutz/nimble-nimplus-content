@@ -1,6 +1,6 @@
-*Nature must take its course for new life to emerge.*
+_Nature must take its course for new life to emerge._
 
-*(by Charles and Jeannine Archibald)*
+_(by Charles and Jeannine Archibald)_
 
 ---
 

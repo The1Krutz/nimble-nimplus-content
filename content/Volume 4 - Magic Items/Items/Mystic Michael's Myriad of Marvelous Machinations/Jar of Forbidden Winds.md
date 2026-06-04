@@ -1,8 +1,8 @@
 Uncommon Container
 
-*White clay jar with a cobalt trim.*
+_White clay jar with a cobalt trim._
 
 Cast Blustery Gale for free when opened (1 use).
-Makes a horribly rude noise. 
+Makes a horribly rude noise.
 
-*(by Santuric)*
+_(by Santuric)_

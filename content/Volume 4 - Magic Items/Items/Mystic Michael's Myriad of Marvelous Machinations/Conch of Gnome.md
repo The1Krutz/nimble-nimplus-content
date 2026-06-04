@@ -1,7 +1,7 @@
 Common Shell
 
-*Sizable conch with an elaborate spiral.*
+_Sizable conch with an elaborate spiral._
 
 Echoes words spoken into it back in high-pitched Gnomish.
 
-*(by Santuric)*
+_(by Santuric)_

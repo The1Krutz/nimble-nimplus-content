@@ -1,8 +1,8 @@
 Uncommon Sling
 
-*Leather sling, stained red.*
+_Leather sling, stained red._
 
 1d4+DEX Bludgeoning. 2-handed, Range 8.
 Projectiles turn into overripe tomatoes.
 
-*(by Santuric)*
+_(by Santuric)_

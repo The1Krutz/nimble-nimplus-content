@@ -1,6 +1,6 @@
-*There is nothing quite like the spider's deadly elegance.*
+_There is nothing quite like the spider's deadly elegance._
 
-*(by MaleficMist)*
+_(by MaleficMist)_
 
 ---
 

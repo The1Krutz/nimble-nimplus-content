@@ -1,6 +1,6 @@
-*Fear not the dark, for I am your guide.*
+_Fear not the dark, for I am your guide._
 
-*(by DanDraco)*
+_(by DanDraco)_
 
 ---
 

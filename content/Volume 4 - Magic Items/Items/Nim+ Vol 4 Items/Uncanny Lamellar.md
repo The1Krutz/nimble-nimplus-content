@@ -1,8 +1,8 @@
 Rare Leather Armor
 
-*You'll feel like you can dodge an explosion in this.*
+_You'll feel like you can dodge an explosion in this._
 
 5+DEX Armor.
 Grants advantage on DEX saves against AoE effects.
 
-*(by Santuric)*
+_(by Santuric)_

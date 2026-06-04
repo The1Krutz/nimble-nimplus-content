@@ -1,7 +1,7 @@
 Legendary Figurine
 
-*Small figurine of a fish.*
+_Small figurine of a fish._
 
 Feels very important for some reason.
 
-*(by Santuric)*
+_(by Santuric)_

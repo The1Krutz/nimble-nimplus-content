@@ -1,3 +1,3 @@
-You never believed what your ancestor said about overconfidence anyways. +2 max HP per level. +2 Defense. Attacks *never* miss you.
+You never believed what your ancestor said about overconfidence anyways. +2 max HP per level. +2 Defense. Attacks _never_ miss you.
 
-*(by Kazok the Goblin, SanityWithIn)*
+_(by Kazok the Goblin, SanityWithIn)_

@@ -1,6 +1,6 @@
-*Show them what it means to mess with someone not their own size.*
+_Show them what it means to mess with someone not their own size._
 
-*(by Squeekie)*
+_(by Squeekie)_
 
 ---
 

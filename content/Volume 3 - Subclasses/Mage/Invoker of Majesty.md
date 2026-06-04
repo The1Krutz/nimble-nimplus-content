@@ -1,7 +1,7 @@
-*The Majesty of Dragons is sought by many.*
-*Enticing, elusive, exquisite.*
+_The Majesty of Dragons is sought by many._
+_Enticing, elusive, exquisite._
 
-*(by DanDraco)*
+_(by DanDraco)_
 
 ---
 

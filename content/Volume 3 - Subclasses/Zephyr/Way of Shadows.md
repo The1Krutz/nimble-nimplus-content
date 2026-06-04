@@ -1,6 +1,6 @@
-*The shadows are a source of strength for those willing to recognize it within themselves.*
+_The shadows are a source of strength for those willing to recognize it within themselves._
 
-*(by AJ)*
+_(by AJ)_
 
 ---
 

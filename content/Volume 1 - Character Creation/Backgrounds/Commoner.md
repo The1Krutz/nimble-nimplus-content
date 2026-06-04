@@ -1,3 +1,3 @@
 You're a nobody. People seem to overlook you both in and out of combat, at least until they see you attack something or perform some notable act.
 
-*(by Plot-Relevant Commoner)*
+_(by Plot-Relevant Commoner)_

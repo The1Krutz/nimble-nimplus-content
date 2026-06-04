@@ -1,7 +1,7 @@
 Common Scroll
 
-*Written on genuine AuthentoParchment (tm).*
+_Written on genuine AuthentoParchment (tm)._
 
 Cures blindness when read.
 
-*(by Santuric)*
+_(by Santuric)_

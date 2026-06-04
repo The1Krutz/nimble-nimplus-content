@@ -1,7 +1,7 @@
 Common Container
 
-*Pyramid-shaped puzzlebox.*
+_Pyramid-shaped puzzlebox._
 
 Surely there's something cool inside, if only you could figure out the right combination.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,7 +1,7 @@
 Rare Sandals
 
-*Lightweight footwear for the nimble folks.*
+_Lightweight footwear for the nimble folks._
 
 **Sidestep.** Defend for free using DEX+Speed instead of your Armor (1/encounter).
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

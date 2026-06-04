@@ -1,8 +1,8 @@
 Uncommon Knife
 
-*Sized for halfling hands.*
+_Sized for halfling hands._
 
 Automatically whittles wooden crafts.
 Must be told what to produce, otherwise it will make spoons.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,7 +1,7 @@
 Common Trick-Coin
 
-*Small, worn copper coin.*
+_Small, worn copper coin._
 
 Always comes up heads when flipped.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,8 +1,8 @@
 Common Cloth Armor
 
-*Comfortable dress with pockets. Claimed by some to be a myth.*
+_Comfortable dress with pockets. Claimed by some to be a myth._
 
 2+DEX Armor.
 +2 inventory slots.
 
-*(by The Pebble)*
+_(by The Pebble)_

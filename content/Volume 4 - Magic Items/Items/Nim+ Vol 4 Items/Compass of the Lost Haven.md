@@ -1,8 +1,8 @@
 Rare Cursed Compass
 
-*Encased in cold iron.*
+_Encased in cold iron._
 
-Points towards a safe place to rest while held and recalling memories of home. 
+Points towards a safe place to rest while held and recalling memories of home.
 DC 14 WIL save or permanently lose that memory.
 
-*(by Floppy)*
+_(by Floppy)_

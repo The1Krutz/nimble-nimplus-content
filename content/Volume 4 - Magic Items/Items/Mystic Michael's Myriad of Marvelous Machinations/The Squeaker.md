@@ -1,7 +1,7 @@
 Common Toy Bat
 
-*Multicolored and squeaky.*
+_Multicolored and squeaky._
 
 Harmless, but deals 1 Psychic damage from the humiliation.
 
-*(by Santuric)*
+_(by Santuric)_

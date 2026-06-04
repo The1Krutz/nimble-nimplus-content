@@ -1,7 +1,7 @@
 Uncommon Staff
 
-*Small chimes dangle from the top.*
+_Small chimes dangle from the top._
 
 Grants the ability to command a common farm animal (1/day).
 
-*(by Santuric)*
+_(by Santuric)_

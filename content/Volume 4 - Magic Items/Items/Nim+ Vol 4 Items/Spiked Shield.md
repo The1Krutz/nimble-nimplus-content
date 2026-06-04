@@ -1,8 +1,8 @@
 Uncommon Shield
 
-*Youch!*
+_Youch!_
 
 2 Armor.
 Usable as a melee weapon (1d4+STR Piercing).
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

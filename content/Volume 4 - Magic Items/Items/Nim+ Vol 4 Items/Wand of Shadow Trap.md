@@ -1,8 +1,8 @@
 Rare Wand
 
-*It's time to duel.*
+_It's time to duel._
 
 Tier 1 (2 charges)
 Recharge: Win a game of cards against an infernal being.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

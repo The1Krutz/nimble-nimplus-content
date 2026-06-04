@@ -1,7 +1,7 @@
-*A fork. A deck of cards. A rotten tomato.*
-*Anything can be a lethal weapon.*
+_A fork. A deck of cards. A rotten tomato._
+_Anything can be a lethal weapon._
 
-*(by Blue, SanityWithIn)*
+_(by Blue, SanityWithIn)_
 
 ---
 

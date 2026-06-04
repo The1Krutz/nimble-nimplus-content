@@ -1,6 +1,6 @@
 Hear all about it!
 
-*(by Trex)*
+_(by Trex)_
 
 ---
 

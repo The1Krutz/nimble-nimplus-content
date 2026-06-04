@@ -1,7 +1,7 @@
 Rare Pouch of Seeds
 
-*Three fragrant seeds in a linen pouch.*
+_Three fragrant seeds in a linen pouch._
 
 Swiftly grows into a peaceful oasis when planted. Attracts nearby animals. Lasts 24 hours.
 
-*(by Can Opener)*
+_(by Can Opener)_

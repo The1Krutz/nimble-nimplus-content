@@ -1,7 +1,7 @@
 Rare Poncho
 
-*Patterned cloth with a peculiar amount of holes.*
+_Patterned cloth with a peculiar amount of holes._
 
 **Evasive Flourish.** Reaction: Dodge a ranged attack, then move up to half your Speed (1/encounter).
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

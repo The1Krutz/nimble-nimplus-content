@@ -1,7 +1,7 @@
 Uncommon Container
 
-*For the hero-on-the-go.*
+_For the hero-on-the-go._
 
 Keeps liquid at exactly the same temperature while sealed.
 
-*(by Santuric)*
+_(by Santuric)_

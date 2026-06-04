@@ -1,7 +1,7 @@
 Common Pepper
 
-*Doesn't look **that** spicy.*
+_Doesn't look **that** spicy._
 
 Makes your breath flammable.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,8 +1,8 @@
-*Focus in exile.*
-*Fury honed to a keen edge.*
-*A masterless hound.*
+_Focus in exile._
+_Fury honed to a keen edge._
+_A masterless hound._
 
-*(by Kazok the Goblin)*
+_(by Kazok the Goblin)_
 
 ---
 

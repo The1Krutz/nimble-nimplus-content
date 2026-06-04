@@ -1,7 +1,7 @@
 Rare Eyepatch
 
-*Stained with the brine of many voyages at sea.*
+_Stained with the brine of many voyages at sea._
 
 Grants advantage on skill checks related to detecting lies and falsehoods.
 
-*(by CheschireCat)*
+_(by CheschireCat)_

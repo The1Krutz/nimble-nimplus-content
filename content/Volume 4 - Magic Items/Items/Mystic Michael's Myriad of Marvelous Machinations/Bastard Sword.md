@@ -1,8 +1,8 @@
 Uncommon Cursed Shortsword
 
-*Please go outside before unsheathing.*
+_Please go outside before unsheathing._
 
 1d6+DEX Piercing. Light.
 Constantly berates the wielder while drawn.
 
-*(by Santuric)*
+_(by Santuric)_

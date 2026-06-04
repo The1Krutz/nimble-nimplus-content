@@ -1,7 +1,7 @@
 Uncommon Charm
 
-*Inscribed with the constellation of the Beard.*
+_Inscribed with the constellation of the Beard._
 
 Grants advantage on any skill check (1/Safe Rest).
 
-*(by Uruzrune)*
+_(by Uruzrune)_

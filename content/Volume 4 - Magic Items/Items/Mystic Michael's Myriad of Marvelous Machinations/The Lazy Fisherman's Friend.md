@@ -1,7 +1,7 @@
 Uncommon Tool
 
-*Sturdy bone fishhook.*
+_Sturdy bone fishhook._
 
 Automatically seeks out fish to catch when cast into the water.
 
-*(by Santuric)*
+_(by Santuric)_

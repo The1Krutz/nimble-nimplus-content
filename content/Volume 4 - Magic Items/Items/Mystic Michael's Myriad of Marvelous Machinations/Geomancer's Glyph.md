@@ -1,7 +1,7 @@
 Uncommon Device
 
-*Stone tablet with an arcane sigil.*
+_Stone tablet with an arcane sigil._
 
 Shows your depth underground and grants advantage when Examining gems and minerals.
 
-*(by Santuric)*
+_(by Santuric)_

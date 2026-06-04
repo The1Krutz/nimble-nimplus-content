@@ -1,7 +1,7 @@
 Common Construct
 
-*Sturdy paper with embellished margins.*
+_Sturdy paper with embellished margins._
 
 When folded and thrown, delivers a message to a recipient within 10 kilometers.
 
-*(by Santuric)*
+_(by Santuric)_

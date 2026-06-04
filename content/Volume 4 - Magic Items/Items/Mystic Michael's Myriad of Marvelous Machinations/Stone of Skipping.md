@@ -1,8 +1,8 @@
 Common Stone
 
-*Smooth, flat stone.*
+_Smooth, flat stone._
 
 Always skips across water.
 Reappears in your pocket shortly after being thrown.
 
-*(by Santuric)*
+_(by Santuric)_

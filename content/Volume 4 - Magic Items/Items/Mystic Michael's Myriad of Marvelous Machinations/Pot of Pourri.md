@@ -1,7 +1,7 @@
 Common Decoration
 
-*Red clay pot, engraved with black runes and filled with soil.*
+_Red clay pot, engraved with black runes and filled with soil._
 
-Sprouts a small, fragrant plant at dawn that withers at sunset. 
+Sprouts a small, fragrant plant at dawn that withers at sunset.
 
-*(by Santuric)*
+_(by Santuric)_

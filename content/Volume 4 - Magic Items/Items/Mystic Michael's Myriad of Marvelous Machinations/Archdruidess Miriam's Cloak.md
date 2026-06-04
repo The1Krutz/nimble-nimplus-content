@@ -1,7 +1,7 @@
 Legendary Cloak
 
-*Made of living moss and roots.*
+_Made of living moss and roots._
 
 Grants the ability to speak to all living flora.
 
-*(by Santuric)*
+_(by Santuric)_

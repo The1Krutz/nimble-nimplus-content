@@ -1,7 +1,7 @@
 Uncommon Enchantment
 
-*A classic among adventurers.*
+_A classic among adventurers._
 
 Changes the damage type of the enchanted weapon to elemental damage (Fire, Lightning or Ice).
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

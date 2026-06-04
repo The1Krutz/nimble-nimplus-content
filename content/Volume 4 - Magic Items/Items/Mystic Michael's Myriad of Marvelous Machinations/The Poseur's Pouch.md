@@ -1,7 +1,7 @@
 Common Container
 
-*Leather coin pouch with a red yarn string.*
+_Leather coin pouch with a red yarn string._
 
 Always appears to be full of coins, even if empty.
 
-*(by Santuric)*
+_(by Santuric)_

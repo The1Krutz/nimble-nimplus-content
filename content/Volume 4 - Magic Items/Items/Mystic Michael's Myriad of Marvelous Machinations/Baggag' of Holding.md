@@ -1,8 +1,8 @@
 Rare Construct
 
-*Wooden marionette. Only ever says "Baggag'?"*
+_Wooden marionette. Only ever says "Baggag'?"_
 
 Carries any reasonably sized item.
 Follows basic commands, but won't be pleased about it.
 
-*(by Santuric)*
+_(by Santuric)_

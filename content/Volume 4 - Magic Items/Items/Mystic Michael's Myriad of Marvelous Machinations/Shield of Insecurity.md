@@ -1,8 +1,8 @@
 Common Shield
 
-*Polished to a mirror finish.*
+_Polished to a mirror finish._
 
 2 Armor.
 Shows all reflections as warped and ugly.
 
-*(by Santuric)*
+_(by Santuric)_

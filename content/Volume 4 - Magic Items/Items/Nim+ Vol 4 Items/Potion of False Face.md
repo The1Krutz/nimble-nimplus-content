@@ -1,8 +1,8 @@
 Rare Potion
 
-*Vial of thick, disgusting goo.*
+_Vial of thick, disgusting goo._
 
 Grants the effects of False Face for 1 hour.
 Must be mixed with a piece of the target.
 
-*(by Santuric)*
+_(by Santuric)_

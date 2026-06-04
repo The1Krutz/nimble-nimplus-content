@@ -1,8 +1,8 @@
 Uncommon Shovel
 
-*"Watch out below!"*
+_"Watch out below!"_
 
 1d6+STR Bludgeoning.
 Automatically crits while falling.
 
-*(by Santuric)*
+_(by Santuric)_

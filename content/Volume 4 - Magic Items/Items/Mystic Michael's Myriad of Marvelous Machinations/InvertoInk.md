@@ -1,7 +1,7 @@
 Common Ink
 
-*Bottle of clear ink.*
+_Bottle of clear ink._
 
 Used to write invisible messages that glow in the dark.
 
-*(by Santuric)*
+_(by Santuric)_

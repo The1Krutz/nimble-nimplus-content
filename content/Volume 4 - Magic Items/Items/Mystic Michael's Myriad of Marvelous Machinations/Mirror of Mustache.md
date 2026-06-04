@@ -1,7 +1,7 @@
 Common Mirror
 
-*Dapper silver mirror.*
+_Dapper silver mirror._
 
 Gives your reflection a luxurious mustache.
 
-*(by Santuric)*
+_(by Santuric)_

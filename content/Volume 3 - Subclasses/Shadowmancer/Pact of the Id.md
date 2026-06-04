@@ -1,7 +1,7 @@
-*Power extrinsic makes you a slave to another.*
-*Power intrinsic makes you a slave to yourself.*
+_Power extrinsic makes you a slave to another._
+_Power intrinsic makes you a slave to yourself._
 
-*(by Khan Wick)*
+_(by Khan Wick)_
 
 ---
 

@@ -1,7 +1,7 @@
 Common Tool
 
-*Ordinary rock tied to a string.*
+_Ordinary rock tied to a string._
 
 Detects when it has been rained on by turning wet.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,7 +1,7 @@
 Uncommon Boots
 
-*Supple leather boots with well-worn soles.*
+_Supple leather boots with well-worn soles._
 
 After you Defend, you may move up to 2 spaces for free.
 
-*(by DanDraco)*
+_(by DanDraco)_

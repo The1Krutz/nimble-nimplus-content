@@ -1,6 +1,6 @@
-*Follow my orders, and together we shall march towards victory.*
+_Follow my orders, and together we shall march towards victory._
 
-*(by Santuric)*
+_(by Santuric)_
 
 ---
 

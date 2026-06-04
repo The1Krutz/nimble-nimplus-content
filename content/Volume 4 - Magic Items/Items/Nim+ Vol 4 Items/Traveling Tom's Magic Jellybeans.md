@@ -1,8 +1,9 @@
 Uncommon Candy
 
-*Pouch of 5 magic jellybeans. You never know what you're going to get until you bite it!*
+_Pouch of 5 magic jellybeans. You never know what you're going to get until you bite it!_
 
 Roll 1d8:
+
 1. **Green Bean.** Spit onto any surface. Grows into a stable, 1-space large platform. Dissolves into green goo after 10 minutes.
 2. **Yellow Bean.** Chew to gain the effects of Feather Fall for 1 minute. Afterwards you spit up yellow goo.
 3. **Blue Bean.** Spit out to cover a 2×2 area with blue goo for 10 minutes. Doubles jumping range and height when bounced on.
@@ -12,4 +13,4 @@ Roll 1d8:
 7. **Black Bean.** Spit onto any surface. Grows into a climbable pillar up to 5 meters tall. Dissolves into black goo after 10 minutes.
 8. **White Bean.** Chew to become adhesive for 1 minute, gaining the ability to climb most surfaces. Afterwards you spit up white goo.
 
-*(by Maliloki)*
+_(by Maliloki)_

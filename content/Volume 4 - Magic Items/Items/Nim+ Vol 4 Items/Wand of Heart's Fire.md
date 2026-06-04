@@ -1,8 +1,8 @@
 Uncommon Wand
 
-*Buzzing with joyful memories.*
+_Buzzing with joyful memories._
 
 Cantrip (3 charges)
 Recharge: Throw a party for your friends.
 
-*(by CheschireCat)*
+_(by CheschireCat)_

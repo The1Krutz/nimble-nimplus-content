@@ -1,7 +1,7 @@
 Common Book
 
-*Heavily bookmarked tome.* 
+_Heavily bookmarked tome._
 
 Full of delicious recipes from all over the world.
 
-*(by Santuric)*
+_(by Santuric)_

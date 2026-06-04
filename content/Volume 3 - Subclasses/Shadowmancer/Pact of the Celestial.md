@@ -1,7 +1,7 @@
-*Redemption cannot be given,*
-*only the opportunity to grasp it.*
+_Redemption cannot be given,_
+_only the opportunity to grasp it._
 
-*(by Can Opener)*
+_(by Can Opener)_
 
 ---
 

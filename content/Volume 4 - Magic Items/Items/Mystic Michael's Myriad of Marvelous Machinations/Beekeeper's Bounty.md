@@ -1,7 +1,7 @@
 Common Ring
 
-*Very sticky.*
+_Very sticky._
 
 Weeps sweet nectar and attracts nearby insects.
 
-*(by Santuric)*
+_(by Santuric)_

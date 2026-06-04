@@ -1,7 +1,7 @@
 Uncommon Pipe
 
-*Elaborately carved pipe with a long stem.*
+_Elaborately carved pipe with a long stem._
 
 Grants the ability to blow elaborate and impossible smoke-shapes.
 
-*(by Santuric)*
+_(by Santuric)_

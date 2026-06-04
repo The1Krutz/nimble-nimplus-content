@@ -1,7 +1,7 @@
-*Even the fiercest of prey is weak in isolation,*
-*while the pack has strength in numbers.*
+_Even the fiercest of prey is weak in isolation,_
+_while the pack has strength in numbers._
 
-*(by Santuric)*
+_(by Santuric)_
 
 ---
 

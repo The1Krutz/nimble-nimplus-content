@@ -1,7 +1,7 @@
-*Heroes. Champions. Legends!*
-*Their examples inspire us to greatness.*
+_Heroes. Champions. Legends!_
+_Their examples inspire us to greatness._
 
-*(by AJ)*
+_(by AJ)_
 
 ---
 

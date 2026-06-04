@@ -1,8 +1,8 @@
 Uncommon Potion
 
-*Vial of green, viscous liquid.*
+_Vial of green, viscous liquid._
 
 Grants the ability to speak with animals for 1 hour.
 You cannot speak any other language meanwhile.
 
-*(by Can Opener)*
+_(by Can Opener)_
