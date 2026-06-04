@@ -32,12 +32,21 @@
   "folder": null,
   "flags": {},
   "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "nimble-content-creation-zone",
+      "uuid": "Item.zt2VkGZTAGuuiQzM",
+      "coreVersion": "13.351",
+      "systemId": "nimble",
+      "systemVersion": "0.8.6"
+    },
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.6",
-    "createdTime": 1780546238334,
-    "modifiedTime": 1780546238334,
-    "lastModifiedBy": "nnZCiXaayzgDqnpf"
+    "createdTime": 1780546927593,
+    "modifiedTime": 1780547059806,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
     "default": 0
