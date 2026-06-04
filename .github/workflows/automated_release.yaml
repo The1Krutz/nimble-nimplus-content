@@ -13,12 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Get module version
         id: read_json
         run: |
-          # Extract property 'version' from module.json and save it to GITHUB_OUTPUT
           VALUE=$(jq -r '.version' module.json)
           echo "version=$VALUE" >> $env:GITHUB_OUTPUT
 
@@ -38,7 +37,7 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           draft: true # for debugging, remove later
-          tag_name: v${{ steps.read_json.outputs.version }}
+          tag_name: "v${{ steps.read_json.outputs.version }}"
           generate_release_notes: true
           files: |
             module.zip
