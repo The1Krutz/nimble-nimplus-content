@@ -9,9 +9,7 @@
     "rules": [],
     "description": "",
     "exotic": true,
-    "size": [
-      "small"
-    ]
+    "size": ["small"]
   },
   "effects": [],
   "folder": null,
