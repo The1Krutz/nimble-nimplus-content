@@ -34,13 +34,6 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "exportSource": {
-      "worldId": "nimble-content-creation-zone",
-      "uuid": "Item.zt2VkGZTAGuuiQzM",
-      "coreVersion": "13.351",
-      "systemId": "nimble",
-      "systemVersion": "0.8.6"
-    },
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.6",
