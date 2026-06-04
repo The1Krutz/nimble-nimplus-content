@@ -17,7 +17,7 @@
   ],
   "packs": [
     {
-      "name": "ancestries",
+      "name": "nimplus-ancestries",
       "label": "Nim+ Ancestries",
       "path": "packs/ancestries/nimplus",
       "type": "Item",
