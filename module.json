@@ -2,7 +2,7 @@
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
   "description": "<p>A content module for the Nimble RPG system. Provides additional content from the Nim+ zines.",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",

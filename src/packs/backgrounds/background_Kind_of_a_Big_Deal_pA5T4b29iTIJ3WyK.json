@@ -7,7 +7,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p>You're obviously _much_ more important than the average person. You're also able to skip queues... Sometimes. Your allies can Interpose for you for free (1/encounter).</p>"
+    "description": "<p>You're obviously <em>much</em> more important than the average person. You're also able to skip queues... Sometimes. Your allies can Interpose for you for free (1/encounter).</p>"
   },
   "effects": [],
   "folder": null,
@@ -25,8 +25,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276561412,
-    "modifiedTime": 1782277016865,
-    "lastModifiedBy": "h42CcTzyU22SgcaA"
+    "modifiedTime": 1782307667393,
+    "lastModifiedBy": "nnZCiXaayzgDqnpf"
   },
   "_key": "!items!pA5T4b29iTIJ3WyK"
 }

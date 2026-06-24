@@ -6,7 +6,29 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "speedBonus",
+        "disabled": false,
+        "id": "TcMfHWI4BLGr11hh",
+        "identifier": "",
+        "label": "Haunted by Nightmares",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "movementType": null
+      },
+      {
+        "type": "initiativeBonus",
+        "disabled": false,
+        "id": "jVqd5Ipzkz999QSa",
+        "identifier": "",
+        "label": "Haunted by Nightmares",
+        "predicate": {},
+        "priority": 1,
+        "value": "1"
+      }
+    ],
     "description": "<p>You always fail saves against Frightened.</p><hr><p>+1 Speed and Initiative.</p>"
   },
   "effects": [],
@@ -25,7 +47,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276603479,
-    "modifiedTime": 1782276966861,
+    "modifiedTime": 1782334086693,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!83c0tPSMV7r5V0Pc"

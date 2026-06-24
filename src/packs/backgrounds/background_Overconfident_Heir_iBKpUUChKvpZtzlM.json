@@ -6,8 +6,31 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
-    "description": "<p>You never believed what your ancestor said about overconfidence anyways. Attacks _never_ miss you.</p><hr><p>+2 max HP per level.</p><p>+2 Armor.</p>"
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "V6nLRTTCArCjEQOG",
+        "identifier": "",
+        "label": "Overconfident Heir",
+        "predicate": {},
+        "priority": 1,
+        "formula": "2",
+        "mode": "add"
+      },
+      {
+        "type": "maxHpBonus",
+        "disabled": false,
+        "id": "C3xZmaj8gVgVPQk3",
+        "identifier": "",
+        "label": "Overconfident Heir",
+        "predicate": {},
+        "priority": 1,
+        "value": 2,
+        "perLevel": true
+      }
+    ],
+    "description": "<p>You never believed what your ancestor said about overconfidence anyways. Attacks <em>never</em> miss you.</p><hr><p>+2 max HP per level.</p><p>+2 Armor.</p>"
   },
   "effects": [],
   "folder": null,
@@ -25,7 +48,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276565743,
-    "modifiedTime": 1782277055131,
+    "modifiedTime": 1782333931021,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!iBKpUUChKvpZtzlM"
