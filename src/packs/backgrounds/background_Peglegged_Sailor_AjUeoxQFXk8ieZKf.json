@@ -6,7 +6,30 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "speedBonus",
+        "disabled": false,
+        "id": "Kjcyug2ZuMHZrNPW",
+        "identifier": "",
+        "label": "Peglegged Sailor",
+        "predicate": {},
+        "priority": 1,
+        "value": "-1",
+        "movementType": null
+      },
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "X5RXozwgmBoLZ2mP",
+        "identifier": "",
+        "label": "Peglegged Sailor",
+        "predicate": {},
+        "priority": 1,
+        "formula": "2",
+        "mode": "add"
+      }
+    ],
     "description": "<p>Thump! Thump! Thump! You lost one of your legs in combat. Or was it an accident? Seafaring folk find it respectable, at least.</p><hr><p>-1 Speed.</p><p>+2 Armor.</p>"
   },
   "effects": [],
@@ -25,7 +48,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276619766,
-    "modifiedTime": 1782277078870,
+    "modifiedTime": 1782333881396,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!AjUeoxQFXk8ieZKf"

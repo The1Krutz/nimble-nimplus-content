@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "RFae5oTCNLnV7EhL",
+        "identifier": "",
+        "label": "Forgemate",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "skills": ["might", "examination"]
+      }
+    ],
     "description": "<p>Your calloused, scorched hands mark you as a friend in smithing circles. Smiths are easier to haggle with, and may even let you use their forge.</p><hr><p>+1 Might and Examination.</p>"
   },
   "effects": [],
@@ -25,7 +37,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276601903,
-    "modifiedTime": 1782276957125,
+    "modifiedTime": 1782334116145,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!ZTtYYSC5tROy42Iw"

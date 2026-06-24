@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "rPn0WfCm2s3tRrUe",
+        "identifier": "",
+        "label": "Hedge Knight",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "skills": ["naturecraft"]
+      }
+    ],
     "description": "<p>You've been traveling the lands, serving anyone with coin to pay. Smallfolk tend to respect you. Once per adventure, you may call upon an old contact, such as a lord you served years ago.</p><hr><p>+1 Naturecraft.</p>"
   },
   "effects": [],
@@ -25,7 +37,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276569524,
-    "modifiedTime": 1782276976132,
+    "modifiedTime": 1782334062232,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!BChhDDs6iGnWVcuw"
