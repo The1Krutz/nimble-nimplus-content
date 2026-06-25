@@ -29,14 +29,6 @@ jobs:
       - name: Check format
         run: npm run format:check
 
-      # - name: Get previous tag
-      #   id: previous_tag
-      #   run: |
-      #     git fetch --tags
-      #     VERSION=$(git tag --sort=-v:refname | head -n 1)
-      #     echo "version=$VERSION"
-      #     echo "version=$VERSION" >> $GITHUB_OUTPUT
-
       - name: Get module version
         id: read_json
         run: |
@@ -58,7 +50,6 @@ jobs:
         with:
           draft: true
           target_commitish: ${{ github.sha }}
-          # previous_tag: ${{ steps.previous_tag.outputs.version }}
           tag_name: ${{ steps.read_json.outputs.version }}
           generate_release_notes: true
           files: |
