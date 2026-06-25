@@ -1,5 +1,8 @@
 {
-  "[javascript][json][jsonc][github-actions-workflow]": {
+  "[javascript][json][jsonc]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "[github-actions-workflow]": {
     "editor.defaultFormatter": "oxc.oxc-vscode"
   },
   "editor.defaultFormatter": "oxc.oxc-vscode",
