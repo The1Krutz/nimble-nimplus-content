@@ -1,7 +1,9 @@
-name: Create Release
+name: Create Release on PR Merge
 
 on:
-  push:
+  pull_request:
+    types:
+      - closed
     branches:
       - main
 
@@ -10,14 +12,15 @@ permissions:
 
 jobs:
   create-release:
+    if: github.event.pull_request.merged == true
     name: Create Release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v6
         with:
+          ref: ${{ github.event.pull_request.merge_commit_sha }}
           fetch-depth: 0
-          fetch-tags: true
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -27,13 +30,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Get module version
-        id: read_json
-        run: |
-          VERSION=$(jq -r '.version' module.json)
-          echo "version=v$VERSION"
-          echo "version=v$VERSION" >> $GITHUB_OUTPUT
-
       - name: Pack json into ldb
         run: |
           npm run packLDB
@@ -41,6 +37,13 @@ jobs:
       - name: Create assets
         run: |
           zip -r module.zip assets/ lang/ packs/ module.json LICENSE README.md
+
+      - name: Get module version
+        id: read_json
+        run: |
+          VERSION=$(jq -r '.version' module.json)
+          echo "version=v$VERSION"
+          echo "version=v$VERSION" >> $GITHUB_OUTPUT
 
       # https://github.com/softprops/action-gh-release
       - name: Release

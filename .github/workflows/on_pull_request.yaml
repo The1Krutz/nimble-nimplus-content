@@ -16,7 +16,6 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
-          fetch-tags: true
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -29,13 +28,6 @@ jobs:
       - name: Check format
         run: npm run format:check
 
-      - name: Get module version
-        id: read_json
-        run: |
-          VERSION=$(jq -r '.version' module.json)
-          echo "version=v$VERSION"
-          echo "version=v$VERSION" >> $GITHUB_OUTPUT
-
       - name: Pack json into ldb
         run: |
           npm run packLDB
@@ -44,14 +36,21 @@ jobs:
         run: |
           zip -r module.zip assets/ lang/ packs/ module.json LICENSE README.md
 
-      # https://github.com/softprops/action-gh-release
-      - name: Draft release
-        uses: softprops/action-gh-release@v3
-        with:
-          draft: true
-          target_commitish: ${{ github.sha }}
-          tag_name: ${{ steps.read_json.outputs.version }}
-          generate_release_notes: true
-          files: |
-            module.zip
-            module.json
+      # - name: Get module version
+      #   id: read_json
+      #   run: |
+      #     VERSION=$(jq -r '.version' module.json)
+      #     echo "version=v$VERSION"
+      #     echo "version=v$VERSION" >> $GITHUB_OUTPUT
+
+      # # https://github.com/softprops/action-gh-release
+      # - name: Draft release
+      #   uses: softprops/action-gh-release@v3
+      #   with:
+      #     draft: true
+      #     target_commitish: ${{ github.sha }}
+      #     tag_name: ${{ steps.read_json.outputs.version }}
+      #     generate_release_notes: true
+      #     files: |
+      #       module.zip
+      #       module.json
