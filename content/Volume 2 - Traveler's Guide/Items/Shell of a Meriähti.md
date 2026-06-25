@@ -1,9 +1,9 @@
 Rare Shield
 
-*Sturdy shell, previously attached to a Meriähti. It still hardens when struck.*
+_Sturdy shell, previously attached to a Meriähti. It still hardens when struck._
 
-3 armor (Req. 1 STR). 
+3 armor (Req. 1 STR).
 
 When Defending, you may choose to absorb all of the damage with the shield instead. Its Armor Value is reduced by 1 every time this is done, and breaks permanently at zero.
 
-*(by Can Opener)*
+_(by Can Opener)_

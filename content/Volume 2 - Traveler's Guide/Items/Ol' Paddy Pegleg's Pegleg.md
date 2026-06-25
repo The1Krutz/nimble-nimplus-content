@@ -1,7 +1,7 @@
 Legendary Leg
 
-*Ancient wooden pegleg engraved with faint arcane runes.*
+_Ancient wooden pegleg engraved with faint arcane runes._
 
 Whosoever possesses the pegleg becomes unable to get drunk and starts growing a beard.
 
-*(by Santuric)*
+_(by Santuric)_

@@ -1,7 +1,7 @@
 Rare Eyepatch
 
-*Weatherworn, but durable.*
+_Weatherworn, but durable._
 
 Grants advantage on melee attacks against Distracted enemies, but ranged attacks against you have advantage.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

@@ -1,7 +1,7 @@
 Uncommon Boots
 
-*A set of leather boots with fish-like fins on the back.*
+_A set of leather boots with fish-like fins on the back._
 
 While worn, you gain a swim speed of 8.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

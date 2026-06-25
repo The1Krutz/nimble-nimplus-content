@@ -1,7 +1,7 @@
 Rare Ring
 
-*Silver ring adorned with an effigy of a monkey.*
+_Silver ring adorned with an effigy of a monkey._
 
 Transforms the wearer into a medium sized human.
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

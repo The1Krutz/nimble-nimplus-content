@@ -1,7 +1,7 @@
 Rare Crown
 
-*Tarnished gold crown, oversized for a kobold.*
+_Tarnished gold crown, oversized for a kobold._
 
 Grants an ephemeral golden aura. Will make kobolds and birds become friendly (or envious) towards the wearer.
 
-*(by Santuric)*
+_(by Santuric)_
