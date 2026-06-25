@@ -35,22 +35,3 @@ jobs:
       - name: Create assets
         run: |
           zip -r module.zip assets/ lang/ packs/ module.json LICENSE README.md
-
-      - name: Get module version
-        id: read_json
-        run: |
-          VERSION=$(jq -r '.version' module.json)
-          echo "version=v$VERSION"
-          echo "version=v$VERSION" >> $GITHUB_OUTPUT
-
-      # https://github.com/softprops/action-gh-release
-      - name: Draft release
-        uses: softprops/action-gh-release@v3
-        with:
-          draft: true
-          target_commitish: ${{ github.sha }}
-          tag_name: ${{ steps.read_json.outputs.version }}
-          generate_release_notes: true
-          files: |
-            module.zip
-            module.json
