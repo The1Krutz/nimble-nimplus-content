@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          # fetch-depth: 0
+          fetch-depth: 0
           fetch-tags: true
 
       - name: Setup Node
@@ -57,6 +57,7 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           draft: true
+          target_commitish: ${{ github.sha }}
           # previous_tag: ${{ steps.previous_tag.outputs.version }}
           tag_name: ${{ steps.read_json.outputs.version }}
           generate_release_notes: true
