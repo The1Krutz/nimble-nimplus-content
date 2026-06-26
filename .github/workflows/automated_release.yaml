@@ -55,3 +55,11 @@ jobs:
           files: |
             module.zip
             module.json
+
+      - name: Publish to FoundryVTT
+        id: publish_to_fvtt
+        uses: cs96and/FoundryVTT-release-package@v1
+        with:
+          package-token: ${{ secrets.PACKAGE_TOKEN }}
+          manifest-url: https://github.com/${{github.repository}}/releases/download/${{steps.read_json.outputs.version}}/module.json
+          notes-url: https://github.com/${{github.repository}}/releases/tag/${{steps.read_json.outputs.version}}/
