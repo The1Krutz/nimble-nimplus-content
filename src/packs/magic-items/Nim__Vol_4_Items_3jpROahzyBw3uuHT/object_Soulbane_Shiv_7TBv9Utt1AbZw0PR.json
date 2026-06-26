@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>weapontopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Wicked dagger infused with a desire for death.</em></p><p>1d4+DEX Piercing. Light, Thrown 4.</p><p>On kill: Regain up to 2 actions.</p><p>bottomline</p><p>bottomline</p><hr><p>Very Rare Dagger</p><p><strong>Cost:</strong> 200000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 200000,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>weapontopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>A classic among adventurers.</em></p><p>Changes the damage type of the enchanted weapon to elemental damage (Fire, Lightning or Ice).</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Enchantment</p><p><strong>Cost:</strong> 330 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 330,
       "denomination": "gp"
     },
     "quantity": 1,

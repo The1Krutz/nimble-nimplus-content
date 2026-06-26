@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>weapontopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Bow of pure lightning, bestowed by the Lord of Storms.</em></p><p>2d6+DEX Lightning. 2-handed, Range 16.</p><p><strong>Chain Lightning.</strong> On crit: Attack the two creatures closest to your target for the same amount (must be within Range).</p><p>bottomline</p><p>bottomline</p><hr><p>Legendary Longbow</p><p><strong>Cost:</strong> 1717171 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 1717171,
       "denomination": "gp"
     },
     "quantity": 1,

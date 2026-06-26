@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>weapontopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Ravenous sword used to put commoner and king alike to justice, their spirits still trapped within.</em></p><p>3d6+STR Slashing. 2-handed (Req. 3 STR).</p><p><strong>Condemn.</strong> 2 actions: Strike all enemies in Line 3.</p><p>bottomline</p><p>bottomline</p><hr><p>Very Rare Greatsword</p><p><strong>Cost:</strong> 300000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 300000,
       "denomination": "gp"
     },
     "quantity": 1,

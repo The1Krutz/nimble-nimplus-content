@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>weapontopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Plays a crisp F# bass tone when plucked.</em></p><p>1d8+DEX Piercing. 2-handed, Range 16 (Req. 1 STR).</p><p>Advantage on attacks while attempting unnecessary trickshots.</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Requirement:</strong> 1 STR</p>",
       "unidentified": "",
       "secret": ""
     },

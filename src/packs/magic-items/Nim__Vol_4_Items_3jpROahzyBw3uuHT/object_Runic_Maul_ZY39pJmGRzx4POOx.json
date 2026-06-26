@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>weapontopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Oversized stone maul engraved with dverung runes.</em></p><p>1d4+STR Bludgeoning. 2-handed (Req. 4 STR).</p><p>On crit: +20 damage.</p><p>On miss: Knock yourself Prone.</p><p>bottomline</p><hr><p>Rare Warhammer</p><p><strong>Requirement:</strong> 4 STR</p><p><strong>Cost:</strong> 2000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 2000,
       "denomination": "gp"
     },
     "quantity": 1,
