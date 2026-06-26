@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Imbued with the ever-burning soul of it's previous owner.</em></p><p>2d6+STR Slashing. 2-handed (Req. 3 STR).</p><p><strong>Echostrike.</strong> On damage: Another creature within Reach 4 suffers the same amount of damage (1/turn).</p><p>bottomline</p><p>bottomline</p><hr><p>Legendary Greataxe</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Cost:</strong> 1750571 gp</p>",
+      "public": "<p><em>Imbued with the ever-burning soul of it's previous owner.</em></p><p>2d6+STR Slashing. 2-handed.</p><p><strong>Echostrike.</strong> On damage: Another creature within Reach 4 suffers the same amount of damage (1/turn).</p><p>bottomline</p><p>bottomline</p><hr><p>Legendary Greataxe</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Cost:</strong> 1750571 gp</p>",
       "unidentified": "",
       "secret": ""
     },
