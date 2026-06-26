@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "<p><em>A crusty and perpetually wet blade with a cruel edge.</em></p><p><strong>Mercy of the Sea (3 uses).</strong> When you damage a living creature with this blade, you may heal LVL HP.</p><p><strong>Recharge:</strong> Submerge the blade in a natural body of water for a full week.</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>A crusty and perpetually wet blade with a cruel edge.</em></p><p><strong>Mercy of the Sea (3 uses).</strong> When you damage a living creature with this blade, you may heal LVL HP.</p><p><strong>Recharge:</strong> Submerge the blade in a natural body of water for a full week.</p><hr><p>Rare Shortsword</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

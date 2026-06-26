@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Simple brass ring with a scratched surface.</em></p><p><strong>Sandswell (2 uses).</strong> Action: Create a wall of sand (Line 4). Blocks movement, but crumbles from a single hit.</p><p><strong>Recharge:</strong> Eat a handful of sand at low tide.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Ring</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Simple brass ring with a scratched surface.</em></p><p><strong>Sandswell (2 uses).</strong> Action: Create a wall of sand (Line 4). Blocks movement, but crumbles from a single hit.</p><p><strong>Recharge:</strong> Eat a handful of sand at low tide.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Ring</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
