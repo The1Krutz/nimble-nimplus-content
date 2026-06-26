@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>A set of leather boots with fish-like fins on the back.</em></p><p>While worn, you gain a swim speed of 8.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Boots</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },

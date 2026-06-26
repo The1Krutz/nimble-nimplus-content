@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Legendary drink and invaluable to pirates.</em></p><p>When imbibed, everything will seem to go your way for one evening. Beware the hangover.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Legendary Beverage</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },

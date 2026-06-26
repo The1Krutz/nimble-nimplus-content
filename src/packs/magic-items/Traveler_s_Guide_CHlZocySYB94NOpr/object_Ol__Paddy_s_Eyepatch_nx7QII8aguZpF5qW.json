@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Weatherworn, but durable.</em></p><p>Grants advantage on melee attacks against Distracted enemies, but ranged attacks against you have advantage.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Eyepatch</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },

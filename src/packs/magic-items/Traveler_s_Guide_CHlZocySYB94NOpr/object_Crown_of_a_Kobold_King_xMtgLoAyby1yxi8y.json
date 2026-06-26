@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Tarnished gold crown, oversized for a kobold.</em></p><p>Grants an ephemeral golden aura. Will make kobolds and birds become friendly (or envious) towards the wearer.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Crown</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },
