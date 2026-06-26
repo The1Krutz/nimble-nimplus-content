@@ -2,7 +2,7 @@
   "name": "Catfolk",
   "type": "ancestry",
   "_id": "qaWpmJeCCtP3EGc0",
-  "img": "icons/svg/barrel.svg",
+  "img": "icons/svg/windmill.svg",
   "system": {
     "macro": "",
     "identifier": "",
@@ -39,7 +39,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780593169781,
-    "modifiedTime": 1780600473016,
+    "modifiedTime": 1782440161961,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!qaWpmJeCCtP3EGc0"

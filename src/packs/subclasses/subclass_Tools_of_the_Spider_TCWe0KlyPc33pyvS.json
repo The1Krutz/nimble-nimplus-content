@@ -2,7 +2,7 @@
   "name": "Tools of the Spider",
   "type": "subclass",
   "_id": "TCWe0KlyPc33pyvS",
-  "img": "icons/svg/bones.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/subclass/bow.png",
   "system": {
     "macro": "",
     "identifier": "",
@@ -27,7 +27,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780591623515,
-    "modifiedTime": 1780591911453,
+    "modifiedTime": 1782440429404,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!TCWe0KlyPc33pyvS"

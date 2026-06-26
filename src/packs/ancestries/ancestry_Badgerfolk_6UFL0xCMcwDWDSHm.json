@@ -2,7 +2,7 @@
   "name": "Badgerfolk",
   "type": "ancestry",
   "_id": "6UFL0xCMcwDWDSHm",
-  "img": "icons/svg/barrel.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/ancestry/character.png",
   "system": {
     "macro": "",
     "identifier": "",
@@ -27,7 +27,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780594427718,
-    "modifiedTime": 1780594434275,
+    "modifiedTime": 1782440367163,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!6UFL0xCMcwDWDSHm"

@@ -2,7 +2,7 @@
   "name": "Arena Fighter",
   "type": "background",
   "_id": "Q0OZvGNt3kQxjZZq",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/background/campfire.png",
   "system": {
     "macro": "",
     "identifier": "",
@@ -25,7 +25,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276577937,
-    "modifiedTime": 1782276903534,
+    "modifiedTime": 1782440392401,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!Q0OZvGNt3kQxjZZq"

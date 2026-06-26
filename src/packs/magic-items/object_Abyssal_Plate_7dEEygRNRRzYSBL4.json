@@ -2,7 +2,7 @@
   "name": "Abyssal Plate",
   "type": "object",
   "_id": "7dEEygRNRRzYSBL4",
-  "img": "icons/svg/tower.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "system": {
     "macro": "",
     "identifier": "",
@@ -109,7 +109,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780592016980,
-    "modifiedTime": 1780592774148,
+    "modifiedTime": 1782440445390,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!7dEEygRNRRzYSBL4"
