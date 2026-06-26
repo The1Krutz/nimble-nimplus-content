@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Sizable conch with an elaborate spiral.</em></p><p>Echoes words spoken into it back in high-pitched Gnomish.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Shell</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>There's something in my boot.</em></p><p>A friendly snake can be shaken out of either boot once per day.</p><p>Sticks around for 10 minutes.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Boots</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
