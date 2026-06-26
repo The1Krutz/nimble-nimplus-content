@@ -2,7 +2,7 @@
   "name": "Twinned Threads",
   "type": "feature",
   "_id": "S9iRwcHz8EAqD2Po",
-  "img": "icons/svg/teleport.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
   "system": {
     "macro": "",
     "identifier": "",
@@ -60,7 +60,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.6",
     "createdTime": 1780591804688,
-    "modifiedTime": 1780591879043,
+    "modifiedTime": 1782440408839,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!S9iRwcHz8EAqD2Po"
