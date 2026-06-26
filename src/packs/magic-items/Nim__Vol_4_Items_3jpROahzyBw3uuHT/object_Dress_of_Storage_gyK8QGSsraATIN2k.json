@@ -37,16 +37,16 @@
       }
     },
     "description": {
-      "public": "armordescription",
+      "public": "<p><em>Comfortable dress with pockets. Claimed by some to be a myth.</em></p><p>+2 inventory slots.</p><hr><p><strong>Rarity:</strong> Common</p><p><strong>Type:</strong> Cloth Armor</p><p><strong>Armor</strong>: 2+DEX</p><p><strong>Cost</strong>: 1 gp 9 sp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
-      "denomination": "gp"
+      "value": 19,
+      "denomination": "sp"
     },
     "quantity": 1,
     "equipped": false,

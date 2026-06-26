@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "armordescription",
+      "public": "<p><em>Jagged shield inlaid with fragmented gemstones.</em></p><p>When you Defend, teleport the attacker 3 spaces in a random direction. This may cause the attack to miss (1/encounter).</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Shield</p><p><strong>Armor</strong>: 2</p><p><strong>Cost</strong>: 4999 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 4999,
       "denomination": "gp"
     },
     "quantity": 1,

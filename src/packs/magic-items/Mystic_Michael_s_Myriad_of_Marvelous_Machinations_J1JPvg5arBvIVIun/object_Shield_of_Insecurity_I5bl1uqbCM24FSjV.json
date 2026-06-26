@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "armordescription",
+      "public": "<p><em>Polished to a mirror finish.</em></p><p>Shows all reflections as warped and ugly.</p><hr><p><strong>Rarity:</strong> Common</p><p><strong>Type:</strong> Shield</p><p><strong>Armor</strong>: 2</p><p><strong>Cost</strong>: 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,

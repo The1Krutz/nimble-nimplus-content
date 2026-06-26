@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "armordescription",
+      "public": "<p><em>Engraved with spiraling channels, whistling in the breeze.</em></p><p><strong>Tempest.</strong> Until the start of your next turn, you cannot be hit by ranged attacks (1/encounter).</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Shield</p><p><strong>Requirement</strong>: 2 STR</p><p><strong>Armor</strong>: 4</p><p><strong>Cost</strong>: 4700 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 4700,
       "denomination": "gp"
     },
     "quantity": 1,

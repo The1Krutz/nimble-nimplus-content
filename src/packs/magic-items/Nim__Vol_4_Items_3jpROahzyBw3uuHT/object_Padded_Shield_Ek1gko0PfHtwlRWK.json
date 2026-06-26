@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "armordescription",
+      "public": "<p><em>Lined with ablative materials.</em></p><p>Grants immunity to \"On damage\" effects when used to Defend.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Shield</p><p><strong>Requirement</strong>: 2 STR</p><p><strong>Armor</strong>: 4</p><p><strong>Cost</strong>: 3800 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 3800,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "armordescription",
+      "public": "<p><em>Impervious mithril mail, once a gift for a prince whose name is lost to time.</em></p><p>Wearable without proficiency if gifted to you by someone of royal blood.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Mail Armor</p><p><strong>Armor</strong>: 10+DEX</p><p><strong>Cost</strong>: 3000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 3000,
       "denomination": "gp"
     },
     "quantity": 1,

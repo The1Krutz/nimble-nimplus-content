@@ -37,16 +37,16 @@
       }
     },
     "description": {
-      "public": "armordescription",
+      "public": "<p><em>For the indecisive adventurer on the go!</em></p><p>Colors, patterns and shapes can be changed at will.</p><hr><p><strong>Rarity:</strong> Uncommon</p><p><strong>Type:</strong> Cloth Armor</p><p><strong>Armor</strong>: 3+DEX</p><p><strong>Cost</strong>: 49 gp 9 sp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
-      "denomination": "gp"
+      "value": 499,
+      "denomination": "sp"
     },
     "quantity": 1,
     "equipped": false,
