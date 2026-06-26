@@ -1,35 +1,12 @@
 {
-  "name": "Abyssal Plate",
+  "name": "Thorns of a Meriähti",
   "type": "object",
-  "_id": "7dEEygRNRRzYSBL4",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "folder": null,
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [
-      {
-        "type": "armorClass",
-        "disabled": false,
-        "id": "ox4if1bJO1PWVs7I",
-        "identifier": "",
-        "label": "Abyssal Plate",
-        "predicate": {},
-        "priority": 1,
-        "formula": "14",
-        "mode": "add"
-      },
-      {
-        "type": "grantMovement",
-        "disabled": false,
-        "id": "vbmvMo9kUeMQaY3w",
-        "identifier": "",
-        "label": "Abyssal Plate",
-        "predicate": {},
-        "priority": 1,
-        "mode": "swim",
-        "speed": "@attributes.movement.walk"
-      }
-    ],
+    "rules": [],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -59,22 +36,22 @@
       }
     },
     "description": {
-      "public": "<p>Streamlined armor of deep blue steel.</p><p>Grants a swim Speed and waterbreathing.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Plate</p><p><strong>Requirement</strong>: 2 STR</p><p><strong>Armor</strong>: 14</p><p><strong>Cost</strong>: 4000 gp</p>",
+      "public": "",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "armor",
+    "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 4000,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 1,
+    "slotsRequired": 0,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -94,8 +71,6 @@
     }
   },
   "effects": [],
-  "folder": null,
-  "sort": 1200000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,9 +83,11 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1780592016980,
+    "createdTime": 1782486196834,
     "modifiedTime": 1782486197421,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!7dEEygRNRRzYSBL4"
+  "_id": "QcxBgVisNGwniNMQ",
+  "sort": 300000,
+  "_key": "!items!QcxBgVisNGwniNMQ"
 }
