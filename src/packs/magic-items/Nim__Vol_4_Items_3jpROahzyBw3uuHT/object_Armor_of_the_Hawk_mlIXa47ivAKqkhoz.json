@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Sturdy steel armor emblazoned with an engraving of a majestic hawk.</em></p><p>When you suffer a Wound, gain a fly Speed for 1 minute.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Mail Armor</p><p><strong>Requirement</strong>: 3 STR</p><p><strong>Armor</strong>: 12+DEX (max 2)</p><p><strong>Cost</strong>: 3000 gp</p>",
+      "public": "<p><em>Sturdy steel armor emblazoned with an engraving of a majestic hawk.</em></p><p>When you suffer a Wound, gain a fly Speed for 1 minute.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Mail Armor</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Armor:</strong> 12+DEX (max 2)</p><p><strong>Cost:</strong> 3000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
