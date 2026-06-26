@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "weapondescription",
       "unidentified": "",
       "secret": ""
     },
