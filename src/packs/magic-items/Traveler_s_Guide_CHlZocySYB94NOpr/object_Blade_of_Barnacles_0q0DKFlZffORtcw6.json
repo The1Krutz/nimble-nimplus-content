@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "weapondescription",
+      "public": "<p><em>A crusty and perpetually wet blade with a cruel edge.</em></p><p><strong>Mercy of the Sea (3 uses).</strong> When you damage a living creature with this blade, you may heal LVL HP.</p><p><strong>Recharge:</strong> Submerge the blade in a natural body of water for a full week.</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,
@@ -86,7 +86,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782482521877,
-    "modifiedTime": 1782486401588,
+    "modifiedTime": 1782495416819,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!0q0DKFlZffORtcw6"

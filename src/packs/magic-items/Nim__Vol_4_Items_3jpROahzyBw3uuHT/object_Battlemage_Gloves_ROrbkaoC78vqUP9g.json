@@ -1,7 +1,7 @@
 {
   "name": "Battlemage Gloves",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "3jpROahzyBw3uuHT",
   "_id": "ROrbkaoC78vqUP9g",
   "system": {
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>weapontopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,
