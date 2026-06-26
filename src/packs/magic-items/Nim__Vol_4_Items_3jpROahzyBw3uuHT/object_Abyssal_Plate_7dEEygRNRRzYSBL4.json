@@ -59,7 +59,7 @@
       }
     },
     "description": {
-      "public": "<p>Streamlined armor of deep blue steel.</p><p>Grants a swim Speed and waterbreathing.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Plate</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 14</p><p><strong>Cost:</strong> 4000 gp</p>",
+      "public": "<p><em>Streamlined armor of deep blue steel.</em></p><p>Grants a swim Speed and waterbreathing.</p><hr><p>Rare Plate Armor</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 14</p><p><strong>Cost:</strong> 4000 gp</p>",
       "unidentified": "",
       "secret": ""
     },

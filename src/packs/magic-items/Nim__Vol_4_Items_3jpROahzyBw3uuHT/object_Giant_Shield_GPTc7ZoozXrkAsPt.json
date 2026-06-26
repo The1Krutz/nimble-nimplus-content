@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Basically a giant slab of rock.</em></p><p>Grants Cover from ranged attacks to adjacent allies.</p><hr><p><strong>Rarity:</strong> Uncommon</p><p><strong>Type:</strong> Shield</p><p><strong>Requirement:</strong> 4 STR</p><p><strong>Armor:</strong> 6</p><p><strong>Cost:</strong> 450 gp</p>",
+      "public": "<p><em>Basically a giant slab of rock.</em></p><p>Grants Cover from ranged attacks to adjacent allies.</p><hr><p>Uncommon Shield</p><p><strong>Requirement:</strong> 4 STR</p><p><strong>Armor:</strong> 6</p><p><strong>Cost:</strong> 450 gp</p>",
       "unidentified": "",
       "secret": ""
     },

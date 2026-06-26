@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>The bane of casual attackers.</em></p><p>When you Defend and reduce damage to 0, you may make an opportunity attack for free.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 800 gp</p>",
+      "public": "<p><em>The bane of casual attackers.</em></p><p>When you Defend and reduce damage to 0, you may make an opportunity attack for free.</p><hr><p>Rare Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 800 gp</p>",
       "unidentified": "",
       "secret": ""
     },

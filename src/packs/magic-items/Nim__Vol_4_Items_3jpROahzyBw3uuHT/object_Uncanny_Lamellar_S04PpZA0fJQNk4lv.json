@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>You'll feel like you can dodge an explosion in this.</em></p><p>Grants advantage on DEX saves against AoE effects.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Leather Armor</p><p><strong>Armor:</strong> 5+DEX</p><p><strong>Cost:</strong> 3999 gp</p>",
+      "public": "<p><em>You'll feel like you can dodge an explosion in this.</em></p><p>Grants advantage on DEX saves against AoE effects.</p><hr><p>Rare Leather Armor</p><p><strong>Armor:</strong> 5+DEX</p><p><strong>Cost:</strong> 3999 gp</p>",
       "unidentified": "",
       "secret": ""
     },

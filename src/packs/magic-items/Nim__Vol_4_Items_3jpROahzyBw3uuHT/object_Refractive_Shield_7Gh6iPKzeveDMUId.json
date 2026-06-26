@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Hardwood shield imbued with arcane runes.</em></p><p>When you Defend against a single-target spell and reduce damage to 0, you may reflect the spell back at the caster (1/encounter).</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 4999 gp</p>",
+      "public": "<p><em>Hardwood shield imbued with arcane runes.</em></p><p>When you Defend against a single-target spell and reduce damage to 0, you may reflect the spell back at the caster (1/encounter).</p><hr><p>Rare Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 4999 gp</p>",
       "unidentified": "",
       "secret": ""
     },

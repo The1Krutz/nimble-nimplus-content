@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Youch!</em></p><p>Usable as a melee weapon (1d4+STR Piercing).</p><hr><p><strong>Rarity:</strong> Uncommon</p><p><strong>Type:</strong> Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 250 gp</p>",
+      "public": "<p><em>Youch!</em></p><p>Usable as a melee weapon (1d4+STR Piercing).</p><hr><p>Uncommon Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 250 gp</p>",
       "unidentified": "",
       "secret": ""
     },

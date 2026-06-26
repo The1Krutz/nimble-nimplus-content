@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Slow and steady.</em></p><p>Can be worn on your back. Standing up from Prone now also costs 1 action.</p><hr><p><strong>Rarity:</strong> Uncommon</p><p><strong>Type:</strong> Shield</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Armor:</strong> 6</p><p><strong>Cost:</strong> 300 gp</p>",
+      "public": "<p><em>Slow and steady.</em></p><p>Can be worn on your back. Standing up from Prone now also costs 1 action.</p><hr><p>Uncommon Shield</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Armor:</strong> 6</p><p><strong>Cost:</strong> 300 gp</p>",
       "unidentified": "",
       "secret": ""
     },
