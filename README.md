@@ -4,7 +4,7 @@ Content packs to get Nim+ into FoundryVTT
 
 ## Original Content
 
-Nim+ zines are found on itch.io:
+Nim+ zines are found on itch.io, courtesy [Santuric](https://santuric.itch.io/):
 
 - [Volume 1 - Character Creation](https://santuric.itch.io/nimplus-vol-1)
 - [Volume 2 - Traveler's Guide: The Golden Archipelago](https://santuric.itch.io/nimplus-vol-2)
@@ -16,3 +16,7 @@ These zines are completely free and made by volunteers. I did not create any of 
 ## License
 
 MIT license applies only to my code, not the content of the zines.
+
+## AI Declaration
+
+No generative AI was used in the making of this project.

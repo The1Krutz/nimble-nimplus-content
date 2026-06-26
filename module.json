@@ -1,8 +1,8 @@
 {
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
-  "description": "<p>A content module for the Nimble RPG system. Provides additional content from the Nim+ zines.",
-  "version": "0.0.35",
+  "description": "<p>Content packs to get Nim+ community content into Foundry.</p><p>Contains Nim+ Volumes 1-4. Original zines can be found here: https://santuric.itch.io/</p>",
+  "version": "0.0.36",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",
