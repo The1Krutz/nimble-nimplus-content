@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Viscous heart, previously attached to a Meriähti. It still pulsates gently, and smells strangely delectable.</em></p><p>**Devour the Brine.** 2 actions (while Bloodied): Consume the heart to regain half your max HP as temp HP until the end of the encounter.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Organ</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Viscous heart, previously attached to a Meriähti. It still pulsates gently, and smells strangely delectable.</em></p><p><strong>Devour the Brine.</strong> 2 actions (while Bloodied): Consume the heart to regain half your max HP as temp HP until the end of the encounter.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Organ</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },
