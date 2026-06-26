@@ -1,9 +1,7 @@
 {
-  "name": "Duelist's Sabre",
+  "name": "Greatsword",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
-  "folder": "3jpROahzyBw3uuHT",
-  "_id": "N5f0AHdtMPUAUJIO",
+  "img": "icons/weapons/swords/greatsword-crossguard-embossed-gold.webp",
   "system": {
     "macro": "",
     "identifier": "",
@@ -23,10 +21,10 @@
       },
       "effects": [
         {
-          "id": "I7gayPPKWf5J4gEL",
+          "id": "iRVuywoznjR9UjTZ",
           "type": "damage",
           "damageType": "slashing",
-          "formula": "2d4+@dexterity",
+          "formula": "3d4+@strength",
           "parentContext": null,
           "parentNode": null,
           "canCrit": true,
@@ -34,31 +32,31 @@
           "on": {
             "miss": [
               {
-                "id": "eyCiFfFX0PeHHHbP",
+                "id": "YcFCtfo8eOJc5dCf",
                 "type": "note",
                 "noteType": "warning",
                 "text": "MISS",
                 "parentContext": "miss",
-                "parentNode": "I7gayPPKWf5J4gEL"
+                "parentNode": "iRVuywoznjR9UjTZ"
               }
             ],
             "criticalHit": [
               {
-                "id": "jcPzhHLQAJEqdJ2r",
+                "id": "C8jYdRmsJCBzTUdg",
                 "type": "note",
                 "noteType": "warning",
                 "text": "CRIT",
                 "parentContext": "criticalHit",
-                "parentNode": "I7gayPPKWf5J4gEL"
+                "parentNode": "iRVuywoznjR9UjTZ"
               }
             ],
             "hit": [
               {
-                "id": "XMgIdCx0fSmHkE05",
+                "id": "3ZXDsVlm4CewZUg3",
                 "type": "damageOutcome",
                 "outcome": "fullDamage",
                 "parentContext": "hit",
-                "parentNode": "I7gayPPKWf5J4gEL"
+                "parentNode": "iRVuywoznjR9UjTZ"
               }
             ]
           }
@@ -68,7 +66,7 @@
       "targets": {
         "count": 1,
         "restrictions": "",
-        "attackType": "",
+        "attackType": "reach",
         "distance": 1
       },
       "template": {
@@ -79,22 +77,16 @@
       }
     },
     "description": {
-      "public": "<p><em>Extracts both blood and bitter tears.</em></p><p>2d4+DEX Slashing.</p><p>Advantage against Taunted enemies.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Shortsword</p><p><strong>Cost:</strong> 300 gp</p>",
+      "public": "<p><strong>Damage:</strong> 3d4+STR Slashing/Piercing</p><p><strong>Properties:</strong> 2 Handed (Req. 2 STR)</p><p><strong>Cost:</strong> 120 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
     "objectType": "weapon",
-    "weaponType": "",
-    "price": {
-      "value": 300,
-      "denomination": "gp"
-    },
     "quantity": 1,
-    "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 1,
+    "slotsRequired": 2,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -103,22 +95,24 @@
       },
       "reach": {
         "min": 1,
-        "max": null
+        "max": 2
       },
-      "selected": [],
+      "selected": ["twoHanded"],
       "strengthRequirement": {
-        "value": null,
-        "overridesTwoHanded": false
+        "value": 2,
+        "overridesTwoHanded": true
       },
       "thrownRange": 4
-    }
+    },
+    "price": {
+      "value": 120,
+      "denomination": "gp"
+    },
+    "weaponType": "",
+    "equipped": false
   },
   "effects": [],
-  "sort": 0,
-  "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
-  },
+  "folder": "zWI3iMQUlIrZ9dVs",
   "flags": {},
   "_stats": {
     "compendiumSource": null,
@@ -127,9 +121,15 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1782486733820,
-    "modifiedTime": 1782505280067,
+    "createdTime": 1782505050297,
+    "modifiedTime": 1782505050297,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!N5f0AHdtMPUAUJIO"
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "_id": "PIDnG57iBWUYzH3P",
+  "sort": 0,
+  "_key": "!items!PIDnG57iBWUYzH3P"
 }
