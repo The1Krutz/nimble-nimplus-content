@@ -1,7 +1,7 @@
 {
   "name": "Tidewalker",
   "type": "ancestry",
-  "img": "icons/svg/barrel.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/ancestry/character.png",
   "system": {
     "macro": "",
     "identifier": "",
