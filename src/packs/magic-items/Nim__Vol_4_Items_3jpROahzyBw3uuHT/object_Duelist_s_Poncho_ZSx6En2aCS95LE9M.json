@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Patterned cloth with a peculiar amount of holes.</em></p><p>bottomline</p><p><strong>Evasive Flourish.</strong> Reaction: Dodge a ranged attack, then move up to half your Speed (1/encounter).</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Poncho</p><p><strong>Cost:</strong> 1650 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 1650,
       "denomination": "gp"
     },
     "quantity": 1,

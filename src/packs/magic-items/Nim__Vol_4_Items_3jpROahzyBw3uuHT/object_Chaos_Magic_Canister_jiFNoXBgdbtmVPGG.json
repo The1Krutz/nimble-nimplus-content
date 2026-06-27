@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Glass orb filled with swirling smoke.</em></p><p>bottomline</p><p>bottomline</p><p>Throw to unleash smoke in a 2x2 area within Reach 6 for 1 minute. The first time someone breathes in the smoke, they must roll on the Chaos Magic Table.</p><p>bottomline</p><hr><p>Rare Explosive</p><p><strong>Cost:</strong> 1d1000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

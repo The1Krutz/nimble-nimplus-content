@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>The will of the original despot still lingers, eternally seeking dominance.</em></p><p><strong>Royal Decree.</strong> Reaction: Interrupt or dispel a magical effect (1/turn).</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Legendary Crown</p><p><strong>Cost:</strong> 666666 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 666666,
       "denomination": "gp"
     },
     "quantity": 1,

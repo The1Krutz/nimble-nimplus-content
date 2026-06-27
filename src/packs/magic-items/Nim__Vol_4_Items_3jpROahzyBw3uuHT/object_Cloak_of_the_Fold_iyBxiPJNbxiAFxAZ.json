@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Billows in and out of reality.</em></p><p>bottomline</p><p>bottomline</p><p><strong>Reality Fold.</strong> Action: Teleport to a space you can see, paying 1 HP per space.</p><p>bottomline</p><hr><p>Rare Cloak</p><p><strong>Cost:</strong> 1300 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 1300,
       "denomination": "gp"
     },
     "quantity": 1,
