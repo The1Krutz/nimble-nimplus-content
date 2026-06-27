@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Velvety gloves inscribed with arcane patterns.</em></p><p>Your unarmed strikes deal 1d4+Arcana Force damage.</p><p><strong>Infusion.</strong> When you make an unarmed strike, you may spend mana up to your highest spell tier to empower that attack. For each mana spend this way, that attack gains KEY damage and increments die size one step (1d4>1d6> ... >1d20).</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Gloves</p><p><strong>Cost:</strong> 2,000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 2000,
       "denomination": "gp"
     },
     "quantity": 1,

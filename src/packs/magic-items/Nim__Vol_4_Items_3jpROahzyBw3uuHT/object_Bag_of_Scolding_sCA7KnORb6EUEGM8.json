@@ -1,7 +1,7 @@
 {
   "name": "Bag of Scolding",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "3jpROahzyBw3uuHT",
   "_id": "sCA7KnORb6EUEGM8",
   "system": {
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "itemdescription",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,

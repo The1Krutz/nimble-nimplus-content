@@ -1,7 +1,7 @@
 {
   "name": "Ward of the Gravestalker",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
   "_id": "mvIJnCacPqRBW6wR",
   "system": {
@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Tales of Gravestalkers can be found in all corners of the world, their blackened garb a portent of doom.</em></p><p><strong>Soul Absorption.</strong> (1/encounter) On kill: You may absorb the soul of your victim to become empowered for 3 turns. While empowered, your attacks deal Necrotic damage, ignore Armor and heal you for 10 HP on crit or kill.</p><hr><p>Legendary Leather Armor</p><p><strong>Requirement:</strong> 1 STR</p><p><strong>Armor:</strong> 6+DEX+WIL</p><p><strong>Cost:</strong> 1,800,000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1800000,
       "denomination": "gp"
     },
     "quantity": 1,

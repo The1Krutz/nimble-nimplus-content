@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Ornate crossbow with engravings of resplendent saints.</em></p><p>4d4+DEX Piercing. 2-handed, Load: 1 action, Range 8.</p><p>On hit: Apply Dawnmark (1/turn).</p><p>When used to consume Dawnmark, the additional Radiant damage also hits enemies in Line 3 behind the target.</p><p><strong>Dawnmark:</strong> Stackable condition. On attack, you may consume all stacks to deal additional Radiant damage according to the amount of marks consumed this way (1d4>1d6> ... >1d20).</p><hr><p>Very Rare Crossbow</p><p><strong>Cost:</strong> 250,000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 250000,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Sized for halfling hands.</em></p><p>Automatically whittles wooden crafts.</p><p>Must be told what to produce, otherwise it will make spoons.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Knife</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,

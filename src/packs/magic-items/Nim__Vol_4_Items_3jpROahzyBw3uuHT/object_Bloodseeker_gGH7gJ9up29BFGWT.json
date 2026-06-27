@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Cruel blade of grooved, darkened metal, eternally thirsty.</em></p><p>1d6+STR Slashing.</p><p>On hit: Add up to KEY damage by sacrificing that much HP.</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Sword</p><p><strong>Cost:</strong> 3,500 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 3500,
       "denomination": "gp"
     },
     "quantity": 1,

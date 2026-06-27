@@ -1,7 +1,7 @@
 {
   "name": "Glimmering Shield",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
   "_id": "xmh2RZ44ei4N0B1z",
   "system": {
@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Reflects light with blinding intensity.</em></p><p>On Defend: Blind an adjacent enemy until the end of their next turn (1/encounter).</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 4</p><p><strong>Cost:</strong> 2500 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 2500,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Armament of a tormented guard, stained by revenge.</em></p><p>3d6+STR Necrotic. 2-handed.</p><p>When you attack an enemy, they gain advantage on their next attack against you (stacks).</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Cursed Greataxe</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Cost:</strong> 800 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 800,
       "denomination": "gp"
     },
     "quantity": 1,

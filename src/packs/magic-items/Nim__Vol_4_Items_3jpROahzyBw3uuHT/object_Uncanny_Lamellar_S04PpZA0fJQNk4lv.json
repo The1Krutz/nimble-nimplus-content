@@ -1,7 +1,7 @@
 {
   "name": "Uncanny Lamellar",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
   "_id": "S04PpZA0fJQNk4lv",
   "system": {
@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>You'll feel like you can dodge an explosion in this.</em></p><p>Grants advantage on DEX saves against AoE effects.</p><hr><p>Rare Leather Armor</p><p><strong>Armor:</strong> 5+DEX</p><p><strong>Cost:</strong> 3999 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 3999,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -1,7 +1,7 @@
 {
   "name": "Wine of Truth",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "CHlZocySYB94NOpr",
   "system": {
     "macro": "",
@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "itemdescription",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,

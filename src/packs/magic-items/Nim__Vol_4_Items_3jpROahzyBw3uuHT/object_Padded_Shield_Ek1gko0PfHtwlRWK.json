@@ -1,7 +1,7 @@
 {
   "name": "Padded Shield",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
   "_id": "Ek1gko0PfHtwlRWK",
   "system": {
@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Lined with ablative materials.</em></p><p>Grants immunity to \"On damage\" effects when used to Defend.</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 4</p><p><strong>Cost:</strong> 3800 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 3800,
       "denomination": "gp"
     },
     "quantity": 1,

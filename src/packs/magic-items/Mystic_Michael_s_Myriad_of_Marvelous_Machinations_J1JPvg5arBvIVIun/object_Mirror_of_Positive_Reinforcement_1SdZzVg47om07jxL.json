@@ -1,7 +1,7 @@
 {
   "name": "Mirror of Positive Reinforcement",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
   "_id": "1SdZzVg47om07jxL",
   "system": {
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "itemdescription",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,

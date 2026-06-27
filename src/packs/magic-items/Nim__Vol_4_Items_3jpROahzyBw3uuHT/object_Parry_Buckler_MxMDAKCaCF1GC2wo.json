@@ -1,7 +1,7 @@
 {
   "name": "Parry Buckler",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
   "_id": "MxMDAKCaCF1GC2wo",
   "system": {
@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>The bane of casual attackers.</em></p><p>When you Defend and reduce damage to 0, you may make an opportunity attack for free.</p><hr><p>Rare Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 800 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 800,
       "denomination": "gp"
     },
     "quantity": 1,

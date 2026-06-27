@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Oversized and monstrously heavy.</em></p><p>1d4+STR×3 Slashing. Reach 2.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Greatsword</p><p><strong>Requirement:</strong> 4 STR</p><p><strong>Cost:</strong> 550 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 550,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -2,7 +2,7 @@
   "name": "Merglass Telescope",
   "type": "object",
   "_id": "NoGQGGXBRX3XZFfp",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "system": {
     "macro": "",
     "identifier": "",
@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "itemdescription",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,

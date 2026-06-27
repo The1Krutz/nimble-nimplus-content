@@ -1,7 +1,7 @@
 {
   "name": "Shield of Insecurity",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "J1JPvg5arBvIVIun",
   "_id": "I5bl1uqbCM24FSjV",
   "system": {
@@ -37,15 +37,15 @@
       }
     },
     "description": {
-      "public": "",
+      "public": "<p><em>Polished to a mirror finish.</em></p><p>Shows all reflections as warped and ugly.</p><hr><p>Common Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 1313 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1313,
       "denomination": "gp"
     },
     "quantity": 1,
