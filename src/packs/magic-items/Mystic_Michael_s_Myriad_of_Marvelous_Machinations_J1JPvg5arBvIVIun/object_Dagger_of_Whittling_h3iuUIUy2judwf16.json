@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Sized for halfling hands.</em></p><p>Automatically whittles wooden crafts.</p><p>Must be told what to produce, otherwise it will make spoons.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Knife</p>",
+      "public": "<p><em>Sized for halfling hands.</em></p><p>Automatically whittles wooden crafts.</p><p>Must be told what to produce, otherwise it will make spoons.</p><hr><p>Uncommon Knife</p>",
       "unidentified": "",
       "secret": ""
     },

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Ordinary rock tied to a string.</em></p><p>Detects when it has been rained on by turning wet.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Tool</p>",
+      "public": "<p><em>Ordinary rock tied to a string.</em></p><p>Detects when it has been rained on by turning wet.</p><hr><p>Common Tool</p>",
       "unidentified": "",
       "secret": ""
     },

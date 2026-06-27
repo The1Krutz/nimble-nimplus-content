@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Great for swinging across gaps.</em></p><p>1d4+STR Slashing. Reach 2</p><p>On hit: Knock target Prone (1/encounter).</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Whip</p><p><strong>Requirement:</strong> 3 Lore</p>",
+      "public": "<p><em>Great for swinging across gaps.</em></p><p>1d4+STR Slashing. Reach 2</p><p>On hit: Knock target Prone (1/encounter).</p><hr><p>Uncommon Whip</p><p><strong>Requirement:</strong> 3 Lore</p>",
       "unidentified": "",
       "secret": ""
     },

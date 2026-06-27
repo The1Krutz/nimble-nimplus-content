@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Engraved with an image of a sloth.</em></p><p>1d6+STR Slashing. Thrown 8.</p><p>Always returns to whomever threw it last after 1d6 hours.</p><p>bottomline</p><p>bottomline</p><hr><p>Common Thrown Weapon</p>",
+      "public": "<p><em>Engraved with an image of a sloth.</em></p><p>1d6+STR Slashing. Thrown 8.</p><p>Always returns to whomever threw it last after 1d6 hours.</p><hr><p>Common Thrown Weapon</p>",
       "unidentified": "",
       "secret": ""
     },

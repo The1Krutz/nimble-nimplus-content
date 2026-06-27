@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Seems to have expired a few years ago.</em></p><p>Heals 2d4+4 HP.</p><p>DC 10 STR save, no healing and nausea on fail.</p><p>bottomline</p><p>bottomline</p><hr><p>Common Potion</p>",
+      "public": "<p><em>Seems to have expired a few years ago.</em></p><p>Heals 2d4+4 HP.</p><p>DC 10 STR save, no healing and nausea on fail.</p><hr><p>Common Potion</p>",
       "unidentified": "",
       "secret": ""
     },

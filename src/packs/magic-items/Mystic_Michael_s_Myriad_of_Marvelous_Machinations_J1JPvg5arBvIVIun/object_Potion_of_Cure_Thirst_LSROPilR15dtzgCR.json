@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Vial of clear, refreshing liquid.</em></p><p>Cures the Thirsty condition.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Potion</p>",
+      "public": "<p><em>Vial of clear, refreshing liquid.</em></p><p>Cures the Thirsty condition.</p><hr><p>Common Potion</p>",
       "unidentified": "",
       "secret": ""
     },

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Leather coin pouch with a red yarn string.</em></p><p>Always appears to be full of coins, even if empty.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Container</p>",
+      "public": "<p><em>Leather coin pouch with a red yarn string.</em></p><p>Always appears to be full of coins, even if empty.</p><hr><p>Common Container</p>",
       "unidentified": "",
       "secret": ""
     },

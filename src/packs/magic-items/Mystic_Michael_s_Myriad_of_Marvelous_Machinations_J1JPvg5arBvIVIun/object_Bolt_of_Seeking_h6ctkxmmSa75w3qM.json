@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Crimson bolt stained with blood.</em></p><p>Seeks the nearest creature with a heartbeat when fired (including the shooter).</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Ammunition</p>",
+      "public": "<p><em>Crimson bolt stained with blood.</em></p><p>Seeks the nearest creature with a heartbeat when fired (including the shooter).</p><hr><p>Uncommon Ammunition</p>",
       "unidentified": "",
       "secret": ""
     },

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Simple gold ring with a date inscription.</em></p><p>The owner always knows where the ring is.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Ring</p><p><strong>Requirement:</strong> Less than 1 INT</p>",
+      "public": "<p><em>Simple gold ring with a date inscription.</em></p><p>The owner always knows where the ring is.</p><hr><p>Common Ring</p><p><strong>Requirement:</strong> Less than 1 INT</p>",
       "unidentified": "",
       "secret": ""
     },

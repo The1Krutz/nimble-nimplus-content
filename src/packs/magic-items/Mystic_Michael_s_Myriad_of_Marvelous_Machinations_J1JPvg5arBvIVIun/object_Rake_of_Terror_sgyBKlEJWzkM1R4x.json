@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Seemingly just a regular gardening rake. Or is it...</em></p><p>Hits the victim in the face when stepped on, stopping movement and dealing 1d6 Bludgeoning damage.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Trap</p>",
+      "public": "<p><em>Seemingly just a regular gardening rake. Or is it...</em></p><p>Hits the victim in the face when stepped on, stopping movement and dealing 1d6 Bludgeoning damage.</p><hr><p>Common Trap</p>",
       "unidentified": "",
       "secret": ""
     },
