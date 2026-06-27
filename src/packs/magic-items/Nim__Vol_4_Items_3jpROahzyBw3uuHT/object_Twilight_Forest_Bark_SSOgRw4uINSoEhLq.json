@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Edible piece of the Twilight Forest.</em></p><p>bottomline</p><p>Grants the ability to hear trees whispering of recent events for one evening.</p><p>Tastes like cinnamon.</p><p>bottomline</p><hr><p>Uncommon Bark</p><p><strong>Cost:</strong> 100 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 100,
       "denomination": "gp"
     },
     "quantity": 1,

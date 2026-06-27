@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Just a simple iron ring.</em></p><p>bottomline</p><p>Grants the ability to make small objects invisible while they are in contact with the ring.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Ring</p><p><strong>Cost:</strong> 280 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 280,
       "denomination": "gp"
     },
     "quantity": 1,

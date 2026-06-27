@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>For the hero-on-the-go.</em></p><p>bottomline</p><p>bottomline</p><p>Keeps liquid at exactly the same temperature while sealed.</p><p>bottomline</p><hr><p>Uncommon Container</p><p><strong>Cost:</strong> 50 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 50,
       "denomination": "gp"
     },
     "quantity": 1,
