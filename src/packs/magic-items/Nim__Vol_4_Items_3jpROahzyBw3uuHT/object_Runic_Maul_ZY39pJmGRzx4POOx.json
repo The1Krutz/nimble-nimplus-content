@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,8 +21,50 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
-      "showDescription": true,
+      "effects": [
+        {
+          "id": "yksoPFQqDrbB9DcD",
+          "type": "damage",
+          "damageType": "bludgeoning",
+          "formula": "1d4+@strength",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "73BhW2uFiBA6RkF6",
+                "type": "condition",
+                "condition": "prone",
+                "parentContext": "miss",
+                "parentNode": "yksoPFQqDrbB9DcD"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "x4svTXIjIEVOzjcH",
+                "type": "damage",
+                "damageType": "bludgeoning",
+                "formula": "20",
+                "parentContext": "criticalHit",
+                "parentNode": "yksoPFQqDrbB9DcD",
+                "on": {}
+              }
+            ],
+            "hit": [
+              {
+                "id": "sQxWmNmPTDpAYqbr",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "yksoPFQqDrbB9DcD"
+              }
+            ]
+          }
+        }
+      ],
+      "showDescription": false,
       "targets": {
         "count": 1,
         "restrictions": "",
@@ -42,7 +84,7 @@
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "weapon",
     "weaponType": "",
     "price": {
       "value": 2000,
@@ -63,10 +105,10 @@
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["twoHanded"],
       "strengthRequirement": {
-        "value": null,
-        "overridesTwoHanded": false
+        "value": 4,
+        "overridesTwoHanded": true
       },
       "thrownRange": 4
     }
@@ -86,7 +128,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782486733820,
+    "modifiedTime": 1782538197241,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!ZY39pJmGRzx4POOx"
