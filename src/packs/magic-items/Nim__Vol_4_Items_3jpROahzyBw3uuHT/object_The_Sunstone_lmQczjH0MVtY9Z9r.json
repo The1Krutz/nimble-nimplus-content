@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Praise the sun!</em></p><p>Shines bright for 2 hours when activated (1 use).</p><p>bottomline</p><p>Recharge: Soak in sunlight from dawn till dusk.</p><p>bottomline</p><hr><p>Uncommon Gem</p><p><strong>Cost:</strong> 200 gp</p>",
+      "public": "<p><em>Praise the sun!</em></p><p>Shines bright for 2 hours when activated (1 use).</p><p>Recharge: Soak in sunlight from dawn till dusk.</p><hr><p>Uncommon Gem</p><p><strong>Cost:</strong> 200 gp</p>",
       "unidentified": "",
       "secret": ""
     },

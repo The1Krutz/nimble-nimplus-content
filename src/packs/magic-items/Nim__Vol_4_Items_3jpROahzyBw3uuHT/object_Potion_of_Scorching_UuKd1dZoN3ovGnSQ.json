@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Vial of warm, auburn liquid.</em></p><p>bottomline</p><p>Grants a fiery aura for 1 minute, dealing 1 Fire damage when attacked in melee.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 275 gp</p>",
+      "public": "<p><em>Vial of warm, auburn liquid.</em></p><p>Grants a fiery aura for 1 minute, dealing 1 Fire damage when attacked in melee.</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 275 gp</p>",
       "unidentified": "",
       "secret": ""
     },

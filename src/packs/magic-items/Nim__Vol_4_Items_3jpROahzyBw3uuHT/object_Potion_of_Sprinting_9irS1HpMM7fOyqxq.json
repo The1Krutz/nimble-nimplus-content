@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Vial of swirling, silvery liquid.</em></p><p>bottomline</p><p>Grants double Speed until the end of your next turn.</p><p>bottomline</p><p>Become Slowed afterwards.</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 50 gp</p>",
+      "public": "<p><em>Vial of swirling, silvery liquid.</em></p><p>Grants double Speed until the end of your next turn.</p><p>Become Slowed afterwards.</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 50 gp</p>",
       "unidentified": "",
       "secret": ""
     },

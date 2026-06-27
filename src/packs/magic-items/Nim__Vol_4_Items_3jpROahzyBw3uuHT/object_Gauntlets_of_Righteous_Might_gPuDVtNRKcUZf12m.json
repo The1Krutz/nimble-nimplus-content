@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Covered in gilded scales, amplifying natural strength.</em></p><p>Grants +1 to STR-based skill checks.</p><p>Apply Dawnmark when you Grapple or punch an enemy (1/turn).</p><p><strong>Dawnmark:</strong> Stackable condition. On attack, you may consume all stacks to deal additional Radiant damage based on the amount of marks consumed this way (1d4>1d6> ... >1d20).</p><p>bottomline</p><hr><p>Very Rare Gauntlets</p><p><strong>Cost:</strong> 150000 gp</p>",
+      "public": "<p><em>Covered in gilded scales, amplifying natural strength.</em></p><p>Grants +1 to STR-based skill checks.</p><p>Apply Dawnmark when you Grapple or punch an enemy (1/turn).</p><p><strong>Dawnmark:</strong> Stackable condition. On attack, you may consume all stacks to deal additional Radiant damage based on the amount of marks consumed this way (1d4>1d6> ... >1d20).</p><hr><p>Very Rare Gauntlets</p><p><strong>Cost:</strong> 150000 gp</p>",
       "unidentified": "",
       "secret": ""
     },

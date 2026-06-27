@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>POOF!</em></p><p>Covers a 3x3 area within Range 6 in thick smoke for 2 turns, granting Cover to anyone within.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Explosive</p><p><strong>Cost:</strong> 2 gp</p>",
+      "public": "<p><em>POOF!</em></p><p>Covers a 3x3 area within Range 6 in thick smoke for 2 turns, granting Cover to anyone within.</p><hr><p>Common Explosive</p><p><strong>Cost:</strong> 2 gp</p>",
       "unidentified": "",
       "secret": ""
     },

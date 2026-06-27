@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Vial of thick, disgusting goo.</em></p><p>bottomline</p><p>Grants the effects of False Face for 1 hour.</p><p>Must be mixed with a piece of the target.</p><p>bottomline</p><hr><p>Rare Potion</p><p><strong>Cost:</strong> 699 gp</p>",
+      "public": "<p><em>Vial of thick, disgusting goo.</em></p><p>Grants the effects of False Face for 1 hour.</p><p>Must be mixed with a piece of the target.</p><hr><p>Rare Potion</p><p><strong>Cost:</strong> 699 gp</p>",
       "unidentified": "",
       "secret": ""
     },

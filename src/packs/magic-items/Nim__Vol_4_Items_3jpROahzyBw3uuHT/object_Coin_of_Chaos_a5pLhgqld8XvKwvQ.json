@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Silver coin created by an unusually unlucky wizard.</em></p><p>bottomline</p><p>bottomline</p><p>Flip the coin to roll on the Chaos Magic Table (1/Safe Rest).</p><p>bottomline</p><hr><p>Uncommon Cursed Trinket</p><p><strong>Cost:</strong> 10d20 gp</p>",
+      "public": "<p><em>Silver coin created by an unusually unlucky wizard.</em></p><p>Flip the coin to roll on the Chaos Magic Table (1/Safe Rest).</p><hr><p>Uncommon Cursed Trinket</p><p><strong>Cost:</strong> 10d20 gp</p>",
       "unidentified": "",
       "secret": ""
     },

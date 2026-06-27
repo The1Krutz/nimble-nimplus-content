@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Vial of green, viscous liquid.</em></p><p>bottomline</p><p>bottomline</p><p>Grants the ability to speak with animals for 1 hour.</p><p>You cannot speak any other language meanwhile.</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 80 gp</p>",
+      "public": "<p><em>Vial of green, viscous liquid.</em></p><p>Grants the ability to speak with animals for 1 hour.</p><p>You cannot speak any other language meanwhile.</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 80 gp</p>",
       "unidentified": "",
       "secret": ""
     },

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>What remains of an ancient creature.</em></p><p>bottomline</p><p>bottomline</p><p>Prevent the first instance of damage you would suffer each encounter.</p><p>bottomline</p><hr><p>Very Rare Fossil</p><p><strong>Cost:</strong> 10000 gp</p>",
+      "public": "<p><em>What remains of an ancient creature.</em></p><p>Prevent the first instance of damage you would suffer each encounter.</p><hr><p>Very Rare Fossil</p><p><strong>Cost:</strong> 10000 gp</p>",
       "unidentified": "",
       "secret": ""
     },

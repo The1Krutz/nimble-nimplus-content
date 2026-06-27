@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Vial of gold-flecked salt.</em></p><p>bottomline</p><p>Spray salt in a 2x2 area within Reach 4.</p><p>All undead creatures in the area gain disadvantage on all rolls for 3 turns.</p><p>bottomline</p><hr><p>Rare Remedy</p><p><strong>Cost:</strong> 800 gp</p>",
+      "public": "<p><em>Vial of gold-flecked salt.</em></p><p>Spray salt in a 2x2 area within Reach 4.</p><p>All undead creatures in the area gain disadvantage on all rolls for 3 turns.</p><hr><p>Rare Remedy</p><p><strong>Cost:</strong> 800 gp</p>",
       "unidentified": "",
       "secret": ""
     },

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Vial of bitter, taupe liquid.</em></p><p>bottomline</p><p>Reduce all damage by KEY and become Slowed until the end of your next turn.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 65 gp</p>",
+      "public": "<p><em>Vial of bitter, taupe liquid.</em></p><p>Reduce all damage by KEY and become Slowed until the end of your next turn.</p><hr><p>Uncommon Potion</p><p><strong>Cost:</strong> 65 gp</p>",
       "unidentified": "",
       "secret": ""
     },
