@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Orb of black marble with swirling liquid inside.</em></p><p>Reveals a (questionable) prediction when posed a question and shaken. GM rolls 1d6 in secret:</p><ul><li>1-2 - Misleading Advice</li><li>3-5 - Irrelevant Advice</li><li>6 - Useful Advice</li></ul><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Common Divining Tool</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
