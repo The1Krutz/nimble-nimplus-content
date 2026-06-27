@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Weights and pulleys attachable to armor.</em></p><p>bottomline</p><p>bottomline</p><p>Lowers STR requirements for weapons by 1.</p><p>bottomline</p><hr><p>Uncommon Counterweight</p><p><strong>Cost:</strong> 375 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 375,
       "denomination": "gp"
     },
     "quantity": 1,

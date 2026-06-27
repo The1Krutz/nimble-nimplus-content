@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Silver contraption tarnished with irremovable soot. Does not tell time.</em></p><p><strong>Witching Hour.</strong> Action: Summon WIL 1d6 Shadow Minions (1/Safe Rest).</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Device</p><p><strong>Cost:</strong> 600 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 600,
       "denomination": "gp"
     },
     "quantity": 1,

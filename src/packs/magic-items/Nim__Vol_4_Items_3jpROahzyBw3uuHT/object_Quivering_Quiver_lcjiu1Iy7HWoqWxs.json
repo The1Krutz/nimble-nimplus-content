@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Fur-lined quiver emanating freezing mist.</em></p><p>Arrows stored in this quiver deal Cold damage, and grant advantage against Hampered enemies.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Quiver</p><p><strong>Cost:</strong> 2800 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 2800,
       "denomination": "gp"
     },
     "quantity": 1,
