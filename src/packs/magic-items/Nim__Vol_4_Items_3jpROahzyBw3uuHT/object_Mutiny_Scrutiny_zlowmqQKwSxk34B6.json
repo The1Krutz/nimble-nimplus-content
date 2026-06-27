@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Stained with the brine of many voyages at sea.</em></p><p>bottomline</p><p>Grants advantage on skill checks related to detecting lies and falsehoods.</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Eyepatch</p><p><strong>Cost:</strong> 250 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 250,
       "denomination": "gp"
     },
     "quantity": 1,
