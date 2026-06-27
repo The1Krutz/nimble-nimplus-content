@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Keen dagger with a blueish hue, perfectly balanced.</em></p><p>1d4+DEX Slashing. Light, Thrown 4.</p><p>On thrown hit: Teleport adjacent to the target and retrieve the dagger.</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Dagger</p><p><strong>Cost:</strong> 2,250 gp</p>",
+      "public": "<p><em>Keen dagger with a blueish hue, perfectly balanced.</em></p><p>1d4+DEX Slashing. Light, Thrown 4.</p><p>On thrown hit: Teleport adjacent to the target and retrieve the dagger.</p><hr><p>Rare Dagger</p><p><strong>Cost:</strong> 2,250 gp</p>",
       "unidentified": "",
       "secret": ""
     },

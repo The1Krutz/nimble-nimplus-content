@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Brittle key of old bone.</em></p><p>Opens any suitable lock. Breaks after one use.</p><hr><p>Uncommon Key</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

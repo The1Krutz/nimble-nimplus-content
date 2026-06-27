@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Nuffin' personel, gob...</em></p><p>Grants the Shadowstab! ability.</p><p><strong>Shadowstab!</strong> (1/turn) Action: \"Teleport\" behind an enemy within Reach 6, then attack with advantage for free. On hit: DC 10+KEY WIL save or Frightened for 1 turn.</p><hr><p>Legendary Manual</p><p><strong>Cost:</strong> 574650 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 574650,
       "denomination": "gp"
     },
     "quantity": 1,

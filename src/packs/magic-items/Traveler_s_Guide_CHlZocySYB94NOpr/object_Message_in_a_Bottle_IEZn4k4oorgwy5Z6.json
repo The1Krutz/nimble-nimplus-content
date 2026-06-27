@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>A glass bottle with a cork.</em></p><p>Toss the bottle into a body of water with a handwritten letter inside, and it will somehow find its way to the recipient within about a month or so.</p><hr><p>Uncommon Bottle</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

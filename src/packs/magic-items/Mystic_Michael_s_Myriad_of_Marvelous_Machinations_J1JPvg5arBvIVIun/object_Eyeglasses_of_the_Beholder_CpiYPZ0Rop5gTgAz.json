@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Eyeglasses linked to a floating orb with a single eye.</em></p><p>Allows the wearer to control and see through the eye of the floating orb as long as it's within 20 meters.</p><hr><p>Uncommon Spectacles</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

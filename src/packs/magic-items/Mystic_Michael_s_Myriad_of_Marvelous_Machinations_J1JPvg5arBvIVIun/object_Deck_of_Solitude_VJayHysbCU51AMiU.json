@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Regular playing cards in a fine mahogany case.</em></p><p>While used to play Solitaire, you will usually be ignored by other people.</p><hr><p>Common Deck of Cards</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

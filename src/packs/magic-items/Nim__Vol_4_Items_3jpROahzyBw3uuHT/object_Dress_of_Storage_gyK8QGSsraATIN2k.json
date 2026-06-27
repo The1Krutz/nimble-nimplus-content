@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Comfortable dress with pockets. Claimed by some to be a myth.</em></p><p>+2 inventory slots.</p><hr><p>Common Cloth Armor</p><p><strong>Armor:</strong> 2+DEX</p><p><strong>Cost:</strong> 1 gp 9 sp</p>",
+      "public": "<p><em>Comfortable dress with pockets. Claimed by some to be a myth.</em></p><p>+2 inventory slots.</p><hr><p>Common Cloth Armor</p><p><strong>Armor:</strong> 2+DEX</p><p><strong>Cost:</strong> <s>1 gp 9 sp</s> Sold out</p>",
       "unidentified": "",
       "secret": ""
     },

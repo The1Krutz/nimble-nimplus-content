@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Inscribed with runes for each of the four elements.</em></p><p>Grants guidance when faced with a choice of direction or action (1/Safe Rest).</p><p>Roll 1d4:</p><ol><li>Fire - Points towards riskiest path</li><li>Air - Points towards the most direct path</li><li>Water - Points towards the safest path</li><li>Earth - Points towards the most consistent path</li></ol><hr><p>Rare Compass</p><p><strong>Cost:</strong> 1234 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 1234,
       "denomination": "gp"
     },
     "quantity": 1,

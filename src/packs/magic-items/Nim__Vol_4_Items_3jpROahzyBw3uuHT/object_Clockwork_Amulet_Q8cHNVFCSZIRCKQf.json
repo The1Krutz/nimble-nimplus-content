@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Copper dial of interlocking, whirring gears.</em></p><p>When you attack, you may set the result of your Primary Die to 2 instead of rolling (1/encounter).</p><hr><p>Uncommon Amulet</p><p><strong>Cost:</strong> 375 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 375,
       "denomination": "gp"
     },
     "quantity": 1,

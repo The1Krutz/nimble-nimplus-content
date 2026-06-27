@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>To do: Write description.</em></p><p>Effect goes here. I'll get around to it later.</p><p>(Imposes disadvantage on rolls related to your current errand)</p><hr><p>Common Cursed Gem</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

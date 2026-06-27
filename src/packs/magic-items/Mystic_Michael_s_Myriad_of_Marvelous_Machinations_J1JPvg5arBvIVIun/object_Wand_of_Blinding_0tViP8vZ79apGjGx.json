@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Metallic rod with a red on/off button.</em></p><p>Creates a thin, green beam of light (10 charges).</p><p>Recharge: Buy more batteries from Mystic Michael.</p><hr><p>Common Wand</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

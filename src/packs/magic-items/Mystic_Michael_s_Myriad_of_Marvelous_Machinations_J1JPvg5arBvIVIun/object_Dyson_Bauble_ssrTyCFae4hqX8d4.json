@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Glass orb with a beautiful landscape inside, teeming with life.</em></p><p>Shaking the orb vigorously causes the landscape to dissolve and reform randomly.</p><hr><p>Rare Orb</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

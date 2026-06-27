@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Leather sling, stained red.</em></p><p>1d4+DEX Bludgeoning. 2-handed, Range 8.</p><p>Projectiles turn into overripe tomatoes.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Sling</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Leather sling, stained red.</em></p><p>1d4+DEX Bludgeoning. 2-handed, Range 8.</p><p>Projectiles turn into overripe tomatoes.</p><hr><p>Uncommon Sling</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

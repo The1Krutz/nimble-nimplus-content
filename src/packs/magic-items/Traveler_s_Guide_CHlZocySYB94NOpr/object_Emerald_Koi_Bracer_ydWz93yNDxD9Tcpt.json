@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Ornate bracer with a carving of a mythical fish.</em></p><p>While wearing this bracer, you have advantage on WIL saves as long as you are properly hydrated, but you become vulnerable to Lightning and Fire. If you remove it, you become dangerously dehydrated and gain 1 wound.</p><hr><p>Rare Bracer</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

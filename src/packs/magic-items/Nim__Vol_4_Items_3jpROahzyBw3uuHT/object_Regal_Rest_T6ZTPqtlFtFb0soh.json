@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Made of the finest silks.</em></p><p>Grants LVL temp HP when used during a Field Rest or Safe Rest.</p><hr><p>Rare Bedroll</p><p><strong>Cost:</strong> 1000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 1000,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>\"The Sailor and the Salty Maid - romance on the high seas.\" No author.</em></p><p>When opened, an annoyed cat called Kissy the Cat will appear and attempt to nap on the book. Leaves whenever it feels like it.</p><hr><p>Common Book</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

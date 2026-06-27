@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Animated carpet with a sassy personality. Wipe your feet first!</em></p><p>Grants a fly Speed of 6.</p><p>Carries 1 large, 2 medium or 3 small creatures.</p><hr><p>Rare Rug</p><p><strong>Cost:</strong> 4500 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 4500,
       "denomination": "gp"
     },
     "quantity": 1,

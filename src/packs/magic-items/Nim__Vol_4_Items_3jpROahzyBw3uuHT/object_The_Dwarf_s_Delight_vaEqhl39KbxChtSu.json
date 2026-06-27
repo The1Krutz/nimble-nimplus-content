@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Keg-shaped mithril warhammer, overflowing with ale.</em></p><p>1d12+STR Bludgeoning. 2-handed.</p><p><strong>Cheers!</strong> On crit: All allies within Reach 4 gain LVL temp HP and advantage on their next attack.</p><p>bottomline</p><p>bottomline</p><hr><p>Very Rare Warhammer</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Cost:</strong> 85000 gp</p>",
+      "public": "<p><em>Keg-shaped mithril warhammer, overflowing with ale.</em></p><p>1d12+STR Bludgeoning. 2-handed.</p><p><strong>Cheers!</strong> On crit: All allies within Reach 4 gain LVL temp HP and advantage on their next attack.</p><hr><p>Very Rare Warhammer</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Cost:</strong> 85000 gp</p>",
       "unidentified": "",
       "secret": ""
     },

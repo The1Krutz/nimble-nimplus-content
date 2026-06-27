@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Quite the mantelpiece.</em></p><p>Tier 3 (1 charge)</p><p>Recharge: Build a home by hand, and leave the wand above the hearth.</p><hr><p>Rare Wand</p><p><strong>Cost:</strong> 4099 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 4099,
       "denomination": "gp"
     },
     "quantity": 1,

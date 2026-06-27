@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Veteran of many hikes. Able to walk using its short roots.</em></p><p>1d6+STR Bludgeoning.</p><p>Follows the owner when commanded.</p><p>bottomline</p><p>bottomline</p><hr><p>Common Staff</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Veteran of many hikes. Able to walk using its short roots.</em></p><p>1d6+STR Bludgeoning.</p><p>Follows the owner when commanded.</p><hr><p>Common Staff</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

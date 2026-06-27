@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Sturdy shell, previously attached to a Meriähti. It still hardens when struck.</em></p><p>When Defending, you may choose to absorb all of the damage with the shield instead. Its Armor Value is reduced by 1 every time this is done, and breaks permanently at zero.</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 1 STR</p><p><strong>Armor:</strong> 3</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Sturdy shell, previously attached to a Meriähti. It still hardens when struck.</em></p><p>When Defending, you may choose to absorb all of the damage with the shield instead. Its Armor Value is reduced by 1 every time this is done, and breaks permanently at zero.</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 1 STR</p><p><strong>Armor:</strong> 3</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -44,7 +44,7 @@
     "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

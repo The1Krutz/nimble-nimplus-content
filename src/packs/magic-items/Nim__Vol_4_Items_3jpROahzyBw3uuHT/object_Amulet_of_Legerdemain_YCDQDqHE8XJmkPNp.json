@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 1111,
       "denomination": "gp"
     },
     "quantity": 1,

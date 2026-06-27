@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Pouch of 5 magic jellybeans. You never know what you're going to get until you bite it!</em></p><p>Roll 1d8:</p><p><ol><li><strong>Green Bean.</strong> Spit onto any surface. Grows into a stable, 1-space large platform. Dissolves into green goo after 10 minutes.</li><li><strong>Yellow Bean.</strong> Chew to gain the effects of Feather Fall for 1 minute. Afterwards you spit up yellow goo.</li><li><strong>Blue Bean.</strong> Spit out to cover a 2×2 area with blue goo for 10 minutes. Doubles jumping range and height when bounced on.</li><li><strong>Orange Bean.</strong> Spit out to cover 6 spaces in a line with orange goo for 10 minutes. Doubles movement speed.</li><li><strong>Purple Bean.</strong> Chew to grow a size category for 1 minute, up to Large. Afterwards you spit up purple goo.</li><li><strong>Pink Bean.</strong> Chew to shrink a size category for 1 minute, down to Tiny. Afterwards you spit up pink goo.</li><li><strong>Black Bean.</strong> Spit onto any surface. Grows into a climbable pillar up to 5 meters tall. Dissolves into black goo after 10 minutes.</li><li><strong>White Bean.</strong> Chew to become adhesive for 1 minute, gaining the ability to climb most surfaces. Afterwards you spit up white goo.</li></ol></p><hr><p>Uncommon Candy</p><p><strong>Cost:</strong> 150 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 150,
       "denomination": "gp"
     },
     "quantity": 1,

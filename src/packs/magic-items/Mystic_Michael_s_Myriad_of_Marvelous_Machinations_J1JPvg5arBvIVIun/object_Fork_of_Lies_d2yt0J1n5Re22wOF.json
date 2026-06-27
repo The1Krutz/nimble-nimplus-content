@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Silver fork, tines slightly discolored.</em></p><p>Anyone stabbed by the fork are compelled to lie for 1 minute on a failed DC 15 WIL save.</p><hr><p>Uncommon Utensil</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

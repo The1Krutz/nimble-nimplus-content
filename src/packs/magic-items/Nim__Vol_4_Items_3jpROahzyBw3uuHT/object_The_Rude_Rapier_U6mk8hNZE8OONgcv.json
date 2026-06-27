@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Berates the wielder if they miss with wit as sharp as its edge.</em></p><p>2d4+DEX Piercing & 1d6 Psychic.</p><p>On miss: You suffer the Psychic damage instead.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Rapier</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Berates the wielder if they miss with wit as sharp as its edge.</em></p><p>2d4+DEX Piercing & 1d6 Psychic.</p><p>On miss: You suffer the Psychic damage instead.</p><hr><p>Uncommon Rapier</p><p><strong>Cost:</strong> Please make it shut up</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Barbed and withering.</em></p><p>Tier 6 (1 charge)</p><p>Recharge: Keep the wand in utmost silence for 66 consecutive days.</p><hr><p>Very Rare Wand</p><p><strong>Cost:</strong> 66000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 66000,
       "denomination": "gp"
     },
     "quantity": 1,

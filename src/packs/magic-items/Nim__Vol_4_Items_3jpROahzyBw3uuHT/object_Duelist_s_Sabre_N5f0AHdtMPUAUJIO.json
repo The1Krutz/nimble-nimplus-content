@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,8 +21,50 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
-      "showDescription": true,
+      "effects": [
+        {
+          "id": "I7gayPPKWf5J4gEL",
+          "type": "damage",
+          "damageType": "slashing",
+          "formula": "2d4+@dexterity",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "eyCiFfFX0PeHHHbP",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "I7gayPPKWf5J4gEL"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "jcPzhHLQAJEqdJ2r",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "I7gayPPKWf5J4gEL"
+              }
+            ],
+            "hit": [
+              {
+                "id": "XMgIdCx0fSmHkE05",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "I7gayPPKWf5J4gEL"
+              }
+            ]
+          }
+        }
+      ],
+      "showDescription": false,
       "targets": {
         "count": 1,
         "restrictions": "",
@@ -37,12 +79,12 @@
       }
     },
     "description": {
-      "public": "<p><em>Extracts both blood and bitter tears.</em></p><p>2d4+DEX Slashing.</p><p>Advantage against Taunted enemies.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Shortsword</p><p><strong>Cost:</strong> 300 gp</p>",
+      "public": "<p><em>Extracts both blood and bitter tears.</em></p><p>2d4+DEX Slashing.</p><p>Advantage against Taunted enemies.</p><hr><p>Uncommon Shortsword</p><p><strong>Cost:</strong> 300 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "weapon",
     "weaponType": "",
     "price": {
       "value": 300,
@@ -52,7 +94,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -86,7 +128,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782486733820,
+    "modifiedTime": 1782505913566,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!N5f0AHdtMPUAUJIO"

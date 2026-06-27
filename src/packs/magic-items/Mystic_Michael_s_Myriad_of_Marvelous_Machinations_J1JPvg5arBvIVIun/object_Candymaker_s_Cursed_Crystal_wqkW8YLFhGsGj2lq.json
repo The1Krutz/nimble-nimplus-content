@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Bitemarked gem glowing with faint, purple light.</em></p><p>Slowly turns organic matter touching it into delicious candy at a rate of 1 kilo per day.</p><hr><p>Rare Cursed Gem</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

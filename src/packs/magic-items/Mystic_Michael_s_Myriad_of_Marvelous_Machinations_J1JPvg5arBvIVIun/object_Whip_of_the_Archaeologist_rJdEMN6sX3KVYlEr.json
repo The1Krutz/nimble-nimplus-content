@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Great for swinging across gaps.</em></p><p>1d4+STR Slashing. Reach 2</p><p>On hit: Knock target Prone (1/encounter).</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Whip</p><p><strong>Requirement:</strong> 3 Lore</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Great for swinging across gaps.</em></p><p>1d4+STR Slashing. Reach 2</p><p>On hit: Knock target Prone (1/encounter).</p><hr><p>Uncommon Whip</p><p><strong>Requirement:</strong> 3 Lore</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

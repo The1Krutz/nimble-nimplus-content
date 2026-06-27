@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Wicked dagger quenched in the remnants of wrathful souls.</em></p><p>Casts Speak With Dead when plunged into the heart of a recent corpse.</p><p>Summons an aggressive Specter after 3 questions.</p><hr><p>Rare Cursed Dagger</p><p><strong>Cost:</strong> 1500 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 1500,
       "denomination": "gp"
     },
     "quantity": 1,

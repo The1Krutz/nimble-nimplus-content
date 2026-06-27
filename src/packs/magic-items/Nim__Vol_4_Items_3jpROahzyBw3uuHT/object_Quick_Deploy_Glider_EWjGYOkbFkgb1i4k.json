@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Folds up to fit most pockets. Single-use.</em></p><p>Deployable as a Reaction while falling, granting immunity to fall damage.</p><hr><p>Uncommon Glider</p><p><strong>Cost:</strong> 300 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 300,
       "denomination": "gp"
     },
     "quantity": 1,

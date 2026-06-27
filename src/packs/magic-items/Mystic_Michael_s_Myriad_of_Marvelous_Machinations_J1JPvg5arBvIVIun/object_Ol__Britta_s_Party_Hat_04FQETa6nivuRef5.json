@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Stained straw hat. Fits most heads.</em></p><p>Grants the ability to know the location of the nearest alcoholic beverage.</p><hr><p>Rare Shortsword</p><p><strong>Requirement:</strong> Less than 1 WIL</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

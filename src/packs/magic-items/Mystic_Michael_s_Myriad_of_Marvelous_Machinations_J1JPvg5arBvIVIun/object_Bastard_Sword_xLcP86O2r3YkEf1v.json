@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Please go outside before unsheathing.</em></p><p>1d6+DEX Piercing. Light.</p><p>Constantly berates the wielder while drawn.</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Cursed Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Please go outside before unsheathing.</em></p><p>1d6+DEX Piercing. Light.</p><p>Constantly berates the wielder while drawn.</p><hr><p>Uncommon Cursed Shortsword</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

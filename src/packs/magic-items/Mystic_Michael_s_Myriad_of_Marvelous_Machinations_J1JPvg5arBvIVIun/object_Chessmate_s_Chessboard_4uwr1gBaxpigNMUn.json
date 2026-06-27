@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "itemdescription",
+      "public": "<p><em>Foldable chessboard of ornately carved wood.</em></p><p>The pieces can be commanded after winning a game against the board (DC 20 INT save), acting according to their chess rules.</p><hr><p>Uncommon Construct</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
