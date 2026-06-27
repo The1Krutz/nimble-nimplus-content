@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Hefty pair of ironwood knuckles.</em></p><p>1d4+STR Bludgeoning. 2-handed.</p><p>Advantage to punching locks open.</p><p>bottomline</p><p>bottomline</p><hr><p>Common Fist Weapon</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Hefty pair of ironwood knuckles.</em></p><p>1d4+STR Bludgeoning. 2-handed.</p><p>Advantage to punching locks open.</p><p>bottomline</p><p>bottomline</p><hr><p>Common Fist Weapon</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

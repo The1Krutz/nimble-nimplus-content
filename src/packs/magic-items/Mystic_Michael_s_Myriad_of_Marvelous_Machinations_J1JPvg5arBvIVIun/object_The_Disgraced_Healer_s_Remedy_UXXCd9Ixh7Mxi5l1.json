@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Dented rock with an engraved rune.</em></p><p>2 Bludgeoning. Thrown 4.</p><p>On damage: Heal target for 1d4 HP.</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Projectile</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Dented rock with an engraved rune.</em></p><p>2 Bludgeoning. Thrown 4.</p><p>On damage: Heal target for 1d4 HP.</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Projectile</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

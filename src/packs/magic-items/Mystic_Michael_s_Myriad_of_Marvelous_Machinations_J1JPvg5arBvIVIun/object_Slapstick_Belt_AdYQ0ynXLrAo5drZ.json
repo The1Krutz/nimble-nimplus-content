@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Supple leather belt with a shiny buckle.</em></p><p>1d4+DEX Slashing. Reach 2.</p><p>Can be drawn as part of an Attack. Your pants drop if that attack misses.</p><p>bottomline</p><p>bottomline</p><hr><p>Common Whip</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Supple leather belt with a shiny buckle.</em></p><p>1d4+DEX Slashing. Reach 2.</p><p>Can be drawn as part of an Attack. Your pants drop if that attack misses.</p><hr><p>Common Whip</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,

@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>itemtopline</em></p><p>bottomline</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Rare Shortsword</p><p><strong>Cost:</strong> 1313 gp</p>",
+      "public": "<p><em>Rubbery fish on a wooden board with a button underneath.</em></p><p>Translates one sentence of any spoken language into Common when the button is pressed. Slows down and becomes unintelligible if used more than once per day.</p><p>bottomline</p><p>bottomline</p><p>bottomline</p><hr><p>Uncommon Construct</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,7 +45,7 @@
     "objectType": "",
     "weaponType": "",
     "price": {
-      "value": 1313,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
