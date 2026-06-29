@@ -42,7 +42,7 @@
       "secret": ""
     },
     "identified": true,
-        "objectType": "misc",
+    "objectType": "misc",
     "weaponType": "",
     "price": {
       "value": 750,
