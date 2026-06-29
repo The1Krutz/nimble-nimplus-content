@@ -1,0 +1,135 @@
+{
+  "name": "Thunderbolt Azur",
+  "type": "object",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "kHNFCRMOKUYPogVj",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [
+        {
+          "id": "Pbaa9V0pv3QpDTfa",
+          "type": "damage",
+          "damageType": "lightning",
+          "formula": "2d6+@dexterity",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "0d1xezfc8eJD8GUu",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "Pbaa9V0pv3QpDTfa"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "XowLwA7sR3bdBzM0",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT - Chain Lightning!",
+                "parentContext": "criticalHit",
+                "parentNode": "Pbaa9V0pv3QpDTfa"
+              }
+            ],
+            "hit": [
+              {
+                "id": "MUIbLmQbpWQPXLEx",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "Pbaa9V0pv3QpDTfa"
+              }
+            ]
+          }
+        }
+      ],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": {
+      "public": "<p><em>Bow of pure lightning, bestowed by the Lord of Storms.</em></p><p>2d6+DEX Lightning. 2-handed, Range 16.</p><p><strong>Chain Lightning.</strong> On crit: Attack the two creatures closest to your target for the same amount (must be within Range).</p><hr><p>Legendary Longbow</p><p><strong>Cost:</strong> 1717171 gp</p>",
+      "unidentified": "",
+      "secret": ""
+    },
+    "identified": true,
+    "objectType": "weapon",
+    "weaponType": "",
+    "price": {
+      "value": 1717171,
+      "denomination": "gp"
+    },
+    "quantity": 1,
+    "equipped": false,
+    "unidentifiedName": "Unidentified Object",
+    "objectSizeType": "slots",
+    "slotsRequired": 2,
+    "stackSize": 2,
+    "properties": {
+      "range": {
+        "min": 2,
+        "max": 16
+      },
+      "reach": {
+        "min": 1,
+        "max": null
+      },
+      "selected": ["twoHanded", "range"],
+      "strengthRequirement": {
+        "value": null,
+        "overridesTwoHanded": false
+      },
+      "thrownRange": 4
+    }
+  },
+  "effects": [],
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782486733820,
+    "modifiedTime": 1782763296820,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!kHNFCRMOKUYPogVj"
+}

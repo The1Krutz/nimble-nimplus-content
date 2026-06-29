@@ -1,13 +1,25 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Robe of Fashion",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "sYoUFywB7bSQm0rR",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "va4WXejYT2ukYJU4",
+        "identifier": "",
+        "label": "Robe of Fashion",
+        "predicate": {},
+        "priority": 1,
+        "formula": "3",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,22 +49,22 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>For the indecisive adventurer on the go!</em></p><p>Colors, patterns and shapes can be changed at will.</p><hr><p>Uncommon Cloth Armor</p><p><strong>Armor:</strong> 3+DEX</p><p><strong>Cost:</strong> 49 gp 9 sp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 1111,
-      "denomination": "gp"
+      "value": 499,
+      "denomination": "sp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 9300000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +101,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!sYoUFywB7bSQm0rR"
 }

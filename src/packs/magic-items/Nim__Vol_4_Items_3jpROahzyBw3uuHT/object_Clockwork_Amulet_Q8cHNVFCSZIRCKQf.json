@@ -1,9 +1,9 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Clockwork Amulet",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "Q8cHNVFCSZIRCKQf",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>Copper dial of interlocking, whirring gears.</em></p><p>When you attack, you may set the result of your Primary Die to 2 instead of rolling (1/encounter).</p><hr><p>Uncommon Amulet</p><p><strong>Cost:</strong> 375 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +45,14 @@
     "objectType": "misc",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 375,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 7100000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +89,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!Q8cHNVFCSZIRCKQf"
 }

@@ -1,13 +1,25 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Padded Shield",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "Ek1gko0PfHtwlRWK",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "TNUBZMZYsWkI6Bhr",
+        "identifier": "",
+        "label": "Padded Shield",
+        "predicate": {},
+        "priority": 1,
+        "formula": "4",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,22 +49,22 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>Lined with ablative materials.</em></p><p>Grants immunity to \"On damage\" effects when used to Defend.</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 4</p><p><strong>Cost:</strong> 3800 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "shield",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 3800,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 9000000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +101,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!Ek1gko0PfHtwlRWK"
 }

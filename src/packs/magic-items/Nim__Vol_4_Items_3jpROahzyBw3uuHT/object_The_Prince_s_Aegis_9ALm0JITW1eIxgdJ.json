@@ -1,13 +1,25 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "The Prince's Aegis",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "9ALm0JITW1eIxgdJ",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "yHvtHVAfSgXQJYI7",
+        "identifier": "",
+        "label": "The Prince's Aegis",
+        "predicate": {},
+        "priority": 1,
+        "formula": "10",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,22 +49,22 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>Impervious mithril mail, once a gift for a prince whose name is lost to time.</em></p><p>Wearable without proficiency if gifted to you by someone of royal blood.</p><hr><p>Rare Mail Armor</p><p><strong>Armor:</strong> 10+DEX</p><p><strong>Cost:</strong> 3000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 3000,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 5700000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +101,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!9ALm0JITW1eIxgdJ"
 }

@@ -1,13 +1,25 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Goopy Gloves",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "8Ccjlf3gXgwOJ91a",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "rBtE3lAyeNvANe9B",
+        "identifier": "",
+        "label": "Goopy Gloves",
+        "predicate": {},
+        "priority": 1,
+        "mode": "climb",
+        "speed": "@attributes.movement.walk / 2"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,7 +49,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>Covered with mimic-based adhesive.</em></p><p>Grants a climb Speed of half your regular Speed, and the ability to stick to most surfaces.</p><hr><p>Uncommon Gloves</p><p><strong>Cost:</strong> Get 'em out of the bin and they're yours.</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +57,14 @@
     "objectType": "misc",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 3200000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +101,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!8Ccjlf3gXgwOJ91a"
 }

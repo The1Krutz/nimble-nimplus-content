@@ -1,25 +1,25 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Smoke Bomb",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "soXRJ3TIYDj7BGWA",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "activation": {
-      "acquireTargetsFromTemplate": false,
+      "acquireTargetsFromTemplate": true,
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
         "details": "",
         "quantity": 1,
-        "type": "none"
+        "type": "turn"
       },
       "effects": [],
       "showDescription": true,
@@ -31,28 +31,28 @@
       },
       "template": {
         "length": 1,
-        "radius": 1,
-        "shape": "",
-        "width": 1
+        "radius": 3,
+        "shape": "square",
+        "width": 3
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>POOF!</em></p><p>Covers a 3x3 area within Range 6 in thick smoke for 2 turns, granting Cover to anyone within.</p><hr><p>Common Explosive</p><p><strong>Cost:</strong> 2 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "consumable",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 2,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 5900000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +89,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!soXRJ3TIYDj7BGWA"
 }

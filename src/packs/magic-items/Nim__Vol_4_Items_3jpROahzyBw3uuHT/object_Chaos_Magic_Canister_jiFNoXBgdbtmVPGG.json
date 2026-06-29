@@ -1,9 +1,9 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Chaos Magic Canister",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "jiFNoXBgdbtmVPGG",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>Glass orb filled with swirling smoke.</em></p><p>Throw to unleash smoke in a 2x2 area within Reach 6 for 1 minute. The first time someone breathes in the smoke, they must roll on the @UUID[Compendium.nimble.nimble-tables.RollTable.88iUQ5pgXNwl72uJ]{Chaos Magic Table}.</p><hr><p>Rare Explosive</p><p><strong>Cost:</strong> 1d1000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,13 +45,13 @@
     "objectType": "misc",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
+    "objectSizeType": "slots",
     "slotsRequired": 0,
     "stackSize": 2,
     "properties": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 7300000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782763296820,
+    "modifiedTime": 1782763296793,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!jiFNoXBgdbtmVPGG"
 }

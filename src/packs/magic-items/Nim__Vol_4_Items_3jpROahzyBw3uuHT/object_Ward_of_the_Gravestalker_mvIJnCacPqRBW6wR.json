@@ -1,13 +1,25 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Ward of the Gravestalker",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "mvIJnCacPqRBW6wR",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "7eXXTzmf6DTXRKOc",
+        "identifier": "",
+        "label": "Ward of the Gravestalker",
+        "predicate": {},
+        "priority": 1,
+        "formula": "6 + @will",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,22 +49,22 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>Tales of Gravestalkers can be found in all corners of the world, their blackened garb a portent of doom.</em></p><p><strong>Soul Absorption.</strong> (1/encounter) On kill: You may absorb the soul of your victim to become empowered for 3 turns. While empowered, your attacks deal Necrotic damage, ignore Armor and heal you for 10 HP on crit or kill.</p><hr><p>Legendary Leather Armor</p><p><strong>Requirement:</strong> 1 STR</p><p><strong>Armor:</strong> 6+DEX+WIL</p><p><strong>Cost:</strong> 1,800,000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 1800000,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 2,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 2700000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +101,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!mvIJnCacPqRBW6wR"
 }

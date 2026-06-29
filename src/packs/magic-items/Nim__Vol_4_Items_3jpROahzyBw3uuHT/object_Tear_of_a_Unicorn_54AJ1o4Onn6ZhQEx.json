@@ -1,9 +1,9 @@
 {
-  "name": "Amulet of Legerdemain",
+  "name": "Tear of a Unicorn",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "3jpROahzyBw3uuHT",
-  "_id": "YCDQDqHE8XJmkPNp",
+  "_id": "54AJ1o4Onn6ZhQEx",
   "system": {
     "macro": "",
     "identifier": "",
@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,7 +21,16 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "qy4cYLBy7uIKuW5n",
+          "type": "healing",
+          "healingType": "healing",
+          "formula": "20",
+          "parentContext": null,
+          "parentNode": null
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -37,22 +46,22 @@
       }
     },
     "description": {
-      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
+      "public": "<p><em>Once abundant, unicorns are now a rare sight. Some believe this makes their tears more potent.</em></p><p>Heals 20 HP, removes all wounds and cures all conditions.</p><hr><p>Very Rare Substance</p><p><strong>Cost:</strong> 100000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "consumable",
     "weaponType": "",
     "price": {
-      "value": 1111,
+      "value": 100000,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "smallSized",
-    "slotsRequired": 0,
+    "objectSizeType": "slots",
+    "slotsRequired": 0.5,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +81,7 @@
     }
   },
   "effects": [],
-  "sort": 1400000,
+  "sort": 3000000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +98,5 @@
     "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!YCDQDqHE8XJmkPNp"
+  "_key": "!items!54AJ1o4Onn6ZhQEx"
 }

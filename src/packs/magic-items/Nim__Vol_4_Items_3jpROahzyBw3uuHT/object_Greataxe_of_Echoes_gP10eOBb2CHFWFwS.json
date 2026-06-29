@@ -1,0 +1,135 @@
+{
+  "name": "Greataxe of Echoes",
+  "type": "object",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "gP10eOBb2CHFWFwS",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [
+        {
+          "id": "LDLAPbAMmgUTvBDf",
+          "type": "damage",
+          "damageType": "slashing",
+          "formula": "2d6+@strength",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "FgAesJxLhP40SVBl",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "LDLAPbAMmgUTvBDf"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "DrQakzOAQDfLdncY",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "LDLAPbAMmgUTvBDf"
+              }
+            ],
+            "hit": [
+              {
+                "id": "0HIrhx3cOHiNYohH",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "LDLAPbAMmgUTvBDf"
+              }
+            ]
+          }
+        }
+      ],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": {
+      "public": "<p><em>Imbued with the ever-burning soul of it's previous owner.</em></p><p>2d6+STR Slashing. 2-handed.</p><p><strong>Echostrike.</strong> On damage: Another creature within Reach 4 suffers the same amount of damage (1/turn).</p><hr><p>Legendary Greataxe</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Cost:</strong> 1750571 gp</p>",
+      "unidentified": "",
+      "secret": ""
+    },
+    "identified": true,
+    "objectType": "weapon",
+    "weaponType": "",
+    "price": {
+      "value": 1750571,
+      "denomination": "gp"
+    },
+    "quantity": 1,
+    "equipped": false,
+    "unidentifiedName": "Unidentified Object",
+    "objectSizeType": "slots",
+    "slotsRequired": 2,
+    "stackSize": 2,
+    "properties": {
+      "range": {
+        "min": 2,
+        "max": null
+      },
+      "reach": {
+        "min": 1,
+        "max": null
+      },
+      "selected": ["twoHanded"],
+      "strengthRequirement": {
+        "value": 3,
+        "overridesTwoHanded": false
+      },
+      "thrownRange": 4
+    }
+  },
+  "effects": [],
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782486733820,
+    "modifiedTime": 1782763296820,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!gP10eOBb2CHFWFwS"
+}
