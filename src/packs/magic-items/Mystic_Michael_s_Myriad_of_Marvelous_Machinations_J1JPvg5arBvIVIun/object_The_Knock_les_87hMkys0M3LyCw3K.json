@@ -1,0 +1,135 @@
+{
+  "name": "The Knock-les",
+  "type": "object",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "folder": "J1JPvg5arBvIVIun",
+  "_id": "87hMkys0M3LyCw3K",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [
+        {
+          "id": "FCcHue4HUhraZ9pt",
+          "type": "damage",
+          "damageType": "bludgeoning",
+          "formula": "1d4+@strength",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "alEMkQPxPg2Ltj0X",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "FCcHue4HUhraZ9pt"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "ues8L9VDTlxOzFIh",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "FCcHue4HUhraZ9pt"
+              }
+            ],
+            "hit": [
+              {
+                "id": "5aUL1cj1pFHjQAlo",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "FCcHue4HUhraZ9pt"
+              }
+            ]
+          }
+        }
+      ],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": {
+      "public": "<p><em>Hefty pair of ironwood knuckles.</em></p><p>1d4+STR Bludgeoning. 2-handed.</p><p>Advantage to punching locks open.</p><hr><p>Common Fist Weapon</p>",
+      "unidentified": "",
+      "secret": ""
+    },
+    "identified": true,
+    "objectType": "weapon",
+    "weaponType": "",
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "quantity": 1,
+    "equipped": false,
+    "unidentifiedName": "Unidentified Object",
+    "objectSizeType": "slots",
+    "slotsRequired": 2,
+    "stackSize": 2,
+    "properties": {
+      "range": {
+        "min": 2,
+        "max": null
+      },
+      "reach": {
+        "min": 1,
+        "max": null
+      },
+      "selected": ["twoHanded"],
+      "strengthRequirement": {
+        "value": null,
+        "overridesTwoHanded": false
+      },
+      "thrownRange": 4
+    }
+  },
+  "effects": [],
+  "sort": 5400000,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782486732740,
+    "modifiedTime": 1782753304765,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!87hMkys0M3LyCw3K"
+}
