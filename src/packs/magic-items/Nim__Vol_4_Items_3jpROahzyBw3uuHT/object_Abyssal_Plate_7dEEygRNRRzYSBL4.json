@@ -1,13 +1,35 @@
 {
-  "name": "Turtle Shield",
+  "name": "Abyssal Plate",
   "type": "object",
+  "_id": "7dEEygRNRRzYSBL4",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "WpuWm3plHLWrLA4M",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "ox4if1bJO1PWVs7I",
+        "identifier": "",
+        "label": "Abyssal Plate",
+        "predicate": {},
+        "priority": 1,
+        "formula": "14-@dexterity",
+        "mode": "add"
+      },
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "vbmvMo9kUeMQaY3w",
+        "identifier": "",
+        "label": "Abyssal Plate",
+        "predicate": {},
+        "priority": 1,
+        "mode": "swim",
+        "speed": "@attributes.movement.walk"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,7 +59,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Slow and steady.</em></p><p>Can be worn on your back. Standing up from Prone now also costs 1 action.</p><hr><p>Uncommon Shield</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Armor:</strong> 6</p><p><strong>Cost:</strong> 300 gp</p>",
+      "public": "<p><em>Streamlined armor of deep blue steel.</em></p><p>Grants a swim Speed and waterbreathing.</p><hr><p>Rare Plate Armor</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 14</p><p><strong>Cost:</strong> 4000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +67,14 @@
     "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 300,
+      "value": 4000,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +94,8 @@
     }
   },
   "effects": [],
-  "sort": 2300000,
+  "folder": "3jpROahzyBw3uuHT",
+  "sort": 1400000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -85,9 +108,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "createdTime": 1780592016980,
+    "modifiedTime": 1782760439758,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!WpuWm3plHLWrLA4M"
+  "_key": "!items!7dEEygRNRRzYSBL4"
 }

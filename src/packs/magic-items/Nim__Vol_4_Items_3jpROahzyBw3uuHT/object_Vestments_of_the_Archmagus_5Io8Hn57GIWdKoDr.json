@@ -1,13 +1,25 @@
 {
-  "name": "Doublet of the Banished Jester",
+  "name": "Vestments of the Archmagus",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "rhJDJ7YkFtdHAYkq",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "5Io8Hn57GIWdKoDr",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "SKJuqIPg1bhCVNFQ",
+        "identifier": "",
+        "label": "Vestments of the Archmagus",
+        "predicate": {},
+        "priority": 1,
+        "formula": "5 - @dexterity + @intelligence",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,7 +49,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Checkered with eye-searingly bright colors.</em></p><p>Most people probably won't take you seriously.</p><hr><p>Rare Cloth Armor</p><p><strong>Armor:</strong> DEX+Influence</p><p><strong>Cost:</strong> 4,650 gp</p>",
+      "public": "<p><em>Lined with ley-infused thread to empower magical ability. Worn by only the most powerful of mages.</em></p><p>Grants +1 to your spell save DCs.</p><p><strong>Confluence.</strong> (1/Safe Rest) Gain 3 actions. Until the end of your turn, your spells are not subject to the rushed attacks penalty.</p><hr><p>Legendary Cloth Armor</p><p><strong>Armor:</strong> 5+INT</p><p><strong>Cost:</strong> 2,650,777 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +57,14 @@
     "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 4650,
+      "value": 2650777,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 5700000,
+  "sort": 187500,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782761957133,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!rhJDJ7YkFtdHAYkq"
+  "_key": "!items!5Io8Hn57GIWdKoDr"
 }

@@ -1,8 +1,9 @@
 {
-  "name": "Abyssal Plate",
+  "name": "Spiked Shield",
   "type": "object",
-  "_id": "7dEEygRNRRzYSBL4",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "VWRPcoCvomsVwe6y",
   "system": {
     "macro": "",
     "identifier": "",
@@ -10,24 +11,13 @@
       {
         "type": "armorClass",
         "disabled": false,
-        "id": "ox4if1bJO1PWVs7I",
+        "id": "eZt6JE58AYkmD8hq",
         "identifier": "",
-        "label": "Abyssal Plate",
+        "label": "Spiked Shield",
         "predicate": {},
         "priority": 1,
-        "formula": "14",
+        "formula": "2",
         "mode": "add"
-      },
-      {
-        "type": "grantMovement",
-        "disabled": false,
-        "id": "vbmvMo9kUeMQaY3w",
-        "identifier": "",
-        "label": "Abyssal Plate",
-        "predicate": {},
-        "priority": 1,
-        "mode": "swim",
-        "speed": "@attributes.movement.walk"
       }
     ],
     "activation": {
@@ -35,7 +25,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -43,7 +33,49 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "TIigvCQE52Hlf5Df",
+          "type": "damage",
+          "damageType": "piercing",
+          "formula": "1d4+@strength",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "SgVdGyaMr7nHO15U",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "TIigvCQE52Hlf5Df"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "6Bj3kodwyVux6RUA",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "TIigvCQE52Hlf5Df"
+              }
+            ],
+            "hit": [
+              {
+                "id": "vAxXa98eyzSb9cTD",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "TIigvCQE52Hlf5Df"
+              }
+            ]
+          }
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -59,15 +91,15 @@
       }
     },
     "description": {
-      "public": "<p><em>Streamlined armor of deep blue steel.</em></p><p>Grants a swim Speed and waterbreathing.</p><hr><p>Rare Plate Armor</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 14</p><p><strong>Cost:</strong> 4000 gp</p>",
+      "public": "<p><em>Youch!</em></p><p>Usable as a melee weapon (1d4+STR Piercing).</p><hr><p>Uncommon Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 250 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "armor",
+    "objectType": "shield",
     "weaponType": "",
     "price": {
-      "value": 4000,
+      "value": 250,
       "denomination": "gp"
     },
     "quantity": 1,
@@ -94,8 +126,7 @@
     }
   },
   "effects": [],
-  "folder": "xwEcMDKCK1NRI3ay",
-  "sort": 3700000,
+  "sort": 1450000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,9 +139,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1780592016980,
-    "modifiedTime": 1782758414588,
+    "createdTime": 1782486733820,
+    "modifiedTime": 1782761509055,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!7dEEygRNRRzYSBL4"
+  "_key": "!items!VWRPcoCvomsVwe6y"
 }

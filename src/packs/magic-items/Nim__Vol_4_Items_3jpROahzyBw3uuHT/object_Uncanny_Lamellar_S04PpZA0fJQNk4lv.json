@@ -1,13 +1,25 @@
 {
-  "name": "Refractive Shield",
+  "name": "Uncanny Lamellar",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "7Gh6iPKzeveDMUId",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "S04PpZA0fJQNk4lv",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "8LGxQ528dIq3Gxfq",
+        "identifier": "",
+        "label": "Uncanny Lamellar",
+        "predicate": {},
+        "priority": 1,
+        "formula": "5",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,7 +49,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Hardwood shield imbued with arcane runes.</em></p><p>When you Defend against a single-target spell and reduce damage to 0, you may reflect the spell back at the caster (1/encounter).</p><hr><p>Rare Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 4999 gp</p>",
+      "public": "<p><em>You'll feel like you can dodge an explosion in this.</em></p><p>Grants advantage on DEX saves against AoE effects.</p><hr><p>Rare Leather Armor</p><p><strong>Armor:</strong> 5+DEX</p><p><strong>Cost:</strong> 3999 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +57,14 @@
     "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 4999,
+      "value": 3999,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 500000,
+  "sort": 175000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782761665974,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!7Gh6iPKzeveDMUId"
+  "_key": "!items!S04PpZA0fJQNk4lv"
 }

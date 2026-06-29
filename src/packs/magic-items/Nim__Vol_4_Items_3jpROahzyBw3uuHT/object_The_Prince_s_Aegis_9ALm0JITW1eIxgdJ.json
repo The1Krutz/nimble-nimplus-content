@@ -1,13 +1,25 @@
 {
-  "name": "Uncanny Lamellar",
+  "name": "The Prince's Aegis",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "S04PpZA0fJQNk4lv",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "9ALm0JITW1eIxgdJ",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "yHvtHVAfSgXQJYI7",
+        "identifier": "",
+        "label": "The Prince's Aegis",
+        "predicate": {},
+        "priority": 1,
+        "formula": "10",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,7 +49,7 @@
       }
     },
     "description": {
-      "public": "<p><em>You'll feel like you can dodge an explosion in this.</em></p><p>Grants advantage on DEX saves against AoE effects.</p><hr><p>Rare Leather Armor</p><p><strong>Armor:</strong> 5+DEX</p><p><strong>Cost:</strong> 3999 gp</p>",
+      "public": "<p><em>Impervious mithril mail, once a gift for a prince whose name is lost to time.</em></p><p>Wearable without proficiency if gifted to you by someone of royal blood.</p><hr><p>Rare Mail Armor</p><p><strong>Armor:</strong> 10+DEX</p><p><strong>Cost:</strong> 3000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +57,14 @@
     "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 3999,
+      "value": 3000,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1800000,
+  "sort": 1350000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782761607238,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!S04PpZA0fJQNk4lv"
+  "_key": "!items!9ALm0JITW1eIxgdJ"
 }

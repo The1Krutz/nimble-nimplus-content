@@ -1,13 +1,25 @@
 {
-  "name": "Vestments of the Archmagus",
+  "name": "Armor of the Hawk",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "5Io8Hn57GIWdKoDr",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "mlIXa47ivAKqkhoz",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "6yjWLLe1EYGF3ytM",
+        "identifier": "",
+        "label": "Armor of the Hawk",
+        "predicate": {},
+        "priority": 1,
+        "formula": "12 + min(@dexterity,2) - @dexterity",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,7 +49,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Lined with ley-infused thread to empower magical ability. Worn by only the most powerful of mages.</em></p><p>Grants +1 to your spell save DCs.</p><p><strong>Confluence.</strong> (1/Safe Rest) Gain 3 actions. Until the end of your turn, your spells are not subject to the rushed attacks penalty.</p><hr><p>Legendary Cloth Armor</p><p><strong>Armor:</strong> 5+INT</p><p><strong>Cost:</strong> 2,650,777 gp</p>",
+      "public": "<p><em>Sturdy steel armor emblazoned with an engraving of a majestic hawk.</em></p><p>When you suffer a Wound, gain a fly Speed for 1 minute.</p><hr><p>Rare Mail Armor</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Armor:</strong> 12+DEX (max 2)</p><p><strong>Cost:</strong> 3000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +57,14 @@
     "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 2650777,
+      "value": 3000,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 400000,
+  "sort": 1500000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782760706286,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!5Io8Hn57GIWdKoDr"
+  "_key": "!items!mlIXa47ivAKqkhoz"
 }

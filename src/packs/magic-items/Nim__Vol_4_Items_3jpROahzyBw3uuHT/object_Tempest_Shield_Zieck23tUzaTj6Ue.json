@@ -1,13 +1,25 @@
 {
-  "name": "Dress of Storage",
+  "name": "Tempest Shield",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "gyK8QGSsraATIN2k",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "Zieck23tUzaTj6Ue",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "Rcv9AWSfJTviRJWx",
+        "identifier": "",
+        "label": "Tempest Shield",
+        "predicate": {},
+        "priority": 1,
+        "formula": "4",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,22 +49,22 @@
       }
     },
     "description": {
-      "public": "<p><em>Comfortable dress with pockets. Claimed by some to be a myth.</em></p><p>+2 inventory slots.</p><hr><p>Common Cloth Armor</p><p><strong>Armor:</strong> 2+DEX</p><p><strong>Cost:</strong> <s>1 gp 9 sp</s> Sold out</p>",
+      "public": "<p><em>Engraved with spiraling channels, whistling in the breeze.</em></p><p><strong>Tempest.</strong> Until the start of your next turn, you cannot be hit by ranged attacks (1/encounter).</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 4</p><p><strong>Cost:</strong> 4700 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "armor",
+    "objectType": "shield",
     "weaponType": "",
     "price": {
-      "value": 19,
-      "denomination": "sp"
+      "value": 4700,
+      "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 5600000,
+  "sort": 1250000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782761545883,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!gyK8QGSsraATIN2k"
+  "_key": "!items!Zieck23tUzaTj6Ue"
 }

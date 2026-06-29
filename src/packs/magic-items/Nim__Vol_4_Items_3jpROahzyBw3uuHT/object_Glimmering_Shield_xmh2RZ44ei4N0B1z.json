@@ -1,13 +1,25 @@
 {
-  "name": "Robe of Fashion",
+  "name": "Glimmering Shield",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "sYoUFywB7bSQm0rR",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "xmh2RZ44ei4N0B1z",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "eyRUsRvXFqtAUv00",
+        "identifier": "",
+        "label": "Glimmering Shield",
+        "predicate": {},
+        "priority": 1,
+        "formula": "4",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,22 +49,22 @@
       }
     },
     "description": {
-      "public": "<p><em>For the indecisive adventurer on the go!</em></p><p>Colors, patterns and shapes can be changed at will.</p><hr><p>Uncommon Cloth Armor</p><p><strong>Armor:</strong> 3+DEX</p><p><strong>Cost:</strong> 49 gp 9 sp</p>",
+      "public": "<p><em>Reflects light with blinding intensity.</em></p><p>On Defend: Blind an adjacent enemy until the end of their next turn (1/encounter).</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 4</p><p><strong>Cost:</strong> 2500 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "armor",
+    "objectType": "shield",
     "weaponType": "",
     "price": {
-      "value": 499,
-      "denomination": "sp"
+      "value": 2500,
+      "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 3400000,
+  "sort": 2100000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782761185522,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!sYoUFywB7bSQm0rR"
+  "_key": "!items!xmh2RZ44ei4N0B1z"
 }

@@ -1,13 +1,25 @@
 {
-  "name": "Tempest Shield",
+  "name": "Cuirass of Blazing Justice",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "Zieck23tUzaTj6Ue",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "hu6o7zE5lQnPlSOo",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "hH9a4hmjaQSSqwa1",
+        "identifier": "",
+        "label": "Cuirass of Blazing Justice",
+        "predicate": {},
+        "priority": 1,
+        "formula": "18 - @dexterity",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,7 +49,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Engraved with spiraling channels, whistling in the breeze.</em></p><p><strong>Tempest.</strong> Until the start of your next turn, you cannot be hit by ranged attacks (1/encounter).</p><hr><p>Rare Shield</p><p><strong>Requirement:</strong> 2 STR</p><p><strong>Armor:</strong> 4</p><p><strong>Cost:</strong> 4700 gp</p>",
+      "public": "<p><em>Gold-trimmed breastplate emblazoned with a motif of the rising sun.</em></p><p>When you Defend or Interpose, apply Dawnmark to the attacker (1/turn). All Dawnmarked undead & unholy creatures within Reach 3 have disadvantage on all rolls.</p></p><p><strong>Dawnmark:</strong> Stackable condition. On attack, you may consume all stacks to deal additional Radiant damage based on the amount of marks consumed this way (1d4>1d6> ... >1d20).</p><hr><p>Very Rare Plate Armor</p><p><strong>Requirement:</strong> 3 STR</p><p><strong>Armor:</strong> 18</p><p><strong>Cost:</strong> 350,000 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +57,14 @@
     "objectType": "armor",
     "weaponType": "",
     "price": {
-      "value": 4700,
+      "value": 350000,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 2400000,
+  "sort": 1700000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782760901979,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!Zieck23tUzaTj6Ue"
+  "_key": "!items!hu6o7zE5lQnPlSOo"
 }

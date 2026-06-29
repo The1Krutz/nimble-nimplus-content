@@ -1,13 +1,25 @@
 {
-  "name": "Parry Buckler",
+  "name": "Giant Shield",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/shield.png",
-  "folder": "xwEcMDKCK1NRI3ay",
-  "_id": "MxMDAKCaCF1GC2wo",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "GPTc7ZoozXrkAsPt",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "w4fW2BQuQuIyaB5O",
+        "identifier": "",
+        "label": "Giant Shield",
+        "predicate": {},
+        "priority": 1,
+        "formula": "6",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -37,22 +49,22 @@
       }
     },
     "description": {
-      "public": "<p><em>The bane of casual attackers.</em></p><p>When you Defend and reduce damage to 0, you may make an opportunity attack for free.</p><hr><p>Rare Shield</p><p><strong>Armor:</strong> 2</p><p><strong>Cost:</strong> 800 gp</p>",
+      "public": "<p><em>Basically a giant slab of rock.</em></p><p>Grants Cover from ranged attacks to adjacent allies.</p><hr><p>Uncommon Shield</p><p><strong>Requirement:</strong> 4 STR</p><p><strong>Armor:</strong> 6</p><p><strong>Cost:</strong> 450 gp</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "armor",
+    "objectType": "shield",
     "weaponType": "",
     "price": {
-      "value": 800,
+      "value": 450,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1300000,
+  "sort": 2000000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +98,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782758414588,
+    "modifiedTime": 1782761152204,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MxMDAKCaCF1GC2wo"
+  "_key": "!items!GPTc7ZoozXrkAsPt"
 }
