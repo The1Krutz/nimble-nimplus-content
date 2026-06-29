@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "The Disgraced Healer's Remedy",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "UXXCd9Ixh7Mxi5l1",
   "system": {
     "macro": "",
     "identifier": "",
@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,7 +21,37 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "kzB6EfAsGtmCCqca",
+          "type": "damage",
+          "damageType": "bludgeoning",
+          "formula": "2",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": false,
+          "canMiss": false,
+          "on": {
+            "hit": [
+              {
+                "id": "ts0RVTlRzmtum2Z3",
+                "type": "healing",
+                "healingType": "healing",
+                "formula": "1d4",
+                "parentContext": "hit",
+                "parentNode": "kzB6EfAsGtmCCqca"
+              },
+              {
+                "id": "kdOhjYCYA1Yo7DpG",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "kzB6EfAsGtmCCqca"
+              }
+            ]
+          }
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -37,12 +67,12 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Dented rock with an engraved rune.</em></p><p>2 Bludgeoning. Thrown 4.</p><p>On damage: Heal target for 1d4 HP.</p><hr><p>Rare Projectile</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "weapon",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -63,7 +93,7 @@
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["thrown"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
@@ -72,7 +102,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 4300000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +119,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!UXXCd9Ixh7Mxi5l1"
 }

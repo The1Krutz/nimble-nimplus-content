@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Kaleidoscope of Dreams",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "ObV3ds6RxIBmNzlD",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Whoa dude!</em></p><p>Reveals dreamlike shapes and colors. Surely it must be a divine vision!</p><hr><p>Common Toy</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -52,7 +52,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 3000000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +89,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!ObV3ds6RxIBmNzlD"
 }

@@ -1,9 +1,9 @@
 {
-  "name": "Zircon's Unfair Advantage",
+  "name": "Sling of Disgrace",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "iT9qWVZ7exhEYBH1",
+  "_id": "ebHz6pnw9fWCKBQO",
   "system": {
     "macro": "",
     "identifier": "",
@@ -23,22 +23,42 @@
       },
       "effects": [
         {
-          "id": "upHgpjsW4ehCRZsM",
+          "id": "ympKJog0XV2fRvF0",
           "type": "damage",
-          "damageType": "cold",
-          "formula": "1",
+          "damageType": "bludgeoning",
+          "formula": "1d4+@dexterity",
           "parentContext": null,
           "parentNode": null,
           "canCrit": true,
-          "canMiss": false,
+          "canMiss": true,
           "on": {
+            "miss": [
+              {
+                "id": "rik6AxOfNCnoUPrG",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "ympKJog0XV2fRvF0"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "ZpWrCOO0JHYJEidN",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "ympKJog0XV2fRvF0"
+              }
+            ],
             "hit": [
               {
-                "id": "ur1443AhqRzIZ6c4",
+                "id": "TZwXJo62gj67ErR1",
                 "type": "damageOutcome",
                 "outcome": "fullDamage",
                 "parentContext": "hit",
-                "parentNode": "upHgpjsW4ehCRZsM"
+                "parentNode": "ympKJog0XV2fRvF0"
               }
             ]
           }
@@ -59,7 +79,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Handheld pump-action device with a small water container.</em></p><p>Squirts chilled water dealing 1 Cold damage.</p><p>6 shots, refill with water.</p><hr><p>Common Ranged Weapon</p>",
+      "public": "<p><em>Leather sling, stained red.</em></p><p>1d4+DEX Bludgeoning. 2-handed, Range 8.</p><p>Projectiles turn into overripe tomatoes.</p><hr><p>Uncommon Sling</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -79,13 +99,13 @@
     "properties": {
       "range": {
         "min": 2,
-        "max": null
+        "max": 8
       },
       "reach": {
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["twoHanded", "range"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
@@ -94,7 +114,7 @@
     }
   },
   "effects": [],
-  "sort": 7400000,
+  "sort": 3684962,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,8 +128,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782753587256,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!iT9qWVZ7exhEYBH1"
+  "_key": "!items!ebHz6pnw9fWCKBQO"
 }

@@ -1,19 +1,19 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "The Bass",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "JezIVic4yeZsMUUw",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "activation": {
-      "acquireTargetsFromTemplate": false,
+      "acquireTargetsFromTemplate": true,
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,7 +21,29 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "pPL5DOoXbR1jLUHF",
+          "type": "savingThrow",
+          "savingThrowType": "strength",
+          "parentContext": null,
+          "parentNode": null,
+          "saveType": "dexterity",
+          "saveDC": "14",
+          "on": {
+            "failedSave": [
+              {
+                "id": "fP0PDYSmXx35qRNh",
+                "type": "condition",
+                "condition": "prone",
+                "parentContext": "failedSave",
+                "parentNode": "pPL5DOoXbR1jLUHF"
+              }
+            ]
+          },
+          "sharedRolls": []
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -31,13 +53,13 @@
       },
       "template": {
         "length": 1,
-        "radius": 1,
-        "shape": "",
+        "radius": 3,
+        "shape": "emanation",
         "width": 1
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Heavy stone carving of a fish. Don't drop it!</em></p><p>Causes a shockwave when dropped, affecting everyone within Reach 3. DC 14 DEX save or Prone.</p><hr><p>Common Carving</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -52,7 +74,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +94,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 4400000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +111,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!JezIVic4yeZsMUUw"
 }

@@ -1,9 +1,9 @@
 {
-  "name": "Zircon's Unfair Advantage",
+  "name": "Slapstick Belt",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "iT9qWVZ7exhEYBH1",
+  "_id": "AdYQ0ynXLrAo5drZ",
   "system": {
     "macro": "",
     "identifier": "",
@@ -23,22 +23,42 @@
       },
       "effects": [
         {
-          "id": "upHgpjsW4ehCRZsM",
+          "id": "BliisxRtTZO4IOC6",
           "type": "damage",
-          "damageType": "cold",
-          "formula": "1",
+          "damageType": "slashing",
+          "formula": "1d4+@dexterity",
           "parentContext": null,
           "parentNode": null,
           "canCrit": true,
-          "canMiss": false,
+          "canMiss": true,
           "on": {
+            "miss": [
+              {
+                "id": "jRauHkmzIqguUfOc",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "BliisxRtTZO4IOC6"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "kh9q9Kt8ZvCweuEO",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "BliisxRtTZO4IOC6"
+              }
+            ],
             "hit": [
               {
-                "id": "ur1443AhqRzIZ6c4",
+                "id": "4eqvXLjZwXAgOQYq",
                 "type": "damageOutcome",
                 "outcome": "fullDamage",
                 "parentContext": "hit",
-                "parentNode": "upHgpjsW4ehCRZsM"
+                "parentNode": "BliisxRtTZO4IOC6"
               }
             ]
           }
@@ -59,7 +79,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Handheld pump-action device with a small water container.</em></p><p>Squirts chilled water dealing 1 Cold damage.</p><p>6 shots, refill with water.</p><hr><p>Common Ranged Weapon</p>",
+      "public": "<p><em>Supple leather belt with a shiny buckle.</em></p><p>1d4+DEX Slashing. Reach 2.</p><p>Can be drawn as part of an Attack. Your pants drop if that attack misses.</p><hr><p>Common Whip</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -83,9 +103,9 @@
       },
       "reach": {
         "min": 1,
-        "max": null
+        "max": 2
       },
-      "selected": [],
+      "selected": ["reach"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
@@ -94,7 +114,7 @@
     }
   },
   "effects": [],
-  "sort": 7400000,
+  "sort": 3684864,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,8 +128,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782754096309,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!iT9qWVZ7exhEYBH1"
+  "_key": "!items!AdYQ0ynXLrAo5drZ"
 }

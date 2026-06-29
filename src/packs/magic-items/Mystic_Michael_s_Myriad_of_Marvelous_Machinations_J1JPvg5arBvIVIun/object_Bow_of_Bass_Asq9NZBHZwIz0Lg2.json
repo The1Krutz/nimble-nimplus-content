@@ -1,9 +1,9 @@
 {
-  "name": "Zircon's Unfair Advantage",
+  "name": "Bow of Bass",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "iT9qWVZ7exhEYBH1",
+  "_id": "Asq9NZBHZwIz0Lg2",
   "system": {
     "macro": "",
     "identifier": "",
@@ -23,22 +23,42 @@
       },
       "effects": [
         {
-          "id": "upHgpjsW4ehCRZsM",
+          "id": "3It6tMWaVM0KylGm",
           "type": "damage",
-          "damageType": "cold",
-          "formula": "1",
+          "damageType": "piercing",
+          "formula": "1d8+@dexterity",
           "parentContext": null,
           "parentNode": null,
           "canCrit": true,
-          "canMiss": false,
+          "canMiss": true,
           "on": {
+            "miss": [
+              {
+                "id": "BrExxsOfpbuU8VlL",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "3It6tMWaVM0KylGm"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "aTeQaCEYXJbQ05Qp",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "3It6tMWaVM0KylGm"
+              }
+            ],
             "hit": [
               {
-                "id": "ur1443AhqRzIZ6c4",
+                "id": "ieJsyRnK864rE2j3",
                 "type": "damageOutcome",
                 "outcome": "fullDamage",
                 "parentContext": "hit",
-                "parentNode": "upHgpjsW4ehCRZsM"
+                "parentNode": "3It6tMWaVM0KylGm"
               }
             ]
           }
@@ -59,7 +79,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Handheld pump-action device with a small water container.</em></p><p>Squirts chilled water dealing 1 Cold damage.</p><p>6 shots, refill with water.</p><hr><p>Common Ranged Weapon</p>",
+      "public": "<p><em>Plays a crisp F# bass tone when plucked.</em></p><p>1d8+DEX Piercing. 2-handed, Range 16.</p><p>Advantage on attacks while attempting unnecessary trickshots.</p><hr><p>Rare Shortsword</p><p><strong>Requirement:</strong> 1 STR</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -79,22 +99,22 @@
     "properties": {
       "range": {
         "min": 2,
-        "max": null
+        "max": 16
       },
       "reach": {
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["twoHanded", "range"],
       "strengthRequirement": {
-        "value": null,
+        "value": 1,
         "overridesTwoHanded": false
       },
       "thrownRange": 4
     }
   },
   "effects": [],
-  "sort": 7400000,
+  "sort": 3648829,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,8 +128,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782754439777,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!iT9qWVZ7exhEYBH1"
+  "_key": "!items!Asq9NZBHZwIz0Lg2"
 }

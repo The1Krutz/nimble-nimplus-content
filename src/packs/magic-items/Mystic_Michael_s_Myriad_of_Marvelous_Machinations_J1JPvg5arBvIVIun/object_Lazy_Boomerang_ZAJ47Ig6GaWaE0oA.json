@@ -1,9 +1,9 @@
 {
-  "name": "Zircon's Unfair Advantage",
+  "name": "Lazy Boomerang",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "iT9qWVZ7exhEYBH1",
+  "_id": "ZAJ47Ig6GaWaE0oA",
   "system": {
     "macro": "",
     "identifier": "",
@@ -23,22 +23,42 @@
       },
       "effects": [
         {
-          "id": "upHgpjsW4ehCRZsM",
+          "id": "PLeaEXPWg9h5H6K6",
           "type": "damage",
-          "damageType": "cold",
-          "formula": "1",
+          "damageType": "slashing",
+          "formula": "1d6+@strength",
           "parentContext": null,
           "parentNode": null,
           "canCrit": true,
-          "canMiss": false,
+          "canMiss": true,
           "on": {
+            "miss": [
+              {
+                "id": "dQjuVcYuKCJkipS5",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "PLeaEXPWg9h5H6K6"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "RX1ZTeREx34LQQbE",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "PLeaEXPWg9h5H6K6"
+              }
+            ],
             "hit": [
               {
-                "id": "ur1443AhqRzIZ6c4",
+                "id": "GfPq2FLk43QJwYzK",
                 "type": "damageOutcome",
                 "outcome": "fullDamage",
                 "parentContext": "hit",
-                "parentNode": "upHgpjsW4ehCRZsM"
+                "parentNode": "PLeaEXPWg9h5H6K6"
               }
             ]
           }
@@ -59,7 +79,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Handheld pump-action device with a small water container.</em></p><p>Squirts chilled water dealing 1 Cold damage.</p><p>6 shots, refill with water.</p><hr><p>Common Ranged Weapon</p>",
+      "public": "<p><em>Engraved with an image of a sloth.</em></p><p>1d6+STR Slashing. Thrown 8.</p><p>Always returns to whomever threw it last after [[/roll 1d6]] hours.</p><hr><p>Common Thrown Weapon</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -85,16 +105,16 @@
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["thrown"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
       },
-      "thrownRange": 4
+      "thrownRange": 8
     }
   },
   "effects": [],
-  "sort": 7400000,
+  "sort": 3684571,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,8 +128,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782754250858,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!iT9qWVZ7exhEYBH1"
+  "_key": "!items!ZAJ47Ig6GaWaE0oA"
 }

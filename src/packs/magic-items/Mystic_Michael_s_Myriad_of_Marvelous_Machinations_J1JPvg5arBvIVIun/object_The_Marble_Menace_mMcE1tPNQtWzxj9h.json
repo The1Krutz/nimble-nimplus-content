@@ -1,19 +1,19 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "The Marble Menace",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "mMcE1tPNQtWzxj9h",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
     "activation": {
-      "acquireTargetsFromTemplate": false,
+      "acquireTargetsFromTemplate": true,
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,7 +21,29 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "gcsSCObVFzxOUnAZ",
+          "type": "savingThrow",
+          "savingThrowType": "strength",
+          "parentContext": null,
+          "parentNode": null,
+          "saveType": "dexterity",
+          "saveDC": "12",
+          "on": {
+            "failedSave": [
+              {
+                "id": "MzYv5v2W2MKVSUlq",
+                "type": "condition",
+                "condition": "prone",
+                "parentContext": "failedSave",
+                "parentNode": "gcsSCObVFzxOUnAZ"
+              }
+            ]
+          },
+          "sharedRolls": []
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -32,12 +54,12 @@
       "template": {
         "length": 1,
         "radius": 1,
-        "shape": "",
-        "width": 1
+        "shape": "square",
+        "width": 2
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Linen pouch full of colorful glass marbles.</em></p><p>Creates difficult terrain in a 2x2 area. DC 12 DEX save when crossing or fall Prone. Refills every morning.</p><hr><p>Common Trap</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -52,7 +74,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +94,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 5600000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +111,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!mMcE1tPNQtWzxj9h"
 }

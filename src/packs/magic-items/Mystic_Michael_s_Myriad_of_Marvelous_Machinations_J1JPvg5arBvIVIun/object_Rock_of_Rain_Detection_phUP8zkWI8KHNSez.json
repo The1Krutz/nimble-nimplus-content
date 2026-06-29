@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Rock of Rain Detection",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "phUP8zkWI8KHNSez",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Ordinary rock tied to a string.</em></p><p>Detects when it has been rained on by turning wet.</p><hr><p>Common Tool</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -52,7 +52,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 800000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +89,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!phUP8zkWI8KHNSez"
 }

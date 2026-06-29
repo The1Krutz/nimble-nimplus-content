@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Chalk of Door",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "x0vBENzLlHE4Bp1T",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,12 +37,12 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Now with rainbow glitter!</em></p><p>Creates a doorway on a suitable surface (1 use). Disappears once closed.</p><hr><p>Rare Chalk</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "consumable",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -51,8 +51,8 @@
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "objectSizeType": "smallSized",
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 3643750,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782753358460,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!x0vBENzLlHE4Bp1T"
 }

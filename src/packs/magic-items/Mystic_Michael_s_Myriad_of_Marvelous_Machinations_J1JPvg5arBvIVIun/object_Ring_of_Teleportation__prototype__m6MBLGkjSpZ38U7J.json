@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Ring of Teleportation (prototype)",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "m6MBLGkjSpZ38U7J",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Work in progress.</em></p><p>Grants the ability to teleport instead of moving.</p><p>Everything worn and carried stays behind.</p><hr><p>Uncommon Ring</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -51,8 +51,8 @@
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "objectSizeType": "smallSized",
+    "slotsRequired": 0,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 2300000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +89,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!m6MBLGkjSpZ38U7J"
 }

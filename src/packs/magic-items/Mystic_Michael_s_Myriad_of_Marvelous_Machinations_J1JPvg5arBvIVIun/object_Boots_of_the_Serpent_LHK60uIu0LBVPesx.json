@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Boots of the Serpent",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "LHK60uIu0LBVPesx",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>There's something in my boot.</em></p><p>A friendly snake can be shaken out of either boot once per day.</p><p>Sticks around for 10 minutes.</p><hr><p>Uncommon Boots</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -52,7 +52,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 3690625,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782753381546,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!LHK60uIu0LBVPesx"
 }

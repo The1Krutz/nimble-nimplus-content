@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Rake of Terror",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "sgyBKlEJWzkM1R4x",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Seemingly just a regular gardening rake. Or is it...</em></p><p>Hits the victim in the face when stepped on, stopping movement and dealing [[/roll 1d6]] Bludgeoning damage.</p><hr><p>Common Trap</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 1000000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +89,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!sgyBKlEJWzkM1R4x"
 }

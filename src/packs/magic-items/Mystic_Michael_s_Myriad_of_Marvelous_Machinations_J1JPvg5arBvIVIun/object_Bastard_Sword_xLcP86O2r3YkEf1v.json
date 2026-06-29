@@ -1,9 +1,9 @@
 {
-  "name": "Zircon's Unfair Advantage",
+  "name": "Bastard Sword",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "iT9qWVZ7exhEYBH1",
+  "_id": "xLcP86O2r3YkEf1v",
   "system": {
     "macro": "",
     "identifier": "",
@@ -23,22 +23,42 @@
       },
       "effects": [
         {
-          "id": "upHgpjsW4ehCRZsM",
+          "id": "LLozk48cllZxAwKr",
           "type": "damage",
-          "damageType": "cold",
-          "formula": "1",
+          "damageType": "piercing",
+          "formula": "1d6+@dexterity",
           "parentContext": null,
           "parentNode": null,
           "canCrit": true,
-          "canMiss": false,
+          "canMiss": true,
           "on": {
+            "miss": [
+              {
+                "id": "Ne7rGaEGfrRc0hpv",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "LLozk48cllZxAwKr"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "N8mNvGlJvNcIn0Pq",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "LLozk48cllZxAwKr"
+              }
+            ],
             "hit": [
               {
-                "id": "ur1443AhqRzIZ6c4",
+                "id": "nFqR6eYkTK03OR4Y",
                 "type": "damageOutcome",
                 "outcome": "fullDamage",
                 "parentContext": "hit",
-                "parentNode": "upHgpjsW4ehCRZsM"
+                "parentNode": "LLozk48cllZxAwKr"
               }
             ]
           }
@@ -59,7 +79,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Handheld pump-action device with a small water container.</em></p><p>Squirts chilled water dealing 1 Cold damage.</p><p>6 shots, refill with water.</p><hr><p>Common Ranged Weapon</p>",
+      "public": "<p><em>Please go outside before unsheathing.</em></p><p>1d6+DEX Piercing. Light.</p><p>Constantly berates the wielder while drawn.</p><hr><p>Uncommon Cursed Shortsword</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -85,7 +105,7 @@
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["light"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
@@ -94,7 +114,7 @@
     }
   },
   "effects": [],
-  "sort": 7400000,
+  "sort": 3685353,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,8 +128,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782754502843,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!iT9qWVZ7exhEYBH1"
+  "_key": "!items!xLcP86O2r3YkEf1v"
 }

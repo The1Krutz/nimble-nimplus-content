@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "The Squeaker",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "o338umTRooxUouEA",
   "system": {
     "macro": "",
     "identifier": "",
@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,7 +21,29 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "BOHNC88vIH60PMwT",
+          "type": "damage",
+          "damageType": "psychic",
+          "formula": "1",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": false,
+          "canMiss": false,
+          "on": {
+            "hit": [
+              {
+                "id": "iXb6vDPtX4qoQuUw",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "BOHNC88vIH60PMwT"
+              }
+            ]
+          }
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -37,12 +59,12 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Multicolored and squeaky.</em></p><p>Harmless, but deals 1 Psychic damage from the humiliation.</p><hr><p>Common Toy Bat</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "weapon",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -72,7 +94,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 5900000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +111,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!o338umTRooxUouEA"
 }

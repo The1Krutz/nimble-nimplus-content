@@ -1,9 +1,9 @@
 {
-  "name": "Zircon's Unfair Advantage",
+  "name": "Dagger of Whittling",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "iT9qWVZ7exhEYBH1",
+  "_id": "h3iuUIUy2judwf16",
   "system": {
     "macro": "",
     "identifier": "",
@@ -23,22 +23,42 @@
       },
       "effects": [
         {
-          "id": "upHgpjsW4ehCRZsM",
+          "id": "dcIljajsGa525Vw3",
           "type": "damage",
-          "damageType": "cold",
-          "formula": "1",
+          "damageType": "piercing",
+          "formula": "1d4+@dexterity",
           "parentContext": null,
           "parentNode": null,
           "canCrit": true,
-          "canMiss": false,
+          "canMiss": true,
           "on": {
+            "miss": [
+              {
+                "id": "QlVYkEjWn7SaR7Wb",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "dcIljajsGa525Vw3"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "SWyUSdhsQEfuCgeN",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "dcIljajsGa525Vw3"
+              }
+            ],
             "hit": [
               {
-                "id": "ur1443AhqRzIZ6c4",
+                "id": "9hljNwggth7G2cJy",
                 "type": "damageOutcome",
                 "outcome": "fullDamage",
                 "parentContext": "hit",
-                "parentNode": "upHgpjsW4ehCRZsM"
+                "parentNode": "dcIljajsGa525Vw3"
               }
             ]
           }
@@ -59,7 +79,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Handheld pump-action device with a small water container.</em></p><p>Squirts chilled water dealing 1 Cold damage.</p><p>6 shots, refill with water.</p><hr><p>Common Ranged Weapon</p>",
+      "public": "<p><em>Sized for halfling hands.</em></p><p>Automatically whittles wooden crafts.</p><p>Must be told what to produce, otherwise it will make spoons.</p><hr><p>Uncommon Knife</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -74,7 +94,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -85,7 +105,7 @@
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["light", "thrown"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
@@ -94,7 +114,7 @@
     }
   },
   "effects": [],
-  "sort": 7400000,
+  "sort": 3649219,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -108,8 +128,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782754326934,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!iT9qWVZ7exhEYBH1"
+  "_key": "!items!h3iuUIUy2judwf16"
 }

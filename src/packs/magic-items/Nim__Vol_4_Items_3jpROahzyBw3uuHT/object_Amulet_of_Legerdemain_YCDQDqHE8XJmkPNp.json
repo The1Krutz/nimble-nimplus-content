@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Amulet of Legerdemain",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
-  "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "YCDQDqHE8XJmkPNp",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Gilded amulet with an ornament of a spinning die.</em></p><p><strong>Cheat.</strong> Reaction: Increase or decrease the result of any roll by 1 (1/Safe Rest).</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 1111 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -45,14 +45,14 @@
     "objectType": "misc",
     "weaponType": "",
     "price": {
-      "value": 0,
+      "value": 1111,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
-    "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "objectSizeType": "smallSized",
+    "slotsRequired": 0,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 100000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -85,9 +85,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "createdTime": 1782486733820,
+    "modifiedTime": 1782754667164,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!YCDQDqHE8XJmkPNp"
 }

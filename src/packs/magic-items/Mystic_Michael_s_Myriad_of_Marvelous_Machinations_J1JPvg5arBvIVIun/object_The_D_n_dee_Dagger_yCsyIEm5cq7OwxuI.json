@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "The Dũn'dee Dagger",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "yCsyIEm5cq7OwxuI",
   "system": {
     "macro": "",
     "identifier": "",
@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,7 +21,49 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "NLPMG1b7Qxl5EQ2F",
+          "type": "damage",
+          "damageType": "slashing",
+          "formula": "1d4+@dexterity",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "QhIrIuCfrDq5OQr8",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "NLPMG1b7Qxl5EQ2F"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "aanoj5H2kU8t9IId",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "NLPMG1b7Qxl5EQ2F"
+              }
+            ],
+            "hit": [
+              {
+                "id": "lx1aN0oA2mk6rP6G",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "NLPMG1b7Qxl5EQ2F"
+              }
+            ]
+          }
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -37,12 +79,12 @@
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Now THIS is a knife!</em></p><p>1d4+DEX Slashing. Light.</p><p>Always slightly bigger than any other nearby knife.</p><hr><p>Uncommon Knife</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "weapon",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -63,7 +105,7 @@
         "min": 1,
         "max": null
       },
-      "selected": [],
+      "selected": ["light"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
@@ -72,7 +114,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 4200000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -89,5 +131,5 @@
     "modifiedTime": 1782753304765,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!yCsyIEm5cq7OwxuI"
 }

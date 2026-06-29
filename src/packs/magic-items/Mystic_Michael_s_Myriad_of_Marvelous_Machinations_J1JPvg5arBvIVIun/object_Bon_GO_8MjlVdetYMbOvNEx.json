@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Undeniable Truth",
+  "name": "Bon-GO",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "J1JPvg5arBvIVIun",
-  "_id": "MSEABGhmthDcZXXg",
+  "_id": "8MjlVdetYMbOvNEx",
   "system": {
     "macro": "",
     "identifier": "",
@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -31,13 +31,13 @@
       },
       "template": {
         "length": 1,
-        "radius": 1,
-        "shape": "",
+        "radius": 100,
+        "shape": "emanation",
         "width": 1
       }
     },
     "description": {
-      "public": "<p><em>Old, leather-bound tome, full of blank pages.</em></p><p>Produces forgeries of documents backing up any false claim made while holding it.</p><hr><p>Rare Book</p>",
+      "public": "<p><em>Comes with a handy carrying-belt.</em></p><p>Grants all allies within earshot gain +1 Speed. Playable one-handed.</p><hr><p>Uncommon Instrument</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -52,7 +52,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 2,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 6700000,
+  "sort": 3684375,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782753304765,
+    "modifiedTime": 1782753451835,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!MSEABGhmthDcZXXg"
+  "_key": "!items!8MjlVdetYMbOvNEx"
 }
