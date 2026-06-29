@@ -12,7 +12,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -20,7 +20,49 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "FlJMhqk8G8Iv5gth",
+          "type": "damage",
+          "damageType": "psychic",
+          "formula": "3d6",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "Fco8i9spWFKCvUIs",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "FlJMhqk8G8Iv5gth"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "BgPEpVtZYwR5wgMv",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "FlJMhqk8G8Iv5gth"
+              }
+            ],
+            "hit": [
+              {
+                "id": "AdgHH2ArRqP9bA4W",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "FlJMhqk8G8Iv5gth"
+              }
+            ]
+          }
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -41,7 +83,7 @@
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "misc",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -86,7 +128,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782482532325,
-    "modifiedTime": 1782486402732,
+    "modifiedTime": 1782704023475,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!Uj5ngSb5Eqg3zgyl"

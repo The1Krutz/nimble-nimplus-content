@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": "J1JPvg5arBvIVIun",
+  "name": "_TODO",
+  "color": "#f5c211",
+  "sorting": "a",
+  "_id": "NWlhIg7PwBEbWqDo",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": "h42CcTzyU22SgcaA",
+    "modifiedTime": 1782705723562
+  },
+  "_key": "!folders!NWlhIg7PwBEbWqDo"
+}

@@ -12,8 +12,8 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
-        "isReaction": false
+        "type": "action",
+        "isReaction": true
       },
       "duration": {
         "details": "",
@@ -41,7 +41,7 @@
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "misc",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -84,7 +84,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486196834,
-    "modifiedTime": 1782486410434,
+    "modifiedTime": 1782705287928,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_id": "QcxBgVisNGwniNMQ",
