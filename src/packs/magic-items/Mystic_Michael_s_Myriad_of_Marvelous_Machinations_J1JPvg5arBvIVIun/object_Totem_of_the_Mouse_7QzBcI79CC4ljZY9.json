@@ -1,9 +1,9 @@
 {
-  "name": "Tome of Summon Cat",
+  "name": "Totem of the Mouse",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
-  "folder": "NWlhIg7PwBEbWqDo",
-  "_id": "26XYBxUIrHeFqoIi",
+  "folder": "J1JPvg5arBvIVIun",
+  "_id": "7QzBcI79CC4ljZY9",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>\"The Sailor and the Salty Maid - romance on the high seas.\" No author.</em></p><p>When opened, an annoyed cat called Kissy the Cat will appear and attempt to nap on the book. Leaves whenever it feels like it.</p><hr><p>Common Book</p>",
+      "public": "<p><em>Small carving of a mouse.</em></p><p>Gives the owner a strong urge for cheese, and the ability to sense the nearest cheese.</p><hr><p>Uncommon Trinket</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 0,
+  "sort": 115625,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782486732740,
+    "modifiedTime": 1782709146929,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!26XYBxUIrHeFqoIi"
+  "_key": "!items!7QzBcI79CC4ljZY9"
 }

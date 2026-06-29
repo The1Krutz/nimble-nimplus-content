@@ -2,7 +2,7 @@
   "name": "Whip of the Archaeologist",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
-  "folder": "NWlhIg7PwBEbWqDo",
+  "folder": "J1JPvg5arBvIVIun",
   "_id": "rJdEMN6sX3KVYlEr",
   "system": {
     "macro": "",
@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -21,7 +21,56 @@
         "quantity": 1,
         "type": "none"
       },
-      "effects": [],
+      "effects": [
+        {
+          "id": "uCWCy8vLKqF4yT0m",
+          "type": "damage",
+          "damageType": "slashing",
+          "formula": "1d4+@strength",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "hit": [
+              {
+                "id": "1NoYCN0txiFFdkMt",
+                "type": "condition",
+                "condition": "prone",
+                "parentContext": "hit",
+                "parentNode": "uCWCy8vLKqF4yT0m"
+              },
+              {
+                "id": "t3rfgt6m0XgavsWC",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "uCWCy8vLKqF4yT0m"
+              }
+            ],
+            "miss": [
+              {
+                "id": "gl5nq0f5MLa19tZV",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "uCWCy8vLKqF4yT0m"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "alxnjrqHlzmZ8Pvm",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "uCWCy8vLKqF4yT0m"
+              }
+            ]
+          }
+        }
+      ],
       "showDescription": true,
       "targets": {
         "count": 1,
@@ -42,7 +91,7 @@
       "secret": ""
     },
     "identified": true,
-    "objectType": "misc",
+    "objectType": "weapon",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -61,9 +110,9 @@
       },
       "reach": {
         "min": 1,
-        "max": null
+        "max": 2
       },
-      "selected": [],
+      "selected": ["reach"],
       "strengthRequirement": {
         "value": null,
         "overridesTwoHanded": false
@@ -72,7 +121,7 @@
     }
   },
   "effects": [],
-  "sort": 0,
+  "sort": 125000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,7 +135,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782486732740,
+    "modifiedTime": 1782709096068,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!rJdEMN6sX3KVYlEr"

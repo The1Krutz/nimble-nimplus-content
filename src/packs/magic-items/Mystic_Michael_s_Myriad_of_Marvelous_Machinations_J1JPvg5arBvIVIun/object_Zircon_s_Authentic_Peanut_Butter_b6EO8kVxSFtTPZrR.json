@@ -1,9 +1,9 @@
 {
-  "name": "Totem of the Mouse",
+  "name": "Zircon's Authentic Peanut Butter",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
-  "folder": "NWlhIg7PwBEbWqDo",
-  "_id": "7QzBcI79CC4ljZY9",
+  "folder": "J1JPvg5arBvIVIun",
+  "_id": "b6EO8kVxSFtTPZrR",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Small carving of a mouse.</em></p><p>Gives the owner a strong urge for cheese, and the ability to sense the nearest cheese.</p><hr><p>Uncommon Trinket</p>",
+      "public": "<p><em>Part of Zach Zircon's series of pranks.</em></p><p>Releases a burst of confetti when opened.</p><p>The confetti slithers back into the jar at night.</p><hr><p>Common Prank</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 0,
+  "sort": 150000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782486732740,
+    "modifiedTime": 1782708960426,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!7QzBcI79CC4ljZY9"
+  "_key": "!items!b6EO8kVxSFtTPZrR"
 }

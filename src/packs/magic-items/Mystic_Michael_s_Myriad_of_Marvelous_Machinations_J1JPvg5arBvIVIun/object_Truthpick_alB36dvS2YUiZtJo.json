@@ -1,9 +1,9 @@
 {
-  "name": "Wand of Blinding",
+  "name": "Truthpick",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
-  "folder": "NWlhIg7PwBEbWqDo",
-  "_id": "0tViP8vZ79apGjGx",
+  "folder": "J1JPvg5arBvIVIun",
+  "_id": "alB36dvS2YUiZtJo",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Metallic rod with a red on/off button.</em></p><p>Creates a thin, green beam of light (10 charges).</p><p>Recharge: Buy more batteries from Mystic Michael.</p><hr><p>Common Wand</p>",
+      "public": "<p><em>Suspiciously pristine set of thieves tools.</em></p><p>Grants advantage during use if you share a secret meanwhile.</p><hr><p>Uncommon Tool</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 0,
+  "sort": 118750,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782486732740,
+    "modifiedTime": 1782709138627,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!0tViP8vZ79apGjGx"
+  "_key": "!items!alB36dvS2YUiZtJo"
 }

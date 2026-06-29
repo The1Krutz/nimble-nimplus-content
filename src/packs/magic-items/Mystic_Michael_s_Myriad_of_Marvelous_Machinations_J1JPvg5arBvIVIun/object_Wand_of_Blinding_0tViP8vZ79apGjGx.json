@@ -1,9 +1,9 @@
 {
-  "name": "Zircon's Authentic Peanut Butter",
+  "name": "Wand of Blinding",
   "type": "object",
   "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
-  "folder": "NWlhIg7PwBEbWqDo",
-  "_id": "b6EO8kVxSFtTPZrR",
+  "folder": "J1JPvg5arBvIVIun",
+  "_id": "0tViP8vZ79apGjGx",
   "system": {
     "macro": "",
     "identifier": "",
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Part of Zach Zircon's series of pranks.</em></p><p>Releases a burst of confetti when opened.</p><p>The confetti slithers back into the jar at night.</p><hr><p>Common Prank</p>",
+      "public": "<p><em>Metallic rod with a red on/off button.</em></p><p>Creates a thin, green beam of light (10 charges).</p><p>Recharge: Buy more batteries from Mystic Michael.</p><hr><p>Common Wand</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -52,7 +52,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 0,
+  "sort": 112500,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,8 +86,8 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486732740,
-    "modifiedTime": 1782486732740,
+    "modifiedTime": 1782709130119,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!b6EO8kVxSFtTPZrR"
+  "_key": "!items!0tViP8vZ79apGjGx"
 }
