@@ -6,7 +6,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "HN616AwCRhRRYFAs",
+        "identifier": "",
+        "label": "Barracuda Boots",
+        "predicate": {},
+        "priority": 1,
+        "mode": "swim",
+        "speed": "8"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -41,7 +53,7 @@
       "secret": ""
     },
     "identified": true,
-    "objectType": "",
+    "objectType": "misc",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -51,7 +63,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -86,7 +98,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782482512968,
-    "modifiedTime": 1782486399922,
+    "modifiedTime": 1782702783415,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!r8FlarbwyHn8huN1"
