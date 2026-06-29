@@ -1,7 +1,7 @@
 {
   "name": "Spellslinger's Prism",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
   "folder": "xwEcMDKCK1NRI3ay",
   "_id": "jM74zlkWbMMBovyI",
   "system": {
@@ -52,7 +52,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -72,7 +72,7 @@
     }
   },
   "effects": [],
-  "sort": 0,
+  "sort": 2800000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -86,7 +86,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782486733820,
+    "modifiedTime": 1782758414588,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!jM74zlkWbMMBovyI"

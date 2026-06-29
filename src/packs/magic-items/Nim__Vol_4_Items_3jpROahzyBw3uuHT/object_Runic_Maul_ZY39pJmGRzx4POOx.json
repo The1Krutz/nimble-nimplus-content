@@ -1,0 +1,151 @@
+{
+  "name": "Runic Maul",
+  "type": "object",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "ZY39pJmGRzx4POOx",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [
+        {
+          "id": "yksoPFQqDrbB9DcD",
+          "type": "damage",
+          "damageType": "bludgeoning",
+          "formula": "1d4+@strength",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "miss": [
+              {
+                "id": "KEECZiwnLU81CcLP",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS - Knock yourself Prone",
+                "parentContext": "miss",
+                "parentNode": "yksoPFQqDrbB9DcD"
+              },
+              {
+                "id": "73BhW2uFiBA6RkF6",
+                "type": "condition",
+                "condition": "prone",
+                "parentContext": "miss",
+                "parentNode": "yksoPFQqDrbB9DcD"
+              }
+            ],
+            "criticalHit": [
+              {
+                "id": "0x6NZOP0skeqAxAP",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT - +20 damage",
+                "parentContext": "criticalHit",
+                "parentNode": "yksoPFQqDrbB9DcD"
+              },
+              {
+                "id": "x4svTXIjIEVOzjcH",
+                "type": "damage",
+                "damageType": "bludgeoning",
+                "formula": "20",
+                "parentContext": "criticalHit",
+                "parentNode": "yksoPFQqDrbB9DcD",
+                "on": {}
+              }
+            ],
+            "hit": [
+              {
+                "id": "sQxWmNmPTDpAYqbr",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "yksoPFQqDrbB9DcD"
+              }
+            ]
+          }
+        }
+      ],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": {
+      "public": "<p><em>Oversized stone maul engraved with dverung runes.</em></p><p>1d4+STR Bludgeoning. 2-handed.</p><p>On crit: +20 damage.</p><p>On miss: Knock yourself Prone.</p><hr><p>Rare Warhammer</p><p><strong>Requirement:</strong> 4 STR</p><p><strong>Cost:</strong> 2000 gp</p>",
+      "unidentified": "",
+      "secret": ""
+    },
+    "identified": true,
+    "objectType": "weapon",
+    "weaponType": "",
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "quantity": 1,
+    "equipped": false,
+    "unidentifiedName": "Unidentified Object",
+    "objectSizeType": "slots",
+    "slotsRequired": 0,
+    "stackSize": 2,
+    "properties": {
+      "range": {
+        "min": 2,
+        "max": null
+      },
+      "reach": {
+        "min": 1,
+        "max": null
+      },
+      "selected": ["twoHanded"],
+      "strengthRequirement": {
+        "value": 4,
+        "overridesTwoHanded": true
+      },
+      "thrownRange": 4
+    }
+  },
+  "effects": [],
+  "sort": 201368,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782486733820,
+    "modifiedTime": 1782758397239,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!ZY39pJmGRzx4POOx"
+}
