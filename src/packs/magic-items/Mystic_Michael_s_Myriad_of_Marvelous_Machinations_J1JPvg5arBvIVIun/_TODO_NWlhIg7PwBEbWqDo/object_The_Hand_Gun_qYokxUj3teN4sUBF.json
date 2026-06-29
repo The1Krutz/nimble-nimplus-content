@@ -1,35 +1,13 @@
 {
-  "name": "Abyssal Plate",
+  "name": "The Hand-Gun",
   "type": "object",
-  "_id": "7dEEygRNRRzYSBL4",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/sword.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "folder": "NWlhIg7PwBEbWqDo",
+  "_id": "qYokxUj3teN4sUBF",
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [
-      {
-        "type": "armorClass",
-        "disabled": false,
-        "id": "ox4if1bJO1PWVs7I",
-        "identifier": "",
-        "label": "Abyssal Plate",
-        "predicate": {},
-        "priority": 1,
-        "formula": "14",
-        "mode": "add"
-      },
-      {
-        "type": "grantMovement",
-        "disabled": false,
-        "id": "vbmvMo9kUeMQaY3w",
-        "identifier": "",
-        "label": "Abyssal Plate",
-        "predicate": {},
-        "priority": 1,
-        "mode": "swim",
-        "speed": "@attributes.movement.walk"
-      }
-    ],
+    "rules": [],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -59,22 +37,22 @@
       }
     },
     "description": {
-      "public": "<p>Streamlined armor of deep blue steel.</p><p>Grants a swim Speed and waterbreathing.</p><hr><p><strong>Rarity:</strong> Rare</p><p><strong>Type:</strong> Plate</p><p><strong>Requirement</strong>: 2 STR</p><p><strong>Armor</strong>: 14</p><p><strong>Cost</strong>: 4000 gp</p>",
+      "public": "<p><em>Very handy!</em></p><p>Summons an ethereal hand able to perform basic tasks for 1 minute (1/day).</p><hr><p>Uncommon Artifact</p>",
       "unidentified": "",
       "secret": ""
     },
     "identified": true,
-    "objectType": "armor",
+    "objectType": "misc",
     "weaponType": "",
     "price": {
-      "value": 4000,
+      "value": 0,
       "denomination": "gp"
     },
     "quantity": 1,
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 1,
+    "slotsRequired": 0,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -94,7 +72,6 @@
     }
   },
   "effects": [],
-  "folder": null,
   "sort": 0,
   "ownership": {
     "default": 0,
@@ -107,10 +84,10 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
-    "createdTime": 1780592016980,
-    "modifiedTime": 1782440445390,
+    "systemVersion": "0.8.7",
+    "createdTime": 1782486732740,
+    "modifiedTime": 1782486732740,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!7dEEygRNRRzYSBL4"
+  "_key": "!items!qYokxUj3teN4sUBF"
 }

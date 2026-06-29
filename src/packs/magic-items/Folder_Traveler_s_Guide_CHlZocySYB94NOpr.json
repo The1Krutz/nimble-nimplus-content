@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Traveler's Guide",
+  "color": null,
+  "sorting": "a",
+  "_id": "CHlZocySYB94NOpr",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782486394278,
+    "modifiedTime": 1782486394278,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!folders!CHlZocySYB94NOpr"
+}
