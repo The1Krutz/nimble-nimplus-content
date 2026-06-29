@@ -51,7 +51,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 2,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -86,7 +86,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782482528671,
-    "modifiedTime": 1782486402183,
+    "modifiedTime": 1782703902880,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!xMtgLoAyby1yxi8y"

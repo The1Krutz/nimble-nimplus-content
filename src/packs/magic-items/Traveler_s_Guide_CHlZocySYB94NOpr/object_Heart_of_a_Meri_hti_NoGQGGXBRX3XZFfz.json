@@ -11,8 +11,8 @@
       "acquireTargetsFromTemplate": false,
       "cost": {
         "details": "",
-        "quantity": 1,
-        "type": "none",
+        "quantity": 2,
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -41,7 +41,7 @@
       "secret": ""
     },
     "identified": true,
-       "objectType": "misc",
+    "objectType": "consumable",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -86,7 +86,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782482538305,
-    "modifiedTime": 1782486404296,
+    "modifiedTime": 1782705132943,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!NoGQGGXBRX3XZFfz"

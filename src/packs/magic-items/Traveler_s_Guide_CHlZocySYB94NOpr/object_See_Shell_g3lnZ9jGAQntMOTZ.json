@@ -41,7 +41,7 @@
       "secret": ""
     },
     "identified": true,
-       "objectType": "misc",
+    "objectType": "misc",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -51,7 +51,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 1,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -84,7 +84,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486194676,
-    "modifiedTime": 1782486408394,
+    "modifiedTime": 1782705458443,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_id": "g3lnZ9jGAQntMOTZ",

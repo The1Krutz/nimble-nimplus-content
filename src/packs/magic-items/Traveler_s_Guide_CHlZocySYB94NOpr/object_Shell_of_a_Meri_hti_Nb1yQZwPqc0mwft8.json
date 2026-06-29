@@ -6,7 +6,23 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "armorClass",
+        "disabled": false,
+        "id": "HWbl011l1OsxhkEg",
+        "identifier": "",
+        "label": "Shell of a Meriähti",
+        "predicate": {
+          "@strength": {
+            "min": 1
+          }
+        },
+        "priority": 1,
+        "formula": "3",
+        "mode": "add"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -41,7 +57,7 @@
       "secret": ""
     },
     "identified": true,
-    "objectType": "armor",
+    "objectType": "shield",
     "weaponType": "",
     "price": {
       "value": 0,
@@ -51,7 +67,7 @@
     "equipped": false,
     "unidentifiedName": "Unidentified Object",
     "objectSizeType": "slots",
-    "slotsRequired": 0,
+    "slotsRequired": 2,
     "stackSize": 2,
     "properties": {
       "range": {
@@ -84,7 +100,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486195454,
-    "modifiedTime": 1782486408839,
+    "modifiedTime": 1782705433480,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_id": "Nb1yQZwPqc0mwft8",
