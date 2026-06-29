@@ -1,0 +1,105 @@
+{
+  "name": "Gauntlets of Righteous Might",
+  "type": "object",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "folder": "3jpROahzyBw3uuHT",
+  "_id": "gPuDVtNRKcUZf12m",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [
+      {
+        "type": "skillBonus",
+        "disabled": false,
+        "id": "pq4p0YU0in2IdoCo",
+        "identifier": "",
+        "label": "Gauntlets of Righteous Might",
+        "predicate": {},
+        "priority": 1,
+        "value": "1",
+        "skills": ["might"]
+      }
+    ],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": {
+      "public": "<p><em>Covered in gilded scales, amplifying natural strength.</em></p><p>Grants +1 to STR-based skill checks.</p><p>Apply Dawnmark when you Grapple or punch an enemy (1/turn).</p><p><strong>Dawnmark:</strong> Stackable condition. On attack, you may consume all stacks to deal additional Radiant damage based on the amount of marks consumed this way (1d4>1d6> ... >1d20).</p><hr><p>Very Rare Gauntlets</p><p><strong>Cost:</strong> 150000 gp</p>",
+      "unidentified": "",
+      "secret": ""
+    },
+    "identified": true,
+    "objectType": "misc",
+    "weaponType": "",
+    "price": {
+      "value": 150000,
+      "denomination": "gp"
+    },
+    "quantity": 1,
+    "equipped": false,
+    "unidentifiedName": "Unidentified Object",
+    "objectSizeType": "slots",
+    "slotsRequired": 1,
+    "stackSize": 2,
+    "properties": {
+      "range": {
+        "min": 2,
+        "max": null
+      },
+      "reach": {
+        "min": 1,
+        "max": null
+      },
+      "selected": [],
+      "strengthRequirement": {
+        "value": null,
+        "overridesTwoHanded": false
+      },
+      "thrownRange": 4
+    }
+  },
+  "effects": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782486733820,
+    "modifiedTime": 1782763296820,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!gPuDVtNRKcUZf12m"
+}

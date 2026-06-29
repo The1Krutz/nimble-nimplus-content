@@ -16,7 +16,7 @@
         "label": "Armor of the Hawk",
         "predicate": {},
         "priority": 1,
-        "formula": "12 + min(@dexterity,2) - @dexterity",
+        "formula": "12 + min(@dexterity,2)-@dexterity",
         "mode": "add"
       }
     ],
@@ -84,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1500000,
+  "sort": 8200000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -98,7 +98,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782760706286,
+    "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!mlIXa47ivAKqkhoz"

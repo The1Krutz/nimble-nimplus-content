@@ -16,7 +16,7 @@
         "label": "Cuirass of Blazing Justice",
         "predicate": {},
         "priority": 1,
-        "formula": "18 - @dexterity",
+        "formula": "18-@dexterity",
         "mode": "add"
       }
     ],
@@ -84,7 +84,7 @@
     }
   },
   "effects": [],
-  "sort": 1700000,
+  "sort": 8500000,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -98,7 +98,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782760901979,
+    "modifiedTime": 1782763296820,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!hu6o7zE5lQnPlSOo"
