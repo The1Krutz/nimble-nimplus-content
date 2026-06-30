@@ -1,0 +1,79 @@
+{
+  "folder": "xYhw6zyDmuQA30eu",
+  "name": "Spider Climb",
+  "type": "feature",
+  "_id": "hnkn1mzAhW8eGYMS",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "0ro8752BrttxtzzC",
+        "identifier": "",
+        "label": "Spider Climb",
+        "predicate": {},
+        "priority": 1,
+        "mode": "climb",
+        "speed": "@attributes.movement.walk"
+      }
+    ],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>You gain the ability to climb featureless walls and ceilings. You may attack while climbing as long as you have at least one hand touching a surface.</p>",
+    "featureType": "class",
+    "class": "the-cheat",
+    "group": "tools-of-the-spider",
+    "subclass": true,
+    "gainedAtLevel": 7,
+    "gainedAtLevels": [7],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782791336830,
+    "modifiedTime": 1782794156994,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!hnkn1mzAhW8eGYMS"
+}

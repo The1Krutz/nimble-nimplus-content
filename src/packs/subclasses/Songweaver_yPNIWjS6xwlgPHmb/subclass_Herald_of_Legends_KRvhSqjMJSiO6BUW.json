@@ -1,0 +1,34 @@
+{
+  "folder": "yPNIWjS6xwlgPHmb",
+  "name": "Herald of Legends",
+  "type": "subclass",
+  "_id": "KRvhSqjMJSiO6BUW",
+  "img": "modules/nimble-nimplus-content/assets/artwork/subclass/flag_square.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "description": "<p><em>Heroes. Champions. Legends!</em></p><p><em>Their examples inspire us to greatness.</em></p><hr><p>LEVEL 3</p><p><strong>Inspiring Tune.</strong> Whenever you use Songweaver's Inspiration, you may grant 2×WIL temp HP to yourself or the target.</p><p><strong>Razor's Wit.</strong> If you would gain temp HP while your current amount is lower than LVL, you may combine the two amounts instead.</p><p>LEVEL 7</p><p><strong>Battle Ballad.</strong> You and your allies within Reach 12 that can hear you gain WIL Psychic damage while having temp HP.</p><p>LEVEL 11</p><p><strong>Solo.</strong> (1/encounter) Action: Embody the spirit of a legendary hero. Gain LVL+WIL temp HP. You cannot miss while Solo is active. Solo ends as soon as you run out of temp HP or at the end of the encounter.</p><p>LEVEL 15</p><p><strong>Finale.</strong> (1/encounter) Action: Sacrifice all of your temp HP. Deal Psychic damage (ignoring armor) to an adjacent enemy equal to 3 times the amount sacrificed.</p>",
+    "parentClass": "songweaver",
+    "resources": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782850212608,
+    "modifiedTime": 1782850684043,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!KRvhSqjMJSiO6BUW"
+}

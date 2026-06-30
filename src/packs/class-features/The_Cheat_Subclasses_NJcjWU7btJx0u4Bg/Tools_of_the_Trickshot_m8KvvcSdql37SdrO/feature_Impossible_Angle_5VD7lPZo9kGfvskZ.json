@@ -1,0 +1,67 @@
+{
+  "folder": "m8KvvcSdql37SdrO",
+  "name": "Impossible Angle",
+  "type": "feature",
+  "_id": "5VD7lPZo9kGfvskZ",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>You can make Thrown attacks against enemies you are aware of, but do not have direct line of sight to (such as around corners or behind cover). The target is considered Distracted when attacked this way.</p>",
+    "featureType": "class",
+    "class": "the-cheat",
+    "group": "tools-of-the-trickshot",
+    "subclass": true,
+    "gainedAtLevel": 11,
+    "gainedAtLevels": [11],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782792429094,
+    "modifiedTime": 1782792971600,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!5VD7lPZo9kGfvskZ"
+}

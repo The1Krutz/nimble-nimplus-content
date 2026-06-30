@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "NJcjWU7btJx0u4Bg",
+  "name": "Tools of the Spider",
+  "color": null,
+  "sorting": "a",
+  "_id": "xYhw6zyDmuQA30eu",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!xYhw6zyDmuQA30eu"
+}
