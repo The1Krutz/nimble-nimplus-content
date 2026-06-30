@@ -1,0 +1,88 @@
+{
+  "folder": "xYhw6zyDmuQA30eu",
+  "name": "Ensnare",
+  "type": "feature",
+  "_id": "qIc89P483VpFjgOf",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [
+        {
+          "id": "HZQMSuwgmfdQHwt7",
+          "type": "savingThrow",
+          "savingThrowType": "strength",
+          "parentContext": null,
+          "parentNode": null,
+          "saveType": "dexterity",
+          "on": {
+            "failedSave": [
+              {
+                "id": "qdKoRIpoRXumkFbb",
+                "type": "condition",
+                "condition": "slowed",
+                "parentContext": "failedSave",
+                "parentNode": "HZQMSuwgmfdQHwt7"
+              }
+            ]
+          },
+          "sharedRolls": []
+        }
+      ],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Action: Target creature within Reach 6 becomes Slowed, or Restrained on a failed DEX save (DC 10+KEY). Linked creatures have disadvantage on the save.</p>",
+    "featureType": "class",
+    "class": "the-cheat",
+    "group": "tools-of-the-spider",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782791149822,
+    "modifiedTime": 1782791253233,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!qIc89P483VpFjgOf"
+}
