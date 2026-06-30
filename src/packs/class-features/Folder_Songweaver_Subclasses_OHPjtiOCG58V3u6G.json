@@ -1,7 +1,7 @@
 {
   "type": "Item",
   "folder": null,
-  "name": "Songweave Subclasses",
+  "name": "Songweaver Subclasses",
   "color": null,
   "sorting": "a",
   "_id": "OHPjtiOCG58V3u6G",
@@ -16,7 +16,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782849135191,
-    "modifiedTime": 1782849135191,
+    "modifiedTime": 1782850229984,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!folders!OHPjtiOCG58V3u6G"

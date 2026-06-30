@@ -1,0 +1,67 @@
+{
+  "folder": "p5VlseAmc7lKKNlX",
+  "name": "Razor's Wit",
+  "type": "feature",
+  "_id": "vq5RII5m6Ps6ZXgL",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>If you would gain temp HP while your current amount is lower than LVL, you may combine the two amounts instead.</p>",
+    "featureType": "class",
+    "class": "songweaver",
+    "group": "herald-of-legends",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782850446360,
+    "modifiedTime": 1782850710158,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!vq5RII5m6Ps6ZXgL"
+}
