@@ -1,0 +1,79 @@
+{
+  "folder": "m8KvvcSdql37SdrO",
+  "name": "Trick up the Sleeve",
+  "type": "feature",
+  "_id": "Ffz1DOjkCd8oYSt3",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [
+      {
+        "type": "grantProficiency",
+        "disabled": false,
+        "id": "0juKpjyot5lEkAU2",
+        "identifier": "",
+        "label": "Trick up the Sleeve",
+        "predicate": {},
+        "priority": 1,
+        "proficiencyType": "weapons",
+        "values": ["Improvised Weapons"]
+      }
+    ],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>You gain proficiency with Improvised Weapons and treat them as having Thrown 4. @UUID[Compendium.nimble.nimble-class-features.Item.kHjJhTZEQcdbUMbb]{Vicious Opportunist} also applies to Thrown weapons.</p>",
+    "featureType": "class",
+    "class": "the-cheat",
+    "group": "tools-of-the-trickshot",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782792391365,
+    "modifiedTime": 1782792823379,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!Ffz1DOjkCd8oYSt3"
+}
