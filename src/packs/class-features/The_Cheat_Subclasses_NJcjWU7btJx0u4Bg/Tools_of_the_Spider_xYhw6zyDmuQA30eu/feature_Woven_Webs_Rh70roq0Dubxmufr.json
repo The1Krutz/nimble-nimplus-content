@@ -1,7 +1,8 @@
 {
-  "name": "Twinned Threads",
+  "folder": "xYhw6zyDmuQA30eu",
+  "name": "Woven Webs",
   "type": "feature",
-  "_id": "S9iRwcHz8EAqD2Po",
+  "_id": "Rh70roq0Dubxmufr",
   "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
   "system": {
     "macro": "",
@@ -35,17 +36,16 @@
         "width": 1
       }
     },
-    "description": "<p>Action: Link two creatures within Range 6 with an ethereal web. When a Linked creature is dealt damage, other Linked creatures are dealt half that amount as Psychic damage (ignoring armor). You can only maintain one web at time.</p>",
+    "description": "<p>Twinned Threads now Links up to three creatures. When you apply a condition to a Linked creature, you may also apply it to all other Linked creatures.</p>",
     "featureType": "class",
     "class": "the-cheat",
     "group": "tools-of-the-spider",
     "subclass": true,
-    "gainedAtLevel": 3,
-    "gainedAtLevels": [3],
+    "gainedAtLevel": 11,
+    "gainedAtLevels": [11],
     "selectionCountByLevel": {}
   },
   "effects": [],
-  "folder": null,
   "sort": 0,
   "ownership": {
     "default": 0,
@@ -58,10 +58,10 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
-    "createdTime": 1780591804688,
-    "modifiedTime": 1782440408839,
+    "systemVersion": "0.8.7",
+    "createdTime": 1782791348127,
+    "modifiedTime": 1782791348127,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!S9iRwcHz8EAqD2Po"
+  "_key": "!items!Rh70roq0Dubxmufr"
 }
