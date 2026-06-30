@@ -7,7 +7,19 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantMovement",
+        "disabled": false,
+        "id": "0ro8752BrttxtzzC",
+        "identifier": "",
+        "label": "Spider Climb",
+        "predicate": {},
+        "priority": 1,
+        "mode": "climb",
+        "speed": "@attributes.movement.walk"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -60,7 +72,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782791336830,
-    "modifiedTime": 1782791336830,
+    "modifiedTime": 1782794156994,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!hnkn1mzAhW8eGYMS"
