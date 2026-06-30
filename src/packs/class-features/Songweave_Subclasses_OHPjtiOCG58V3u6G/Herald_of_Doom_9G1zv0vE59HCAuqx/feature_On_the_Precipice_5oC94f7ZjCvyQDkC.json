@@ -1,0 +1,67 @@
+{
+  "folder": "9G1zv0vE59HCAuqx",
+  "name": "On the Precipice",
+  "type": "feature",
+  "_id": "5oC94f7ZjCvyQDkC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>The first time each encounter you become Bloodied, you regain 1 Hit Die. Whenever you Make Camp, you may set your HP to half of your max HP. +1 max Hit Dice.</p>",
+    "featureType": "class",
+    "class": "songweaver",
+    "group": "herald-of-doom",
+    "subclass": true,
+    "gainedAtLevel": 7,
+    "gainedAtLevels": [7],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782849315197,
+    "modifiedTime": 1782849684739,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!5oC94f7ZjCvyQDkC"
+}

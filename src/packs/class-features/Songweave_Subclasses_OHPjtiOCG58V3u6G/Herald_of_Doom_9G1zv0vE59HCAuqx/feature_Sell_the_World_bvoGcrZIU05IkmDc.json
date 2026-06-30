@@ -1,0 +1,67 @@
+{
+  "folder": "9G1zv0vE59HCAuqx",
+  "name": "Sell the World",
+  "type": "feature",
+  "_id": "bvoGcrZIU05IkmDc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Action: Expend and roll any number of Hit Dice. Heal or damage any number of other creatures within Reach 12 equal to the result (split evenly).</p>",
+    "featureType": "class",
+    "class": "songweaver",
+    "group": "herald-of-doom",
+    "subclass": true,
+    "gainedAtLevel": 11,
+    "gainedAtLevels": [11],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782849323214,
+    "modifiedTime": 1782849610093,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!bvoGcrZIU05IkmDc"
+}
