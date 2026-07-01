@@ -1,0 +1,79 @@
+{
+  "folder": "5X1VqiCfJtxELRQv",
+  "name": "Ready for Action",
+  "type": "feature",
+  "_id": "lMx9UFXv0VHkE5mV",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [
+      {
+        "type": "initiativeRollMode",
+        "disabled": false,
+        "id": "4YDrbjgsSI3xwUBN",
+        "identifier": "",
+        "label": "Ready for Action",
+        "predicate": {},
+        "priority": 1,
+        "value": 1,
+        "mode": "adjust"
+      }
+    ],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Advantage on Initiative. You may Assess for free when rolling Initiative.</p>",
+    "featureType": "class",
+    "class": "commander",
+    "group": "champion-of-the-pit",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782853222022,
+    "modifiedTime": 1782853369433,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!lMx9UFXv0VHkE5mV"
+}
