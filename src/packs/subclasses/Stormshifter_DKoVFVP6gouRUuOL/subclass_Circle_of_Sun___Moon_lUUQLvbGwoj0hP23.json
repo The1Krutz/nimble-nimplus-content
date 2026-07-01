@@ -8,7 +8,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p><em>title</em><em>title</em><em>title</em></p><hr /><p>LEVEL 3</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 7</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 11</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 15</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p>",
+    "description": "<p><em>title</em></p><p><em>title</em></p><p><em>title</em></p><hr /><p>LEVEL 3</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 7</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 11</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 15</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p>",
     "parentClass": "stormshifter",
     "resources": []
   },
