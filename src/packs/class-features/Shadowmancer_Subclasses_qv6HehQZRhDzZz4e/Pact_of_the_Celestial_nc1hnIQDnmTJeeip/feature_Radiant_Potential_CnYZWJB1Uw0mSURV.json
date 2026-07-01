@@ -7,7 +7,160 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "id": "celestial-pact-tier0-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [0],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 3
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Radiant Potential",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "celestial-pact-tier1-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [1],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 3
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "celestial-pact-tier2-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [2],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 5
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "celestial-pact-tier3-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [3],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 7
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "celestial-pact-tier4-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [4],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 10
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "celestial-pact-tier5-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [5],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 13
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "celestial-pact-tier6-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [6],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 16
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "celestial-pact-tier7-spells",
+        "type": "grantSpells",
+        "schools": ["radiant"],
+        "tiers": [7],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 19
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -42,7 +195,7 @@
     "group": "pact-of-the-celestial",
     "subclass": true,
     "gainedAtLevel": 3,
-    "gainedAtLevels": [3],
+    "gainedAtLevels": [3, 5, 7, 10, 13, 16, 19],
     "selectionCountByLevel": {}
   },
   "effects": [],
@@ -60,7 +213,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782879812485,
-    "modifiedTime": 1782880110103,
+    "modifiedTime": 1782880866173,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!CnYZWJB1Uw0mSURV"
