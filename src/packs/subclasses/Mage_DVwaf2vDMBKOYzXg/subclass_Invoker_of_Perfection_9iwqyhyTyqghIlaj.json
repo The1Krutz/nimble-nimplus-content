@@ -1,0 +1,34 @@
+{
+  "folder": "DVwaf2vDMBKOYzXg",
+  "name": "Invoker of Perfection",
+  "type": "subclass",
+  "_id": "9iwqyhyTyqghIlaj",
+  "img": "modules/nimble-nimplus-content/assets/artwork/subclass/flag_square.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "description": "<p><em>Some spend their entire lives in service to breadth of knowledge.</em></p><p><em>Fools, the lot of them! True excellence lies in the perfection of a single thought.</em></p><hr><p>LEVEL 3</p><p><strong>Signature Spell School.</strong> Select a Signature spell school from among the schools you know. Your Signature cantrips are cast with advantage, and your Signature spells are automatically upcast 1 tier for free (even beyond your currently unlocked spell tiers).</p><p><strong>Prestidigitation.</strong> You are able to produce minor magical effects related to your Signature spell school, which can provide mundane utility and impress those impressionable.</p><p>LEVEL 7</p><p><strong>Impossible Geometry.</strong> Choose 1 additional Spellshaper ability. You may use 2 Spellshaper abilities when casting Signature spells.</p><p>LEVEL 11</p><p><strong>Flawless Execution.</strong> The first Signature cantrip you cast each encounter automatically rolls the highest possible result.</p><p>LEVEL 15</p><p><strong>Unlimited Power.</strong> (1/Safe Rest) Cast a Signature spell without spending actions or mana, automatically upcast to the highest unlocked tier. Spellshaper abilities still cost Mana.</p>",
+    "parentClass": "mage",
+    "resources": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782877034896,
+    "modifiedTime": 1782879266360,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!9iwqyhyTyqghIlaj"
+}

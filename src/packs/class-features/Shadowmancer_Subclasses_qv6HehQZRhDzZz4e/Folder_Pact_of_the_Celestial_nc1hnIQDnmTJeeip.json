@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "qv6HehQZRhDzZz4e",
+  "name": "Pact of the Celestial",
+  "color": null,
+  "sorting": "a",
+  "_id": "nc1hnIQDnmTJeeip",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!nc1hnIQDnmTJeeip"
+}
