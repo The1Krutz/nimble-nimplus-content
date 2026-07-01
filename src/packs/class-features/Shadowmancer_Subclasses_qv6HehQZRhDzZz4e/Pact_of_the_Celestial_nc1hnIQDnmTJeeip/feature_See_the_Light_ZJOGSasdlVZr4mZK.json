@@ -1,0 +1,67 @@
+{
+  "folder": "nc1hnIQDnmTJeeip",
+  "name": "See the Light",
+  "type": "feature",
+  "_id": "ZJOGSasdlVZr4mZK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>When a shadow minion Interposes for an ally, the attacker becomes Blinded until the end of its next turn (after resolving the attack).</p>",
+    "featureType": "class",
+    "class": "shadowmancer",
+    "group": "pact-of-the-celestial",
+    "subclass": true,
+    "gainedAtLevel": 7,
+    "gainedAtLevels": [7],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782879826187,
+    "modifiedTime": 1782880363044,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!ZJOGSasdlVZr4mZK"
+}

@@ -1,0 +1,67 @@
+{
+  "folder": "nc1hnIQDnmTJeeip",
+  "name": "Redemption Within Reach",
+  "type": "feature",
+  "_id": "QNbCOIuolSAyxW8k",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": true
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>(1/Safe Rest) Action/Reaction: Until the beginning of your next turn, you gain immunity to all damage and all healing you do is doubled.</p>",
+    "featureType": "class",
+    "class": "shadowmancer",
+    "group": "pact-of-the-celestial",
+    "subclass": true,
+    "gainedAtLevel": 15,
+    "gainedAtLevels": [15],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782879845607,
+    "modifiedTime": 1782880477699,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!QNbCOIuolSAyxW8k"
+}
