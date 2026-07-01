@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "92ArObX9bZaehYyy",
+  "name": "Invoker of Majesty",
+  "color": null,
+  "sorting": "a",
+  "_id": "ziJB8sNMmGTqMfE5",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!ziJB8sNMmGTqMfE5"
+}
