@@ -3,7 +3,8 @@
   "name": "New Orders",
   "type": "feature",
   "_id": "OQM9HfqwF5Eca0Wu",
-  "img": "icons/svg/item-bag.svg",
+
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
   "system": {
     "macro": "",
     "identifier": "",
