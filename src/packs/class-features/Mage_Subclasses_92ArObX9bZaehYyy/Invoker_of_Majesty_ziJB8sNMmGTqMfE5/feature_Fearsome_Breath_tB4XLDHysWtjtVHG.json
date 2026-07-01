@@ -1,0 +1,67 @@
+{
+  "folder": "ziJB8sNMmGTqMfE5",
+  "name": "Fearsome Breath",
+  "type": "feature",
+  "_id": "tB4XLDHysWtjtVHG",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>(Draconic Power) Action: Spend <strong>X</strong> Mana to deal <strong>X</strong>d6 damage of your chosen type in Cone 3. Half damage on a DEX save (DC 10+KEY). Applies Dragonmarked.</p><p><strong>Dragonmarked</strong>: Condition. Counts as any condition for empowering spells, like Smoldering</p>",
+    "featureType": "class",
+    "class": "mage",
+    "group": "invoker-of-majesty",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782878074025,
+    "modifiedTime": 1782878682317,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!tB4XLDHysWtjtVHG"
+}
