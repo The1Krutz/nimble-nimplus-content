@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "Ey3DKV1KrUqteB7L",
+  "name": "Champion of the Stratagem",
+  "color": null,
+  "sorting": "a",
+  "_id": "JofjczqVNyUR7Eu8",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!JofjczqVNyUR7Eu8"
+}

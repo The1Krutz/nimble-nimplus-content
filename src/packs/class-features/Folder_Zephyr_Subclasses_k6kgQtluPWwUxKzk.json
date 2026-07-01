@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Zephyr Subclasses",
+  "color": null,
+  "sorting": "a",
+  "_id": "k6kgQtluPWwUxKzk",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782852297589,
+    "modifiedTime": 1782852297589,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!folders!k6kgQtluPWwUxKzk"
+}
