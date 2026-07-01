@@ -1,0 +1,67 @@
+{
+  "folder": "cFnJp8cGpjVDoYkV",
+  "name": "Know Your Limits",
+  "type": "feature",
+  "_id": "l0FicnhrWg9hw8ze",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Your limit for shadow minions increases by WIL, and you may summon a shadow minion for free at the start of your turn.</p>",
+    "featureType": "class",
+    "class": "shadowmancer",
+    "group": "pact-of-the-id",
+    "subclass": true,
+    "gainedAtLevel": 11,
+    "gainedAtLevels": [11],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782881402029,
+    "modifiedTime": 1782881561395,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!l0FicnhrWg9hw8ze"
+}

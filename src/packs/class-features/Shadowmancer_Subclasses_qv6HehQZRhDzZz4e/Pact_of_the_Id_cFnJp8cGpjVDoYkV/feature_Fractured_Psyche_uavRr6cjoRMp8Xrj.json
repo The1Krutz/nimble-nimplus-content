@@ -1,0 +1,90 @@
+{
+  "folder": "cFnJp8cGpjVDoYkV",
+  "name": "Fractured Psyche",
+  "type": "feature",
+  "_id": "uavRr6cjoRMp8Xrj",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [
+      {
+        "type": "grantProficiency",
+        "disabled": false,
+        "id": "RHVjKmwmC7Bp0aHd",
+        "identifier": "",
+        "label": "Fractured Psyche",
+        "predicate": {},
+        "priority": 1,
+        "proficiencyType": "armor",
+        "values": ["Leather"]
+      },
+      {
+        "type": "grantProficiency",
+        "disabled": false,
+        "id": "LEww5c6cuUDnrV3Q",
+        "identifier": "",
+        "label": "Fractured Psyche",
+        "predicate": {},
+        "priority": 1,
+        "proficiencyType": "weapons",
+        "values": ["Choose one type"]
+      }
+    ],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Your Patron is a power hidden in a deep recess of your mind. You gain proficiency with Leather armor and one type of weapon, and your shadow minions become fragments of your subconscious made manifest.</p>",
+    "featureType": "class",
+    "class": "shadowmancer",
+    "group": "pact-of-the-id",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782881383307,
+    "modifiedTime": 1782881518097,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!uavRr6cjoRMp8Xrj"
+}
