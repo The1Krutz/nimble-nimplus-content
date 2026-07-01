@@ -1,8 +1,8 @@
 {
-  "folder": "zEBC8NjlCa3K5jZ4",
-  "name": "Steal Essence",
+  "folder": "WSxUecXZb2x5S9vQ",
+  "name": "Murder on the Dance Floor",
   "type": "feature",
-  "_id": "krUUOBBtSNOnezsg",
+  "_id": "4BqlJ10f2wXzSFjt",
   "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
   "system": {
     "macro": "",
@@ -13,7 +13,7 @@
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
+        "type": "action",
         "isReaction": false
       },
       "duration": {
@@ -36,13 +36,13 @@
         "width": 1
       }
     },
-    "description": "<p>When YOU kill an enemy, you may conjure a Shade on an adjacent space. You can control up to 2xKEY Shades at the same time.</p>",
+    "description": "<p>(1/encounter) Action: All enemies Taunted or Charmed by you attack their closest target, friend or foe. If there are no valid target, they attack themselves.</p>",
     "featureType": "class",
     "class": "zephyr",
-    "group": "way-of-shadows",
+    "group": "way-of-the-dancer",
     "subclass": true,
-    "gainedAtLevel": 11,
-    "gainedAtLevels": [11],
+    "gainedAtLevel": 15,
+    "gainedAtLevels": [15],
     "selectionCountByLevel": {}
   },
   "effects": [],
@@ -59,9 +59,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1782875011832,
-    "modifiedTime": 1782875407708,
+    "createdTime": 1782876214337,
+    "modifiedTime": 1782876395079,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!krUUOBBtSNOnezsg"
+  "_key": "!items!4BqlJ10f2wXzSFjt"
 }

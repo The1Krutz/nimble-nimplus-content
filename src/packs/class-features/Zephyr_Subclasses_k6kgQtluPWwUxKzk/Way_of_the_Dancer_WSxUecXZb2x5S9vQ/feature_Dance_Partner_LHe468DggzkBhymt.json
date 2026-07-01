@@ -1,8 +1,8 @@
 {
-  "folder": "zEBC8NjlCa3K5jZ4",
-  "name": "Steal Essence",
+  "folder": "WSxUecXZb2x5S9vQ",
+  "name": "Dance Partner",
   "type": "feature",
-  "_id": "krUUOBBtSNOnezsg",
+  "_id": "LHe468DggzkBhymt",
   "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
   "system": {
     "macro": "",
@@ -36,13 +36,13 @@
         "width": 1
       }
     },
-    "description": "<p>When YOU kill an enemy, you may conjure a Shade on an adjacent space. You can control up to 2xKEY Shades at the same time.</p>",
+    "description": "<p>(1/round) When an enemy within Reach 2 misses you with an attack, you may gain a Wound to Charm it. At the beginning of the Charmed enemy's turn, they make a WIL save (DC 10+KEY) to end the condition.</p>",
     "featureType": "class",
     "class": "zephyr",
-    "group": "way-of-shadows",
+    "group": "way-of-the-dancer",
     "subclass": true,
-    "gainedAtLevel": 11,
-    "gainedAtLevels": [11],
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
     "selectionCountByLevel": {}
   },
   "effects": [],
@@ -59,9 +59,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1782875011832,
-    "modifiedTime": 1782875407708,
+    "createdTime": 1782876194623,
+    "modifiedTime": 1782876288507,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!krUUOBBtSNOnezsg"
+  "_key": "!items!LHe468DggzkBhymt"
 }
