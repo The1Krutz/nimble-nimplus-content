@@ -1,0 +1,67 @@
+{
+  "folder": "HR7YH7LIoeqzg8Sz",
+  "name": "Hear Ye! Hear Ye!",
+  "type": "feature",
+  "_id": "sKGUBVKS2LXqOIDq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Your @UUID[Compendium.nimble.nimble-class-features.Item.n6Df3QpL8sV1xR2M]{Lifebinding Spirit} chimes like a bell, and your words carry an aura of importance when speaking in public. @UUID[Compendium.nimble.nimble-class-features.Item.KQiBYDr1BBTE0iJq]{Searing Light} becomes @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.reBSIvH5pJiBJhal]{Toll the Hour}.</p>",
+    "featureType": "class",
+    "class": "shepherd",
+    "group": "luminary-of-tidings",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782939994623,
+    "modifiedTime": 1782940200303,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!sKGUBVKS2LXqOIDq"
+}

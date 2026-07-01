@@ -1,0 +1,67 @@
+{
+  "folder": "HR7YH7LIoeqzg8Sz",
+  "name": "Raise the Alarm",
+  "type": "feature",
+  "_id": "dF3PM6UbIxVH7kxM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>When you roll Initiative, you may spend 1 Mana per ally to grant them advantage on both Initiative and their first attack this encounter.</p>",
+    "featureType": "class",
+    "class": "shepherd",
+    "group": "luminary-of-tidings",
+    "subclass": true,
+    "gainedAtLevel": 7,
+    "gainedAtLevels": [7],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782940014519,
+    "modifiedTime": 1782940160578,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!dF3PM6UbIxVH7kxM"
+}
