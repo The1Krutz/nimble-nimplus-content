@@ -1,0 +1,67 @@
+{
+  "folder": "cwUc4THN18rz6fo6",
+  "name": "Titanic Toss",
+  "type": "feature",
+  "_id": "3J8B8LXPKCwfHTf4",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Action: Expend a Fury Die to throw a creature you are Grappling up to STR spaces, plus one space for each size category that creature is smaller than you.</p>",
+    "featureType": "class",
+    "class": "berserker",
+    "group": "path-of-the-titan",
+    "subclass": true,
+    "gainedAtLevel": 7,
+    "gainedAtLevels": [7],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782930059011,
+    "modifiedTime": 1782930170887,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!3J8B8LXPKCwfHTf4"
+}
