@@ -1,0 +1,67 @@
+{
+  "folder": "MtATAeo5RkrpNV97",
+  "name": "Eclipse",
+  "type": "feature",
+  "_id": "9qg6SGdtYlT74OPH",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Action (after shifting Phases 4+ times): Enter Eclipse Phase until the end of the encounter. While in Eclipse Phase, you gain double the benefits of both Solar and Lunar Phase, and the ability to cast spells while in beastform.</p>",
+    "featureType": "class",
+    "class": "stormshifter",
+    "group": "circle-of-sun-and-moon",
+    "subclass": true,
+    "gainedAtLevel": 15,
+    "gainedAtLevels": [15],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782936985712,
+    "modifiedTime": 1782937086842,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!9qg6SGdtYlT74OPH"
+}

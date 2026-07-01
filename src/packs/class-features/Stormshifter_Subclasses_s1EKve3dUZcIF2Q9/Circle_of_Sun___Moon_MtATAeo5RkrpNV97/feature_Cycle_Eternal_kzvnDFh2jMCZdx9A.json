@@ -1,0 +1,67 @@
+{
+  "folder": "MtATAeo5RkrpNV97",
+  "name": "Cycle Eternal",
+  "type": "feature",
+  "_id": "kzvnDFh2jMCZdx9A",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>(1/encounter) Action: Spend a @UUID[Compendium.nimble.nimble-class-features.Item.lerWY2A6JkebdDFf]{Beastshift} charge to enter Cycle Eternal as either Solar or Lunar Phase. You shift Phases by spending an action or killing an enemy. If you end your turn without shifting Phases, Cycle Eternal ends.</p><ul><li><strong>Solar Phase.</strong> Your spells gain advantage.</li><li><strong>Lunar Phase.</strong> Gain KEY Defense and 2 Speed.</li></ul>",
+    "featureType": "class",
+    "class": "stormshifter",
+    "group": "circle-of-sun-and-moon",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782936967950,
+    "modifiedTime": 1782937667550,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!kzvnDFh2jMCZdx9A"
+}

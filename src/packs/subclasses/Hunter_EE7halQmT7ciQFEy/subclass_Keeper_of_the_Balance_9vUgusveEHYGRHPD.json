@@ -1,0 +1,34 @@
+{
+  "folder": "EE7halQmT7ciQFEy",
+  "name": "Keeper of the Balance",
+  "type": "subclass",
+  "_id": "9vUgusveEHYGRHPD",
+  "img": "modules/nimble-nimplus-content/assets/artwork/subclass/flag_square.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "description": "<p><em>Stewards of the delicate natural balance, always seeking the next monstrosity to prune.</em><hr /><p>LEVEL 3</p><p><strong>Wild Surge.</strong> (1/encounter) Ignore the Rushed Attacks penalty this turn. Recharges if your quarry crits you or an ally.</p><p><strong>Calm Mind.</strong> Gain advantage on Influence and Naturecraft checks when Assessing your quarry, as well as on any skill check related to monstrosities and corrupted beings.</p><p>LEVEL 7</p><p><strong>Thrilling Insight.</strong> Double any Thrill of the Hunt charges you get this turn (1/encounter).</p><p>LEVEL 11</p><p><strong>Intense Focus.</strong> Exploding crits are rolled with advantage against your quarry, and you have advantage on all saves against your quarry.</p><p>LEVEL 15</p><p><strong>Wrath of Nature.</strong> Every time you hit your quarry without critting, you may increase the Primary Die of your next attack by 1. This bonus stacks until you crit your quarry or the encounter ends.</p>",
+    "parentClass": "hunter",
+    "resources": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782882211921,
+    "modifiedTime": 1782882236527,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!9vUgusveEHYGRHPD"
+}

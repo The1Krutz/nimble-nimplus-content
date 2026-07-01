@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "Nm6GjilSNPzNlKCa",
+  "name": "Path of the Exile",
+  "color": null,
+  "sorting": "a",
+  "_id": "38TAraTO5EWXrJEQ",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!38TAraTO5EWXrJEQ"
+}

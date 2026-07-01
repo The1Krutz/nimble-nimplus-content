@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "ljBivRrngyAEhaih",
+  "name": "Keeper of the Primal Pack",
+  "color": null,
+  "sorting": "a",
+  "_id": "uo9OviyDTAAHqnPi",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!uo9OviyDTAAHqnPi"
+}
