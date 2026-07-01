@@ -36,7 +36,7 @@
         "width": 1
       }
     },
-    "description": "<p>Double any Thrill of the Hunt charges you get this turn (1/encounter).</p>",
+    "description": "<p>Double any @UUID[Compendium.nimble.nimble-class-features.Item.i3O9fe7mzp4ApOUm]{Thrill of the Hunt} charges you get this turn (1/encounter).</p>",
     "featureType": "class",
     "class": "hunter",
     "group": "keeper-of-the-balance",
@@ -60,7 +60,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782932366493,
-    "modifiedTime": 1782932439791,
+    "modifiedTime": 1782937563990,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!QgbsO1V5HLDpzkNf"
