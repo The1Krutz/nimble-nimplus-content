@@ -1,8 +1,8 @@
 {
-  "folder": "JofjczqVNyUR7Eu8",
-  "name": "New Orders",
+  "folder": "zEBC8NjlCa3K5jZ4",
+  "name": "Steal Essence",
   "type": "feature",
-  "_id": "OQM9HfqwF5Eca0Wu",
+  "_id": "krUUOBBtSNOnezsg",
 
   "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
   "system": {
@@ -37,13 +37,13 @@
         "width": 1
       }
     },
-    "description": "<p>Add @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.9YPtXtZThBmqqq66]{Watch Out!}, @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.QCRki9c6tsXIPyAl]{Hit The Weak Spot!}, and @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.SwV3U6T5ZbVgznVJ]{Shake It Off!} to the list of available Commander's Orders. Choose another Commander's Order.</p><hr><p>Foundry note: You will need to add the new Commander's Order manually. Drag it from one of the Compendium packs onto your character sheet.</p>",
+    "description": "<p>When YOU kill an enemy, you may conjure a Shade on an adjacent space. You can control up to 2xKEY Shades at the same time.</p>",
     "featureType": "class",
-    "class": "commander",
-    "group": "champion-of-the-stratagem",
+    "class": "zephyr",
+    "group": "way-of-shadows",
     "subclass": true,
-    "gainedAtLevel": 3,
-    "gainedAtLevels": [3],
+    "gainedAtLevel": 11,
+    "gainedAtLevels": [11],
     "selectionCountByLevel": {}
   },
   "effects": [],
@@ -60,9 +60,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1782854500467,
-    "modifiedTime": 1782871923232,
+    "createdTime": 1782875011832,
+    "modifiedTime": 1782875407708,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!OQM9HfqwF5Eca0Wu"
+  "_key": "!items!krUUOBBtSNOnezsg"
 }
