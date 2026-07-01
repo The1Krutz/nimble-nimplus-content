@@ -40,7 +40,7 @@
     "description": "<p>Action: Dispel a Shade, dealing your unarmed strike damage to all enemies adjacent to it, and inflicting Blinded until the end of their next turn.</p>",
     "featureType": "class",
     "class": "zephyr",
-    "group": "zephyr",
+    "group": "way-of-shadows",
     "subclass": true,
     "gainedAtLevel": 7,
     "gainedAtLevels": [7],

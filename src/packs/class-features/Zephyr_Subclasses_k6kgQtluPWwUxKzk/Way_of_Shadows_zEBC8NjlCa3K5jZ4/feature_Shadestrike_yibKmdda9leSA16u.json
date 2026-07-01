@@ -40,7 +40,7 @@
     "description": "<p>Your Shades may make unarmed strikes with advantage on your behalf.</p>",
     "featureType": "class",
     "class": "zephyr",
-    "group": "zephyr",
+    "group": "way-of-shadows",
     "subclass": true,
     "gainedAtLevel": 3,
     "gainedAtLevels": [3],

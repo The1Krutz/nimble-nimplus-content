@@ -40,7 +40,7 @@
     "description": "<p>2 actions: Dispel <strong>X</strong> Shades to deal <strong>X</strong>d8+KEY Necrotic damage to a target within Range 6.</p>",
     "featureType": "class",
     "class": "zephyr",
-    "group": "zephyr",
+    "group": "way-of-shadows",
     "subclass": true,
     "gainedAtLevel": 15,
     "gainedAtLevels": [15],

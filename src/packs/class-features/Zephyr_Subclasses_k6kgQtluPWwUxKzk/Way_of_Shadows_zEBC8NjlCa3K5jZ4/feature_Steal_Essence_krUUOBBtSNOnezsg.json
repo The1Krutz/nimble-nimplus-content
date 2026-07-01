@@ -40,7 +40,7 @@
     "description": "<p>When YOU kill an enemy, you may conjure a Shade on an adjacent space. You can control up to 2xKEY Shades at the same time.</p>",
     "featureType": "class",
     "class": "zephyr",
-    "group": "zephyr",
+    "group": "way-of-shadows",
     "subclass": true,
     "gainedAtLevel": 11,
     "gainedAtLevels": [11],

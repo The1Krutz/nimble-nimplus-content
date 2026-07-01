@@ -40,7 +40,7 @@
     "description": "<p>Reaction: Interpose with a Shade, dispelling it in the process (the Shade must be within 2 spaces of the target).</p>",
     "featureType": "class",
     "class": "zephyr",
-    "group": "zephyr",
+    "group": "way-of-shadows",
     "subclass": true,
     "gainedAtLevel": 3,
     "gainedAtLevels": [3],
