@@ -7,7 +7,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p><em>title</em><em>title</em><em>title</em></p><hr /><p>LEVEL 3</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 7</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 11</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p><p>LEVEL 15</p><p><strong>title.</strong> description</p><p><strong>title.</strong> description</p>",
+    "description": "<p><em>Follow my orders, and together we shall march towards victory.</em></p><hr><p>LEVEL 3</p><p><strong>Rallying Cry.</strong> Whenever you use a Commander's Order, all allies within Reach 12 that can hear you gain advantage on their next attack (1/round).</p><p><strong>New Orders.</strong> Add Watch Out!, Hit The Weak Spot! and Shake It Off! to the list of available Commander's Orders. Choose another Commander's Order.</p><ul><li><p><strong>Watch Out!</strong> 1 action. (1/encounter) Reaction (when an ally within Reach 12 is attacked): Cause the attack targeting your ally to miss.</p></li><li><p><strong>Hit the Weak Spot!</strong> 1 action. Reaction (as an ally within Reach 12 attacks an enemy): Your ally's attack ignores Armor.</p></li><li><p><strong>Shake It Off!</strong> 1 action. Action/Reaction (on an ally's turn): Target ally within Reach 12 is cured of either Charmed, Dazed, Frightened or Taunted.</p></li></ul><p>LEVEL 7</p><p><strong>Listen Up!</strong> Your Commander's Orders that target an ally or enemy may affect one additional valid target. Choose another Commander's Order.</p><p>LEVEL 11</p><p><strong>Powerful Voice.</strong> Whenever you use a Commander's Order, all adjacent enemies become Frightened of you until the end of their next turn (1/round).</p><p>LEVEL 15</p><p><strong>Master and Commander.</strong> All Commander's Orders with a usage limit may be used an additional time each encounter. You know all Commander's Orders.</p>",
     "parentClass": "commander",
     "resources": []
   },
@@ -25,7 +25,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782852492379,
-    "modifiedTime": 1782852492379,
+    "modifiedTime": 1782854706823,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_id": "IWFh1DyNbv9Fo2ia",

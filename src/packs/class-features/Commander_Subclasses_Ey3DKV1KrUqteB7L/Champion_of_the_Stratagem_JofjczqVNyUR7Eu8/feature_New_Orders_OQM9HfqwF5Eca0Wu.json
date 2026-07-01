@@ -1,0 +1,67 @@
+{
+  "folder": "JofjczqVNyUR7Eu8",
+  "name": "New Orders",
+  "type": "feature",
+  "_id": "OQM9HfqwF5Eca0Wu",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Add @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.9YPtXtZThBmqqq66]{Watch Out!}, @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.QCRki9c6tsXIPyAl]{Hit The Weak Spot!}, and @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.SwV3U6T5ZbVgznVJ]{Shake It Off!} to the list of available Commander's Orders. Choose another Commander's Order.</p><hr><p>Foundry note: You will need to add the new Commander's Order manually. Drag it from one of the Compendium packs onto your character sheet.</p>",
+    "featureType": "class",
+    "class": "commander",
+    "group": "champion-of-the-stratagem",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782854500467,
+    "modifiedTime": 1782871923232,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!OQM9HfqwF5Eca0Wu"
+}
