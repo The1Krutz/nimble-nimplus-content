@@ -1,0 +1,67 @@
+{
+  "folder": "s7ZAghr49nhmSHLQ",
+  "name": "Impossible Geometry",
+  "type": "feature",
+  "_id": "BX82yi5zVME6LFiN",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Choose 1 additional Spellshaper ability. You may use 2 Spellshaper abilities when casting Signature spells.</p><hr><p>Foundry note: You will need to add the new Spellshaper ability manually. Drag it from the Compendium pack onto your character sheet.</p>",
+    "featureType": "class",
+    "class": "mage",
+    "group": "invoker-of-perfection",
+    "subclass": true,
+    "gainedAtLevel": 7,
+    "gainedAtLevels": [7],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782878998897,
+    "modifiedTime": 1782879384082,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!BX82yi5zVME6LFiN"
+}
