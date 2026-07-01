@@ -1,0 +1,258 @@
+{
+  "folder": "0V5IjNsLygtDHrFx",
+  "name": "Controlled Burn",
+  "type": "feature",
+  "_id": "TncC6HGfoZYqlSNJ",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [
+      {
+        "id": "controlled-burn-fire-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [0],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 3
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier1-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [1],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 3
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier2-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [2],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 4
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier3-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [3],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 6
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier4-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [4],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 8
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier5-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [5],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 10
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier6-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [6],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 12
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier7-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [7],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 14
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier8-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [8],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 16
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      },
+      {
+        "id": "controlled-burn-fire-tier9-spells",
+        "type": "grantSpells",
+        "schools": ["fire"],
+        "tiers": [9],
+        "mode": "auto",
+        "predicate": {
+          "level": {
+            "min": 18
+          }
+        },
+        "disabled": false,
+        "identifier": "",
+        "label": "Controlled Burn",
+        "priority": 1,
+        "utilityOnly": false,
+        "uuids": [],
+        "count": null
+      }
+    ],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>Your attunement to the cycles of nature grants you knowledge of Fire spells. After upcasting a spell or critting in beastform, you may inflict Smoldering on any creature within Range 6.</p>",
+    "featureType": "class",
+    "class": "stormshifter",
+    "group": "circle-of-blaze-and-bloom",
+    "subclass": true,
+    "gainedAtLevel": 3,
+    "gainedAtLevels": [3, 4, 6, 8, 10, 12, 14, 16, 18],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782934493067,
+    "modifiedTime": 1782934578113,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!TncC6HGfoZYqlSNJ"
+}
