@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Oathsworn Subclasses",
+  "color": null,
+  "sorting": "a",
+  "_id": "d9M6l2KNVpzIFygo",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782938077685,
+    "modifiedTime": 1782938077685,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!folders!d9M6l2KNVpzIFygo"
+}
