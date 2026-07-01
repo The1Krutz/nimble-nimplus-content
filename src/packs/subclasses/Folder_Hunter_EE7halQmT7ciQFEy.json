@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Hunter",
+  "color": null,
+  "sorting": "a",
+  "_id": "EE7halQmT7ciQFEy",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782882131592,
+    "modifiedTime": 1782882131592,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!folders!EE7halQmT7ciQFEy"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Stormshifter",
+  "color": null,
+  "sorting": "a",
+  "_id": "DKoVFVP6gouRUuOL",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782882136928,
+    "modifiedTime": 1782882136928,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!folders!DKoVFVP6gouRUuOL"
+}
