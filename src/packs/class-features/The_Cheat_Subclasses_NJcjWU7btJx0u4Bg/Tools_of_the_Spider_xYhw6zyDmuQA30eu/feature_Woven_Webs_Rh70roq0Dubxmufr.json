@@ -36,7 +36,7 @@
         "width": 1
       }
     },
-    "description": "<p>Twinned Threads now Links up to three creatures. When you apply a condition to a Linked creature, you may also apply it to all other Linked creatures.</p>",
+    "description": "<p>@UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.S9iRwcHz8EAqD2Po]{Twinned Threads} now Links up to three creatures. When you apply a condition to a Linked creature, you may also apply it to all other Linked creatures.</p>",
     "featureType": "class",
     "class": "the-cheat",
     "group": "tools-of-the-spider",
@@ -60,7 +60,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782791348127,
-    "modifiedTime": 1782791348127,
+    "modifiedTime": 1783025233823,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!Rh70roq0Dubxmufr"

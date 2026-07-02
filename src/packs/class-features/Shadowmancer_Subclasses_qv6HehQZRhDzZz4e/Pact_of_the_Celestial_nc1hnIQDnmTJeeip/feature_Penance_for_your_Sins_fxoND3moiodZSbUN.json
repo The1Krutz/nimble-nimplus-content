@@ -36,7 +36,7 @@
         "width": 1
       }
     },
-    "description": "<p>Your Shadow Blast and shadow minions grant allies temp HP instead of damaging them.</p>",
+    "description": "<p>Your @UUID[Compendium.nimble.nimble-spells.Item.9TNPdOXlCcGgxw6r]{Shadow Blast} and shadow minions grant allies temp HP instead of damaging them.</p>",
     "featureType": "class",
     "class": "shadowmancer",
     "group": "pact-of-the-celestial",
@@ -60,7 +60,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782879839290,
-    "modifiedTime": 1782880453075,
+    "modifiedTime": 1783024961261,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!fxoND3moiodZSbUN"

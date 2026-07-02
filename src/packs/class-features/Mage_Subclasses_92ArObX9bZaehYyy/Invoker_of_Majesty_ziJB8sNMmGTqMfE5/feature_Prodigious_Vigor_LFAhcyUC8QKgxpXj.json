@@ -36,7 +36,7 @@
         "width": 1
       }
     },
-    "description": "<p>The first time each encounter you would drop to 0 HP, set your HP to 1 instead and cast Apodracosis for free.</p>",
+    "description": "<p>The first time each encounter you would drop to 0 HP, set your HP to 1 instead and cast @UUID[Compendium.nimble-nimplus-content.nimplus-class-features.Item.ChlXFAEbt7ATD71F]{Apodracosis} for free.</p>",
     "featureType": "class",
     "class": "mage",
     "group": "invoker-of-majesty",
@@ -60,7 +60,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782878106472,
-    "modifiedTime": 1782878535371,
+    "modifiedTime": 1783024459317,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!LFAhcyUC8QKgxpXj"

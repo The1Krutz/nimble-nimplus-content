@@ -36,7 +36,7 @@
         "width": 1
       }
     },
-    "description": "<p>You and allies within your aura gain advantage on saves against Fear, Charm and Petrification.</p>",
+    "description": "<p>You and allies within your aura gain advantage on saves against Fear, Charm, and Petrification.</p>",
     "featureType": "class",
     "class": "oathsworn",
     "group": "oath-of-eternal-valor",
@@ -60,7 +60,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782962822003,
-    "modifiedTime": 1782963701957,
+    "modifiedTime": 1783024777585,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!AUDiNRwYOrPfheKa"
