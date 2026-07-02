@@ -1,0 +1,67 @@
+{
+  "folder": "biAurvevtdixnpUw",
+  "name": "Uphold the Weak",
+  "type": "feature",
+  "_id": "QxGBb155duwmD2RO",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>When using @UUID[Compendium.nimble.nimble-class-features.Item.Ddm1A7P01CcmPrim]{Lay on Hands}, you may choose another creature within your aura to be healed for the same amount.</p>",
+    "featureType": "class",
+    "class": "oathsworn",
+    "group": "oath-of-eternal-valor",
+    "subclass": true,
+    "gainedAtLevel": 11,
+    "gainedAtLevels": [11],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782962838132,
+    "modifiedTime": 1782963755105,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!QxGBb155duwmD2RO"
+}

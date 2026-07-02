@@ -8,7 +8,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p><em>Focus in exile.</em></p><p><em>Fury honed to a keen edge.</em></p><p><em>A masterless hound.</em></p><hr /><p>LEVEL 3</p><p><strong>Draw Cut.</strong> Your first melee attack each encounter is an automatic crit. Recharges when you spend an entire round without attacking.</p><p><strong>Deflect and Counter.</strong> For each Fury Dice spent to reduce incoming damage from an attack within melee reach, the attacker takes STR+DEX damage (ignoring armor). Does not count as an attack.</p><p>LEVEL 7</p><p><strong>Sudden Rush.</strong> If you do not move during your turn, on your next turn you have double your normal Speed, and advantage on your first attack after moving.</p><p>LEVEL 11</p><p><strong>Hound Without a Master.</strong> While Raging, you gain double advantage on WIL saves and cannot be Charmed.</p><p>LEVEL 15</p><p><strong>You Are Already Dead.</strong> When you crit an enemy, you may choose to deal no damage. If you do, that enemy takes twice that amount of damage at the end of its next turn (ignoring armor).</p>",
+    "description": "<p><em>Focus in exile.</em></p><p><em>Fury honed to a keen edge.</em></p><p><em>A masterless hound.</em></p><hr><p>LEVEL 3</p><p><strong>Draw Cut.</strong> Your first melee attack each encounter is an automatic crit. Recharges when you spend an entire round without attacking.</p><p><strong>Deflect and Counter.</strong> For each Fury Dice spent to reduce incoming damage from an attack within melee reach, the attacker takes STR+DEX damage (ignoring armor). Does not count as an attack.</p><p>LEVEL 7</p><p><strong>Sudden Rush.</strong> If you do not move during your turn, on your next turn you have double your normal Speed, and advantage on your first attack after moving.</p><p>LEVEL 11</p><p><strong>Hound Without a Master.</strong> While Raging, you gain double advantage on WIL saves and cannot be Charmed.</p><p>LEVEL 15</p><p><strong>You Are Already Dead.</strong> When you crit an enemy, you may choose to deal no damage. If you do, that enemy takes twice that amount of damage at the end of its next turn (ignoring armor).</p>",
     "parentClass": "berserker",
     "resources": []
   },
@@ -27,7 +27,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782882161381,
-    "modifiedTime": 1782882191720,
+    "modifiedTime": 1782940322270,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!hzaEm7dedelt559i"

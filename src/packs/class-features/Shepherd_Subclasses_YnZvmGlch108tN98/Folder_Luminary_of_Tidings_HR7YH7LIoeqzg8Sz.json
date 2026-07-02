@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "YnZvmGlch108tN98",
+  "name": "Luminary of Tidings",
+  "color": null,
+  "sorting": "a",
+  "_id": "HR7YH7LIoeqzg8Sz",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!HR7YH7LIoeqzg8Sz"
+}

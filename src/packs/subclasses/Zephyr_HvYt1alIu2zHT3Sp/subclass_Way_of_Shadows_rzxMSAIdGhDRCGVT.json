@@ -7,7 +7,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p><em>The shadows are a source of strength for those willing to recognize it within themselves.</em></p><hr /><p>LEVEL 3</p><p><strong>Dark Legion.</strong> Whenever you roll Initiative, you may conjure KEY Shades within Reach 2. Shades are ethereal and untargetable, and disappear at the end of the encounter. When you move, you may move your Shades up to half your Speed at the same time.</p><p><strong>Shadestrike.</strong> Your Shades may make unarmed strikes with advantage on your behalf.</p><p><strong>Shadow's Embrace.</strong> Reaction: Interpose with a Shade, dispelling it in the process (the Shade must be within 2 spaces of the target).</p><p>LEVEL 7</p><p><strong>Shadowburst.</strong> Action: Dispel a Shade, dealing your unarmed strike damage to all enemies adjacent to it, and inflicting Blinded until the end of their next turn.</p><p>LEVEL 11</p><p><strong>Steal Essence.</strong> When YOU kill an enemy, you may conjure a Shade on an adjacent space. You can control up to 2xKEY Shades at the same time.</p><p>LEVEL 15</p><p><strong>Coalescence of Shadows.</strong> 2 actions: Dispel <strong>X</strong> Shades to deal <strong>X</strong>d8+KEY Necrotic damage to a target within Range 6.</p>",
+    "description": "<p><em>The shadows are a source of strength for those willing to recognize it within themselves.</em></p><hr><p>LEVEL 3</p><p><strong>Dark Legion.</strong> Whenever you roll Initiative, you may conjure KEY Shades within Reach 2. Shades are ethereal and untargetable, and disappear at the end of the encounter. When you move, you may move your Shades up to half your Speed at the same time.</p><p><strong>Shadestrike.</strong> Your Shades may make unarmed strikes with advantage on your behalf.</p><p><strong>Shadow's Embrace.</strong> Reaction: Interpose with a Shade, dispelling it in the process (the Shade must be within 2 spaces of the target).</p><p>LEVEL 7</p><p><strong>Shadowburst.</strong> Action: Dispel a Shade, dealing your unarmed strike damage to all enemies adjacent to it, and inflicting Blinded until the end of their next turn.</p><p>LEVEL 11</p><p><strong>Steal Essence.</strong> When YOU kill an enemy, you may conjure a Shade on an adjacent space. You can control up to 2xKEY Shades at the same time.</p><p>LEVEL 15</p><p><strong>Coalescence of Shadows.</strong> 2 actions: Dispel <strong>X</strong> Shades to deal <strong>X</strong>d8+KEY Necrotic damage to a target within Range 6.</p>",
     "parentClass": "zephyr",
     "resources": []
   },
@@ -25,7 +25,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782852488233,
-    "modifiedTime": 1782852488233,
+    "modifiedTime": 1782940379512,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_id": "rzxMSAIdGhDRCGVT",

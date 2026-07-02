@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "d9M6l2KNVpzIFygo",
+  "name": "Oath of Purification",
+  "color": null,
+  "sorting": "a",
+  "_id": "Hic1hChNb0DBclPK",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!Hic1hChNb0DBclPK"
+}
