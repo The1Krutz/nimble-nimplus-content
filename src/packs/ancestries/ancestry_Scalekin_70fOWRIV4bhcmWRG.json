@@ -19,7 +19,7 @@
         "skills": ["naturecraft"]
       }
     ],
-    "description": "<p>The hostile and arid desert reaches from which these lizards hail have made them formidable adversaries. Beware their natural defenses.</p><hr><p><strong>Arid Scales</strong></p><p>Deal Poison damage equal to your Naturecraft to a melee attacker when you Defend (1/encounter). [A]</p><p>+1 Naturecraft. [A]</p>",
+    "description": "<p>The hostile and arid desert reaches from which these lizards hail have made them formidable adversaries. Beware their natural defenses.</p><hr><p><strong>Arid Scales</strong></p><p>Deal Poison damage equal to your Naturecraft to a melee attacker when you Defend (1/encounter).</p><p>+1 Naturecraft.</p>",
     "exotic": true,
     "size": ["small", "medium"]
   },

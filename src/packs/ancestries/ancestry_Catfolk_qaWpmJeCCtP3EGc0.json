@@ -19,7 +19,7 @@
         "skills": ["stealth", "finesse"]
       }
     ],
-    "description": "<p>Agile, graceful, and able to fall impossible distances without injury. Some say they have multiple lives, or perhaps some secret magic. They're usually preoccupied with finding the next sunbeam.</p><hr><p><strong>Feline Grace</strong></p><p>+1 Stealth and Finesse. [A]</p><p>Ignore damage from falling or forced movement (1/Safe Rest). [A]</p>",
+    "description": "<p>Agile, graceful, and able to fall impossible distances without injury. Some say they have multiple lives, or perhaps some secret magic. They're usually preoccupied with finding the next sunbeam.</p><hr><p><strong>Feline Grace</strong></p><p>+1 Stealth and Finesse.</p><p>Ignore damage from falling or forced movement (1/Safe Rest).</p>",
     "exotic": true,
     "size": ["small", "medium"]
   },

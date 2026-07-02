@@ -18,7 +18,7 @@
         "speed": "@attributes.movement.walk"
       }
     ],
-    "description": "<p>The shallows are in your blood, moving with the rhythm of the sea — fluid and unbound. Though you might walk among those of the shore, the sea always beckons.</p><hr><p><strong>Tidal Grace</strong></p><p>You have a swim Speed, and you can breathe underwater [M]</p><p>Advantage on DEX saves in water, but disadvantage on dry land [A]</p><p>You can talk to creatures of the sea if your INT is not negative [M]</p>",
+    "description": "<p>The shallows are in your blood, moving with the rhythm of the sea — fluid and unbound. Though you might walk among those of the shore, the sea always beckons.</p><hr><p><strong>Tidal Grace</strong></p><p>You have a swim Speed, and you can breathe underwater</p><p>Advantage on DEX saves in water, but disadvantage on dry land</p><p>You can talk to creatures of the sea if your INT is not negative</p>",
     "exotic": true,
     "size": ["medium"]
   },

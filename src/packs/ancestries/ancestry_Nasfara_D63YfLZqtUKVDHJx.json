@@ -29,7 +29,7 @@
         "value": "1"
       }
     ],
-    "description": "<p>Nomadic felines found in deserts, savannas, and jungles. Natural predators with deadly claws, innate agility, and fearsome swiftness. Only foolish prey would not fear to get on their bad side.</p><hr><p><strong>Apex Predator</strong></p><p>+1 Speed and Initiative. [A]</p><p>Your unarmed strikes deal 1d4 Slashing, and may use DEX instead of STR. [A]</p>",
+    "description": "<p>Nomadic felines found in deserts, savannas, and jungles. Natural predators with deadly claws, innate agility, and fearsome swiftness. Only foolish prey would not fear to get on their bad side.</p><hr><p><strong>Apex Predator</strong></p><p>+1 Speed and Initiative.</p><p>Your unarmed strikes deal 1d4 Slashing, and may use DEX instead of STR.</p>",
     "exotic": true,
     "size": ["medium"]
   },
