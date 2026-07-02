@@ -19,7 +19,7 @@
         "mode": "add"
       }
     ],
-    "description": "<p>Sturdy folk of shell and claw with a strong sense of duty. Rarely seen away from their lagoon homes, but always considered valuable allies.</p><hr><p><strong>Vice Grip</strong></p><p>(1/encounter) When you hit a creature in melee, you may grapple it for free. Requires a free claw. [A]</p><p>+1 Defense. [A]</p>",
+    "description": "<p>Sturdy folk of shell and claw with a strong sense of duty. Rarely seen away from their lagoon homes, but always considered valuable allies.</p><hr><p><strong>Vice Grip</strong></p><p>(1/encounter) When you hit a creature in melee, you may grapple it for free. Requires a free claw.</p><p>+1 Defense.</p>",
     "exotic": true,
     "size": ["medium"]
   },
@@ -37,7 +37,7 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594470917,
     "modifiedTime": 1780600618954,
     "lastModifiedBy": "h42CcTzyU22SgcaA"

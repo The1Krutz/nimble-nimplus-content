@@ -1,19 +1,20 @@
 {
-  "name": "Twinned Threads",
+  "folder": "ql5O37gBaIpVK9S4",
+  "name": "Elemental Embodiment",
   "type": "feature",
-  "_id": "S9iRwcHz8EAqD2Po",
-  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "_id": "c0VTiSxbbBMuS9Nx",
+  "img": "modules/nimble-nimplus-content/assets/artwork/ancestry/character.png",
   "system": {
     "macro": "",
-    "identifier": "",
+    "identifier": "elemental-embodiment",
     "rules": [],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
-        "isReaction": false
+        "type": "action",
+        "isReaction": true
       },
       "duration": {
         "details": "",
@@ -35,18 +36,17 @@
         "width": 1
       }
     },
-    "description": "<p>Action: Link two creatures within Range 6 with an ethereal web. When a Linked creature is dealt damage, other Linked creatures are dealt half that amount as Psychic damage (ignoring armor). You can only maintain one web at time.</p>",
-    "featureType": "class",
-    "class": "the-cheat",
-    "group": "tools-of-the-spider",
-    "subclass": true,
-    "gainedAtLevel": 3,
-    "gainedAtLevels": [3],
+    "description": "<p>(1/Safe Rest) Reaction: Gain immunity to your chosen element until the start of your next turn.</p>",
+    "featureType": "ancestry",
+    "class": "",
+    "group": "",
+    "subclass": false,
+    "gainedAtLevel": null,
+    "gainedAtLevels": [],
     "selectionCountByLevel": {}
   },
   "effects": [],
-  "folder": "xYhw6zyDmuQA30eu",
-  "sort": 100000,
+  "sort": 0,
   "ownership": {
     "default": 0,
     "h42CcTzyU22SgcaA": 3
@@ -59,9 +59,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1780591804688,
-    "modifiedTime": 1782790849670,
+    "createdTime": 1782966195683,
+    "modifiedTime": 1782966213633,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!S9iRwcHz8EAqD2Po"
+  "_key": "!items!c0VTiSxbbBMuS9Nx"
 }

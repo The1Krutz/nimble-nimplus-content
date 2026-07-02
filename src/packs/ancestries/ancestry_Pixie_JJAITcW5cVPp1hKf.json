@@ -45,7 +45,7 @@
         "values": ["Elvish"]
       }
     ],
-    "description": "<p>The smallest of the fair folk. Whimsical and unpredictable. Pixies are usually considered harmless, but can be surprisingly competent in combat – especially if mistaken for an insect.</p><hr><p><strong>Tricksy</strong></p><p>-1 Speed. [A]</p><p>You have a fly Speed as long as you are wearing armor no heavier than leather. [A]</p><p>Advantage on Stealth. [A]</p><p>You know Elvish if your INT isn't negative. [A]</p>",
+    "description": "<p>The smallest of the fair folk. Whimsical and unpredictable. Pixies are usually considered harmless, but can be surprisingly competent in combat – especially if mistaken for an insect.</p><hr><p><strong>Tricksy</strong></p><p>-1 Speed.</p><p>You have a fly Speed as long as you are wearing armor no heavier than leather.</p><p>Advantage on Stealth.</p><p>You know Elvish if your INT isn't negative.</p>",
     "exotic": true,
     "size": ["tiny"]
   },
@@ -63,7 +63,7 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594552684,
     "modifiedTime": 1780601688040,
     "lastModifiedBy": "h42CcTzyU22SgcaA"

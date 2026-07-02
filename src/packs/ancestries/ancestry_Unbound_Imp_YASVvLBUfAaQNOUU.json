@@ -7,7 +7,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p>Imps are typically bound as protectors of magic artifacts and ancient tomes. Somehow, you managed to escape the bindings of whichever smelly wizard invoked you. Now, the entire world lays at your tiny feet.</p><hr><p><strong>Pocket Dimension</strong></p><p>You can visit your own personal pocket dimension when you Safe Rest or Field Rest. It takes the shape of a small room, that you can decorate and store items in. [A]</p>",
+    "description": "<p>Imps are typically bound as protectors of magic artifacts and ancient tomes. Somehow, you managed to escape the bindings of whichever smelly wizard invoked you. Now, the entire world lays at your tiny feet.</p><hr><p><strong>Pocket Dimension</strong></p><p>You can visit your own personal pocket dimension when you Safe Rest or Field Rest. It takes the shape of a small room, that you can decorate and store items in.</p>",
     "exotic": true,
     "size": ["small"]
   },
@@ -25,7 +25,7 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594596951,
     "modifiedTime": 1780594596951,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
