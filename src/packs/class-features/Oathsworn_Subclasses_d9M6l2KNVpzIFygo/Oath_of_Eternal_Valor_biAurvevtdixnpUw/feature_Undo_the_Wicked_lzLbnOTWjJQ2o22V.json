@@ -1,0 +1,67 @@
+{
+  "folder": "biAurvevtdixnpUw",
+  "name": "Undo the Wicked",
+  "type": "feature",
+  "_id": "lzLbnOTWjJQ2o22V",
+  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "none",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>When you Interpose, the attacker become Frightened of you until the end of their next turn.</p>",
+    "featureType": "class",
+    "class": "oathsworn",
+    "group": "oath-of-eternal-valor",
+    "subclass": true,
+    "gainedAtLevel": 15,
+    "gainedAtLevels": [15],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782962846244,
+    "modifiedTime": 1782963763369,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!lzLbnOTWjJQ2o22V"
+}
