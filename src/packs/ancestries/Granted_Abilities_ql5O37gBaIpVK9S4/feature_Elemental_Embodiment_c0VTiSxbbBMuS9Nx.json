@@ -3,7 +3,7 @@
   "name": "Elemental Embodiment",
   "type": "feature",
   "_id": "c0VTiSxbbBMuS9Nx",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/ancestry/character.png",
   "system": {
     "macro": "",
     "identifier": "elemental-embodiment",
