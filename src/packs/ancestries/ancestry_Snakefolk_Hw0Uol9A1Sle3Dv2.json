@@ -6,7 +6,21 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantItem",
+        "disabled": false,
+        "id": "dtlX2e55L4oWICCK",
+        "identifier": "",
+        "label": "Toxic Spit",
+        "predicate": {},
+        "priority": 1,
+        "allowDuplicate": false,
+        "inMemoryOnly": false,
+        "quantity": null,
+        "uuid": "Compendium.nimble-nimplus-content.nimplus-ancestries.Item.AqDRaaWQpPzXppnx"
+      }
+    ],
     "description": "<p>Cold-Hearted? Poisonous? Hissing through a forked tongue? Show your detractors exactly what you think of their ugly comments.</p><hr><p><strong>Toxic Spit</strong></p><p>(1/encounter) Action: Spit an adjacent foe in the face. 1d4 Poison. On hit: Blinded until the end of their next turn.</p>",
     "exotic": true,
     "size": ["small", "medium"]
@@ -25,9 +39,9 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594588521,
-    "modifiedTime": 1780594588521,
+    "modifiedTime": 1782965938817,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!Hw0Uol9A1Sle3Dv2"

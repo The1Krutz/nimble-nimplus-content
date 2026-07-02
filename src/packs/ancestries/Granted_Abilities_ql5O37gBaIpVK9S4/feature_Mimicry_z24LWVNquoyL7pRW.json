@@ -1,0 +1,67 @@
+{
+  "folder": "ql5O37gBaIpVK9S4",
+  "name": "Mimicry",
+  "type": "feature",
+  "_id": "z24LWVNquoyL7pRW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>(KEY/Safe Rest) Action: Disguise yourself as a harmless inanimate object of the same size as you or smaller. You move at half Speed while disguised. Ends if you take damage, attack or cast a spell.</p>",
+    "featureType": "ancestry",
+    "class": "",
+    "group": "",
+    "subclass": false,
+    "gainedAtLevel": null,
+    "gainedAtLevels": [],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782966323205,
+    "modifiedTime": 1782966334723,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!z24LWVNquoyL7pRW"
+}

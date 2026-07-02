@@ -1,0 +1,116 @@
+{
+  "name": "Toxic Spit",
+  "type": "feature",
+  "_id": "AqDRaaWQpPzXppnx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": false
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [
+        {
+          "id": "cygPusE6SYKrcxa4",
+          "type": "damage",
+          "damageType": "poison",
+          "formula": "1d4",
+          "parentContext": null,
+          "parentNode": null,
+          "canCrit": true,
+          "canMiss": true,
+          "on": {
+            "criticalHit": [
+              {
+                "id": "Jm2z8DbeYjhqSlPB",
+                "type": "note",
+                "noteType": "warning",
+                "text": "CRIT",
+                "parentContext": "criticalHit",
+                "parentNode": "cygPusE6SYKrcxa4"
+              }
+            ],
+            "miss": [
+              {
+                "id": "Rm1GQPHm3VEsYkDd",
+                "type": "note",
+                "noteType": "warning",
+                "text": "MISS",
+                "parentContext": "miss",
+                "parentNode": "cygPusE6SYKrcxa4"
+              }
+            ],
+            "hit": [
+              {
+                "id": "EQtW4EvbMtb1FmdR",
+                "type": "condition",
+                "condition": "blinded",
+                "parentContext": "hit",
+                "parentNode": "cygPusE6SYKrcxa4"
+              },
+              {
+                "id": "qeukKFnGraXv6g9F",
+                "type": "damageOutcome",
+                "outcome": "fullDamage",
+                "parentContext": "hit",
+                "parentNode": "cygPusE6SYKrcxa4"
+              }
+            ]
+          }
+        }
+      ],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>(1/encounter) Action: Spit an adjacent foe in the face. 1d4 Poison. On hit: Blinded until the end of their next turn.</p>",
+    "featureType": "ancestry",
+    "class": "",
+    "group": "",
+    "subclass": false,
+    "gainedAtLevel": null,
+    "gainedAtLevels": [],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "folder": "ql5O37gBaIpVK9S4",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782965689952,
+    "modifiedTime": 1782966054654,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!AqDRaaWQpPzXppnx"
+}

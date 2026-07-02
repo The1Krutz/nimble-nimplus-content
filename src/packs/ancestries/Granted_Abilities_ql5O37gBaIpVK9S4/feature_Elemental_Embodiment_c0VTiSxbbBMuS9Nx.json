@@ -1,0 +1,67 @@
+{
+  "folder": "ql5O37gBaIpVK9S4",
+  "name": "Elemental Embodiment",
+  "type": "feature",
+  "_id": "c0VTiSxbbBMuS9Nx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "macro": "",
+    "identifier": "elemental-embodiment",
+    "rules": [],
+    "activation": {
+      "acquireTargetsFromTemplate": false,
+      "cost": {
+        "details": "",
+        "quantity": 1,
+        "type": "action",
+        "isReaction": true
+      },
+      "duration": {
+        "details": "",
+        "quantity": 1,
+        "type": "none"
+      },
+      "effects": [],
+      "showDescription": true,
+      "targets": {
+        "count": 1,
+        "restrictions": "",
+        "attackType": "",
+        "distance": 1
+      },
+      "template": {
+        "length": 1,
+        "radius": 1,
+        "shape": "",
+        "width": 1
+      }
+    },
+    "description": "<p>(1/Safe Rest) Reaction: Gain immunity to your chosen element until the start of your next turn.</p>",
+    "featureType": "ancestry",
+    "class": "",
+    "group": "",
+    "subclass": false,
+    "gainedAtLevel": null,
+    "gainedAtLevels": [],
+    "selectionCountByLevel": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1782966195683,
+    "modifiedTime": 1782966213633,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "_key": "!items!c0VTiSxbbBMuS9Nx"
+}

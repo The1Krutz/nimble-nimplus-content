@@ -30,7 +30,7 @@
         "movementType": null
       }
     ],
-    "description": "",
+    "description": "<p>Aquatic cousins of the landbound Turtlefolk, native to the Golden Archipelago. They pride themselves on their ancient culture and history, but are often seen as lower-class citizens by mainlanders.</p><hr><p><strong>Streamlined Shells</strong></p><p>+2 Defense.</p><p>-1 Speed.</p><p>Double Speed when swimming.</p>",
     "exotic": true,
     "size": []
   },
@@ -50,7 +50,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782481845111,
-    "modifiedTime": 1782481922396,
+    "modifiedTime": 1782966468434,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!7cXIBSBaNKFCafqg"

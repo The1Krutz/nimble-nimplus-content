@@ -6,7 +6,21 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantItem",
+        "disabled": false,
+        "id": "Ht5zM4fISLJ8zYtP",
+        "identifier": "",
+        "label": "Mimicry",
+        "predicate": {},
+        "priority": 1,
+        "allowDuplicate": false,
+        "inMemoryOnly": false,
+        "quantity": null,
+        "uuid": "Compendium.nimble-nimplus-content.nimplus-ancestries.Item.z24LWVNquoyL7pRW"
+      }
+    ],
     "description": "<p>Unassuming humanoids with the uncanny ability to disguise themselves as inanimate objects, perhaps due to a curse or a mimic ancestor.</p><hr><p><strong>Mimicry</strong></p><p>(KEY/Safe Rest) Action: Disguise yourself as a harmless inanimate object of the same size as you or smaller. You move at half Speed while disguised. Ends if you take damage, attack or cast a spell.</p>",
     "exotic": true,
     "size": ["small", "medium"]
@@ -25,9 +39,9 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594463210,
-    "modifiedTime": 1780594463210,
+    "modifiedTime": 1782966360711,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!zuCz9WXtaHukinkC"

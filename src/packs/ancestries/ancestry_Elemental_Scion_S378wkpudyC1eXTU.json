@@ -6,7 +6,21 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantItem",
+        "disabled": false,
+        "id": "MlwdJfD4OX2rTmeL",
+        "identifier": "",
+        "label": "Elemental Embodiment",
+        "predicate": {},
+        "priority": 1,
+        "allowDuplicate": false,
+        "inMemoryOnly": false,
+        "quantity": null,
+        "uuid": "Compendium.nimble-nimplus-content.nimplus-ancestries.Item.c0VTiSxbbBMuS9Nx"
+      }
+    ],
     "description": "<p>An embodiment of one of the primordial energies. Through summoning or interplanar travel, you now find yourself in the mortal world, deprived of the currents in which you once swam.</p><hr><p><strong>Elemental Embodiment</strong></p><p>Choose an element to embody. You know cantrips from the associated spell school.</p><p>(1/Safe Rest) Reaction: Gain immunity to your chosen element until the start of your next turn.</p>",
     "exotic": true,
     "size": ["medium"]
@@ -25,9 +39,9 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594492001,
-    "modifiedTime": 1780601065706,
+    "modifiedTime": 1782966253182,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!S378wkpudyC1eXTU"
