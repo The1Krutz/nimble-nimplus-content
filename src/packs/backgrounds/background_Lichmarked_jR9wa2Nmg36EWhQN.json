@@ -6,7 +6,23 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantSpells",
+        "disabled": false,
+        "id": "aVNsEKqcDw219IMO",
+        "identifier": "",
+        "label": "Lichmarked",
+        "predicate": {},
+        "priority": 1,
+        "schools": ["necrotic"],
+        "tiers": [0],
+        "utilityOnly": false,
+        "uuids": [],
+        "mode": "auto",
+        "count": null
+      }
+    ],
     "description": "<p>You were made into a living phylactery by a lich, binding your soul to theirs. You know Necrotic cantrips. While you are Dying, attacking and casting does not risk causing Wounds. You feel a vague pull in the direction of the lich when you sleep.</p>"
   },
   "effects": [],
@@ -25,7 +41,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782276562469,
-    "modifiedTime": 1782277025035,
+    "modifiedTime": 1782967311014,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!jR9wa2Nmg36EWhQN"
