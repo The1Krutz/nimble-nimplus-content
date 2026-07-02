@@ -7,7 +7,33 @@
   "system": {
     "macro": "",
     "identifier": "",
-    "rules": [],
+    "rules": [
+      {
+        "type": "grantItem",
+        "disabled": false,
+        "id": "OCPSZWXtQjoVmJsW",
+        "identifier": "Seasoned-Combatant-Choose a Combat Tactic",
+        "label": "Choose a Combat Tactic",
+        "predicate": {},
+        "priority": 1,
+        "allowDuplicate": true,
+        "inMemoryOnly": false,
+        "uuid": "Item.iICGKEwphgLbJY8i"
+      },
+      {
+        "type": "modifyPool",
+        "disabled": false,
+        "id": "17Y6AjNQZp1vRkBH",
+        "identifier": "",
+        "label": "Seasoned Combatant",
+        "predicate": {},
+        "priority": 1,
+        "poolType": "charge",
+        "poolIdentifier": "combat-dice",
+        "dieSize": null,
+        "maxDelta": "+1"
+      }
+    ],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
@@ -36,7 +62,7 @@
         "width": 1
       }
     },
-    "description": "<p>Choose a Combat Tactic and gain +1 max Combat Dice.</p>",
+    "description": "<p>Choose a Combat Tactic and gain +1 max Combat Dice.</p><hr><p>Foundry note: You will need to add the Combat Tactic manually</p>",
     "featureType": "class",
     "class": "commander",
     "group": "champion-of-the-pit",
@@ -60,7 +86,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782853236911,
-    "modifiedTime": 1782853394311,
+    "modifiedTime": 1782968348177,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!xuLRiXuntXraPJOi"
