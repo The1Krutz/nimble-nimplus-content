@@ -79,7 +79,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Wicked dagger quenched in the remnants of wrathful souls.</em></p><p>Casts @UUID[Compendium.nimble.nimble-secret-spells.Item.JQPywIEOHDp0dPYS]{Speak With Dead} when plunged into the heart of a recent corpse.</p><p>Summons an aggressive Specter after 3 questions.</p><hr><p>Rare Cursed Dagger</p><p><strong>Cost:</strong> 1500 gp</p>",
+      "public": "<p><em>Wicked dagger quenched in the remnants of wrathful souls.</em></p><p>Casts @UUID[Compendium.nimble.nimble-secret-spells.Item.JQPywIEOHDp0dPYS]{Speak With Dead} when plunged into the heart of a recent corpse.</p><p>Summons an aggressive @UUID[Compendium.nimble.nimble-monsters.Actor.x0Tx67Oc0vwkZwS6]{Specter} after 3 questions.</p><hr><p>Rare Cursed Dagger</p><p><strong>Cost:</strong> 1500 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -128,7 +128,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782763296820,
+    "modifiedTime": 1783026256862,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!1WsO9ykFrzEDq9iW"

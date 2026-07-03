@@ -7,7 +7,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p>Their gentle demeanor and fondness for a good cup of tea at lunchtime betrays their innate strength. Badgerfolk know full well how to use their size to their opponent's dismay.</p><hr><p><strong>Rotund</strong></p><p>Push all medium or smaller creatures adjacent to you 1 Space (1/encounter). [A]</p><p>+3 inventory slots. [A]</p>",
+    "description": "<p>Their gentle demeanor and fondness for a good cup of tea at lunchtime betrays their innate strength. Badgerfolk know full well how to use their size to their opponent's dismay.</p><hr><p><strong>Rotund</strong></p><p>Push all medium or smaller creatures adjacent to you 1 Space (1/encounter).</p><p>+3 inventory slots.</p>",
     "exotic": true,
     "size": ["medium"]
   },
@@ -25,9 +25,9 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594427718,
-    "modifiedTime": 1782440367163,
+    "modifiedTime": 1782965549474,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!6UFL0xCMcwDWDSHm"

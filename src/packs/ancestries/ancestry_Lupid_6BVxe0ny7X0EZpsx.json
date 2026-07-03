@@ -19,7 +19,7 @@
         "skills": ["examination"]
       }
     ],
-    "description": "<p>Canine people, often living in isolated packs. The Lupid are known to be excellent trackers and hunters, often relying on their superior sense of smell.</p><hr><p><strong>Tracker</strong></p><p>+1 Examination. [A]</p><p>Advantage on any skill check related to using your sense of smell. [A]</p><p>Strong urge to howl at the moon. [A]</p>",
+    "description": "<p>Canine people, often living in isolated packs. The Lupid are known to be excellent trackers and hunters, often relying on their superior sense of smell.</p><hr><p><strong>Tracker</strong></p><p>+1 Examination.</p><p>Advantage on any skill check related to using your sense of smell.</p><p>Strong urge to howl at the moon.</p>",
     "exotic": true,
     "size": ["medium"]
   },
@@ -37,7 +37,7 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594521495,
     "modifiedTime": 1780601189568,
     "lastModifiedBy": "h42CcTzyU22SgcaA"

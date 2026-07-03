@@ -36,7 +36,7 @@
         "width": 1
       }
     },
-    "description": "<p>When you attack a Taunted or Charmed enemy using Swiftstrike, your attack is an automatic crit, ends the condition and causes the target to fall Prone.</p>",
+    "description": "<p>When you attack a Taunted or Charmed enemy using Swiftstrike, your attack is an automatic crit, ends the condition and causes the target to fall Prone.</p><hr><p>Foundry note: Swiftstrike is granted by @UUID[Compendium.nimble.nimble-class-features.Item.bIqEghM1BkChlRJD]{Burst of Speed}</p>",
     "featureType": "class",
     "class": "zephyr",
     "group": "way-of-the-dancer",
@@ -60,7 +60,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782876200333,
-    "modifiedTime": 1782876372029,
+    "modifiedTime": 1783025381441,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!iLgpXzcmeSgbQtXR"

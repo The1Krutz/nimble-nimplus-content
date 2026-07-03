@@ -1,20 +1,20 @@
 {
-  "folder": "nc1hnIQDnmTJeeip",
-  "name": "Penance for your Sins",
+  "folder": "ql5O37gBaIpVK9S4",
+  "name": "Elemental Embodiment",
   "type": "feature",
-  "_id": "fxoND3moiodZSbUN",
-  "img": "modules/nimble-nimplus-content/assets/artwork/feature/award.png",
+  "_id": "c0VTiSxbbBMuS9Nx",
+  "img": "modules/nimble-nimplus-content/assets/artwork/ancestry/character.png",
   "system": {
     "macro": "",
-    "identifier": "",
+    "identifier": "elemental-embodiment",
     "rules": [],
     "activation": {
       "acquireTargetsFromTemplate": false,
       "cost": {
         "details": "",
         "quantity": 1,
-        "type": "none",
-        "isReaction": false
+        "type": "action",
+        "isReaction": true
       },
       "duration": {
         "details": "",
@@ -36,13 +36,13 @@
         "width": 1
       }
     },
-    "description": "<p>Your @UUID[Compendium.nimble.nimble-spells.Item.9TNPdOXlCcGgxw6r]{Shadow Blast} and shadow minions grant allies temp HP instead of damaging them.</p>",
-    "featureType": "class",
-    "class": "shadowmancer",
-    "group": "pact-of-the-celestial",
-    "subclass": true,
-    "gainedAtLevel": 11,
-    "gainedAtLevels": [11],
+    "description": "<p>(1/Safe Rest) Reaction: Gain immunity to your chosen element until the start of your next turn.</p>",
+    "featureType": "ancestry",
+    "class": "",
+    "group": "",
+    "subclass": false,
+    "gainedAtLevel": null,
+    "gainedAtLevels": [],
     "selectionCountByLevel": {}
   },
   "effects": [],
@@ -59,9 +59,9 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1782879839290,
-    "modifiedTime": 1783024961261,
+    "createdTime": 1782966195683,
+    "modifiedTime": 1782966213633,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!items!fxoND3moiodZSbUN"
+  "_key": "!items!c0VTiSxbbBMuS9Nx"
 }

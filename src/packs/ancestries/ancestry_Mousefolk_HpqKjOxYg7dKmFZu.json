@@ -7,7 +7,7 @@
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p>Mousefolk pride themselves on being brave and steadfast against insurmountable odds. Although their fearlessness does get them into trouble more often than not, they will never flee from a fight.</p><hr><p><strong>Dauntless</strong></p><p>Frightened does not affect your Speed. [A]</p><p>While Dying, your attacks gain +WIL damage. [A]</p>",
+    "description": "<p>Mousefolk pride themselves on being brave and steadfast against insurmountable odds. Although their fearlessness does get them into trouble more often than not, they will never flee from a fight.</p><hr><p><strong>Dauntless</strong></p><p>Frightened does not affect your Speed.</p><p>While Dying, your attacks gain +WIL damage.</p>",
     "exotic": true,
     "size": ["small"]
   },
@@ -25,7 +25,7 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594528003,
     "modifiedTime": 1780601371910,
     "lastModifiedBy": "h42CcTzyU22SgcaA"

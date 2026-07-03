@@ -30,7 +30,7 @@
         "movementType": null
       }
     ],
-    "description": "<p>Slow and deliberate, but usually one ‘step' ahead. Sluglings are never in a hurry to be anywhere, but can be valuable allies on any journey – if you have the patience.</p><hr><p><strong>Snail's Pace</strong></p><p>Your base Speed is 1 and you can walk on most surfaces. [A]</p><p>Your first Move Action each turn is free. [A]</p><p>Your level is always 1 higher than the rest of the party (up to 20). [A]</p><p>Vulnerable to salt. [A]</p><p>+3 Defense. [A]</p>",
+    "description": "<p>Slow and deliberate, but usually one ‘step' ahead. Sluglings are never in a hurry to be anywhere, but can be valuable allies on any journey – if you have the patience.</p><hr><p><strong>Snail's Pace</strong></p><p>Your base Speed is 1 and you can walk on most surfaces.</p><p>Your first Move Action each turn is free.</p><p>Your level is always 1 higher than the rest of the party (up to 20).</p><p>Vulnerable to salt.</p><p>+3 Defense.</p>",
     "exotic": true,
     "size": ["small"]
   },
@@ -48,7 +48,7 @@
     "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "nimble",
-    "systemVersion": "0.8.6",
+    "systemVersion": "0.8.7",
     "createdTime": 1780594566400,
     "modifiedTime": 1780601867767,
     "lastModifiedBy": "h42CcTzyU22SgcaA"

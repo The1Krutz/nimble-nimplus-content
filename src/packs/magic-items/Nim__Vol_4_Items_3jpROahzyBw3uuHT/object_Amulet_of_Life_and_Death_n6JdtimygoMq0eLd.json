@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "public": "<p><em>Double-sided medallion depicting a benevolent spirit and a malevolent beast.</em></p><p>When your Lifebinding Spirit heals a Dying ally, it Frightens all enemies adjacent to that ally until the end of their next turn.</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 3800 gp</p>",
+      "public": "<p><em>Double-sided medallion depicting a benevolent spirit and a malevolent beast.</em></p><p>When your @UUID[Compendium.nimble.nimble-class-features.Item.n6Df3QpL8sV1xR2M]{Lifebinding Spirit} heals a Dying ally, it Frightens all enemies adjacent to that ally until the end of their next turn.</p><hr><p>Rare Amulet</p><p><strong>Cost:</strong> 3800 gp</p>",
       "unidentified": "",
       "secret": ""
     },
@@ -86,7 +86,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1782486733820,
-    "modifiedTime": 1782763296820,
+    "modifiedTime": 1783026282377,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!items!n6JdtimygoMq0eLd"
