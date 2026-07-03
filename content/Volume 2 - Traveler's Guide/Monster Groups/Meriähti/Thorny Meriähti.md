@@ -9,8 +9,8 @@
 
 ---
 
-* **Sandtrap.** Pull all enemies within Reach 2 adjacent to you and inflict Slowed. This counts as contact.
+- **Sandtrap.** Pull all enemies within Reach 2 adjacent to you and inflict Slowed. This counts as contact.
 
 ---
 
-*(by Can Opener)*
+_(by Can Opener)_

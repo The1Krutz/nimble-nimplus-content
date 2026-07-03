@@ -6,9 +6,10 @@
 ---
 
 Choose one:
-* **Empty Bottle.** (Range 6) 1d8 Slashing.
-* **FIRE!** Light the Kraken Cannon (must be adjacent).
+
+- **Empty Bottle.** (Range 6) 1d8 Slashing.
+- **FIRE!** Light the Kraken Cannon (must be adjacent).
 
 ---
 
-*(by Malikua)*
+_(by Malikua)_

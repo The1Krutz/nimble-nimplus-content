@@ -1,4 +1,4 @@
-*Level 7 Huge Elemental Serpent*
+_Level 7 Huge Elemental Serpent_
 
 **HP:** 45/hero | **Armor:** Medium | **Saves:** STR+ DEX+
 
@@ -7,9 +7,10 @@
 ---
 
 After each hero's turn, choose one:
-* **Tidal Wave.** (Cone 4) 1d12 Bludgeoning. DC 12 STR save or Prone (advantage if behind cover).
-* **Waterfall.** (a Prone creature) Move 4, 3d12+8 Bludgeoning.
-* **Coil.** Take half damage from the next attack against you.
+
+- **Tidal Wave.** (Cone 4) 1d12 Bludgeoning. DC 12 STR save or Prone (advantage if behind cover).
+- **Waterfall.** (a Prone creature) Move 4, 3d12+8 Bludgeoning.
+- **Coil.** Take half damage from the next attack against you.
 
 ---
 
@@ -18,4 +19,4 @@ After each hero's turn, choose one:
 
 ---
 
-*(by MaleficMist)*
+_(by MaleficMist)_

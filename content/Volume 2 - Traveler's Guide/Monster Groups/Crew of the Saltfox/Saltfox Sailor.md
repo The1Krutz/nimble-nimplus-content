@@ -5,8 +5,8 @@
 
 ---
 
-* **Dagger (2x).** 1d4+2 Slashing.
+- **Dagger (2x).** 1d4+2 Slashing.
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

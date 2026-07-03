@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Cutlass (2x).** 1d8+3 Slashing.
-* **Taunt.** Taunt a target within earshot.
+
+- **Cutlass (2x).** 1d8+3 Slashing.
+- **Taunt.** Taunt a target within earshot.
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

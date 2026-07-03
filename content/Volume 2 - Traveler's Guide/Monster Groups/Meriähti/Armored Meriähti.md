@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Envelop.** Wrap yourself around an adjacent creature (escape DC 11). You move with them. Attacks against the Enveloped creature hit you instead.
-* **Constrict.** (an Enveloped creature) 2d10+5.
+
+- **Envelop.** Wrap yourself around an adjacent creature (escape DC 11). You move with them. Attacks against the Enveloped creature hit you instead.
+- **Constrict.** (an Enveloped creature) 2d10+5.
 
 ---
 
-*(by Can Opener)*
+_(by Can Opener)_

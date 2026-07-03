@@ -8,10 +8,11 @@
 ---
 
 Choose one:
-* **Cutlass (2x).** 1d8+3 damage.
-* **"Hop To, Scallywags!"** Summon any crewmate.
-* **Smokebeard.** (1 use, Cone 3) Inflict Blinded and Slowed for 1 turn.
+
+- **Cutlass (2x).** 1d8+3 damage.
+- **"Hop To, Scallywags!"** Summon any crewmate.
+- **Smokebeard.** (1 use, Cone 3) Inflict Blinded and Slowed for 1 turn.
 
 ---
 
-*(by Malikua)*
+_(by Malikua)_

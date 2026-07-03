@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Poke.** 1d10 Piercing.
-* **Sand Wall.** Create a wall of sand (Line 4). Blocks movement, but crumbles from a single hit.
+
+- **Poke.** 1d10 Piercing.
+- **Sand Wall.** Create a wall of sand (Line 4). Blocks movement, but crumbles from a single hit.
 
 ---
 
-*(by Can Opener)*
+_(by Can Opener)_

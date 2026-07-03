@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Gale (2x).** (Range 12) 1d4+3 Slashing. On damage: Push Primary Die spaces.
-* **Sweep.** (1 use, 2×2 area within Range 12) DC 12 STR save or Prone.
+
+- **Gale (2x).** (Range 12) 1d4+3 Slashing. On damage: Push Primary Die spaces.
+- **Sweep.** (1 use, 2×2 area within Range 12) DC 12 STR save or Prone.
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

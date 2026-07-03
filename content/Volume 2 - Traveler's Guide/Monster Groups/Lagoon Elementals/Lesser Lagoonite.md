@@ -6,9 +6,10 @@
 ---
 
 Choose one:
-* **Splash.** 2d6 Bludgeoning.
-* **Coalesce.** Absorb an adjacent Droplet to heal 5.
+
+- **Splash.** 2d6 Bludgeoning.
+- **Coalesce.** Absorb an adjacent Droplet to heal 5.
 
 ---
 
-*(by MaleficMist)*
+_(by MaleficMist)_

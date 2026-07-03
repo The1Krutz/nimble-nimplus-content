@@ -6,10 +6,11 @@
 ---
 
 Choose two:
-* **Soak.** 4d6 Bludgeoning, Slowed.
-* **Downpour.** Spawn 2 Droplets within Reach 3.
-* **Whirlpool.** Push all enemies within Reach 3 clockwise around you. DC 12 STR save or Prone.
+
+- **Soak.** 4d6 Bludgeoning, Slowed.
+- **Downpour.** Spawn 2 Droplets within Reach 3.
+- **Whirlpool.** Push all enemies within Reach 3 clockwise around you. DC 12 STR save or Prone.
 
 ---
 
-*(by MaleficMist)*
+_(by MaleficMist)_

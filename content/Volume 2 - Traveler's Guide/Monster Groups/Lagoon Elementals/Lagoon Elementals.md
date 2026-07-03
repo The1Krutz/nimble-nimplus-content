@@ -1,4 +1,4 @@
-*Living water, splitting and coalescing in an endless whirl.*
+_Living water, splitting and coalescing in an endless whirl._
 
 > **Sprinkler.** Spawn LVL Droplets (d6 minions) on death.
 
@@ -12,4 +12,4 @@
 
 ---
 
-*(by MaleficMist)*
+_(by MaleficMist)_

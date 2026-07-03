@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Lash (2x).** (Reach 6) 1d10 Bludgeoning. On damage: Leashed (escape DC 12).
-* **Retract.** Pull all Leashed creatures adjacent to you.
+
+- **Lash (2x).** (Reach 6) 1d10 Bludgeoning. On damage: Leashed (escape DC 12).
+- **Retract.** Pull all Leashed creatures adjacent to you.
 
 ---
 
-*(by Can Opener)*
+_(by Can Opener)_

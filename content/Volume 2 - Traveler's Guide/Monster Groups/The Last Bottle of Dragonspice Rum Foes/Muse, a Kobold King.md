@@ -4,9 +4,10 @@
 ---
 
 Choose twice:
-* **Stab.** 1d4+5 Piercing (or Sling, Range 8).
-* **BIG CLANG!** (2 uses) All allies who can hear you roll with double advantage on their next attack. Degrades armor one step (H»M»U).
+
+- **Stab.** 1d4+5 Piercing (or Sling, Range 8).
+- **BIG CLANG!** (2 uses) All allies who can hear you roll with double advantage on their next attack. Degrades armor one step (H»M»U).
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

@@ -5,8 +5,8 @@
 
 ---
 
-* **Cutlass.** 1d8 Slashing.
+- **Cutlass.** 1d8 Slashing.
 
 ---
 
-*(by Malikua)*
+_(by Malikua)_

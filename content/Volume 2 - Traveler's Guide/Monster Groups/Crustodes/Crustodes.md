@@ -1,4 +1,4 @@
-*The crustacean legion guards the coral throne.*
+_The crustacean legion guards the coral throne._
 
 > **Shellguard.** Increment Armor one step when adjacent to an ally (U»M»H).
 
@@ -12,4 +12,4 @@
 
 ---
 
-*(by Santuric)*
+_(by Santuric)_

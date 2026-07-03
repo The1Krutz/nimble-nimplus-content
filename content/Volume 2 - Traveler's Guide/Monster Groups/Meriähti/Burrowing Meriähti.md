@@ -9,8 +9,8 @@
 
 ---
 
-* **Slam.** 1d10 Bludgeoning, Grappled (escape DC 10).
+- **Slam.** 1d10 Bludgeoning, Grappled (escape DC 10).
 
 ---
 
-*(by Can Opener)*
+_(by Can Opener)_

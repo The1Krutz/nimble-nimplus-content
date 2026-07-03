@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Splash (2x).** 2d6 Bludgeoning.
-* **Warp.** Teleport adjacent to a creature within Reach 12.
+
+- **Splash (2x).** 2d6 Bludgeoning.
+- **Warp.** Teleport adjacent to a creature within Reach 12.
 
 ---
 
-*(by MaleficMist)*
+_(by MaleficMist)_

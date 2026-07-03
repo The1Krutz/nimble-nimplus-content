@@ -8,8 +8,9 @@
 ---
 
 Choose one:
-* **Peck.** 1d6+3 Piercing.
-* **Rah! Bracadabra.** Cast a spell learned via Mimicry.
+
+- **Peck.** 1d6+3 Piercing.
+- **Rah! Bracadabra.** Cast a spell learned via Mimicry.
 
 ---
 
@@ -17,4 +18,4 @@ Choose one:
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

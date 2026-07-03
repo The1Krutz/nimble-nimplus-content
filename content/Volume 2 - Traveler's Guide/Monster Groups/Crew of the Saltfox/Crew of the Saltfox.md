@@ -1,4 +1,4 @@
-*Roguish privateers hunting bounties on the open sea.*
+_Roguish privateers hunting bounties on the open sea._
 
 > **Dirty Fighting.** Attacks Daze on crit.
 
@@ -12,4 +12,4 @@
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

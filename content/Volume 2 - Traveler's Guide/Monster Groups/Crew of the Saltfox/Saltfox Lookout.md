@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Dagger.** 1d4+2 Slashing.
-* **Crossbow.** (Range 8) 4d4+2 Piercing.
+
+- **Dagger.** 1d4+2 Slashing.
+- **Crossbow.** (Range 8) 4d4+2 Piercing.
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

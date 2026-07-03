@@ -1,4 +1,4 @@
-*Beneath the golden sands they await their prey.*
+_Beneath the golden sands they await their prey._
 
 > **Sand Dwellers.** Use Naturecraft when rolling initiative against the Meriähti.
 
@@ -14,4 +14,4 @@
 
 ---
 
-*(by Can Opener)*
+_(by Can Opener)_

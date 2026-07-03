@@ -8,9 +8,10 @@
 ---
 
 Choose one:
-* **Branch Slam.** 2d6+6 Bludgeoning.
-* **Throw Coconut.** (Reach 6) 1d6+3 Bludgeoning.
+
+- **Branch Slam.** 2d6+6 Bludgeoning.
+- **Throw Coconut.** (Reach 6) 1d6+3 Bludgeoning.
 
 ---
 
-*(by SanityWithIn)*
+_(by SanityWithIn)_

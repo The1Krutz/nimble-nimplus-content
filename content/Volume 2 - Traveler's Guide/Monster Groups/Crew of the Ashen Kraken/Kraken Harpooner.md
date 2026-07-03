@@ -6,9 +6,10 @@
 ---
 
 Choose both:
-* **Harpoon.** (Range 8) Restrain a creature (escape DC 14).
-* **Reel In.** (a Restrained creature) Pull 3 spaces.
+
+- **Harpoon.** (Range 8) Restrain a creature (escape DC 14).
+- **Reel In.** (a Restrained creature) Pull 3 spaces.
 
 ---
 
-*(by Malikua)*
+_(by Malikua)_

@@ -6,9 +6,10 @@
 ---
 
 Choose one:
-* **Waterwhip.** (Reach 9) 3d6 Bludgeoning, Pull 3 spaces.
-* **Kelp Net.** (Reach 3) Restrain a creature (escape DC 12).
+
+- **Waterwhip.** (Reach 9) 3d6 Bludgeoning, Pull 3 spaces.
+- **Kelp Net.** (Reach 3) Restrain a creature (escape DC 12).
 
 ---
 
-*(by MaleficMist)*
+_(by MaleficMist)_

@@ -1,4 +1,4 @@
-*Level 5 Large Crustacean*
+_Level 5 Large Crustacean_
 
 **HP:** 25/hero | **Armor:** Heavy | **Saves:** STR++ INT-
 
@@ -7,9 +7,10 @@
 ---
 
 After each hero's turn, choose one:
-* **Scuttle.** Move 3, 4d4+6 Slashing.
-* **Spit.** (Range 8) 2d4+3 Piercing.
-* **Declaw.** (a creature with 2+ Crabby) Move 2, remove all stacks of Crabby and inflict 1 Wound.
+
+- **Scuttle.** Move 3, 4d4+6 Slashing.
+- **Spit.** (Range 8) 2d4+3 Piercing.
+- **Declaw.** (a creature with 2+ Crabby) Move 2, remove all stacks of Crabby and inflict 1 Wound.
 
 > **Crabby.** -2 Speed per stack. Action: Remove a stack of Crabby.
 
@@ -20,4 +21,4 @@ After each hero's turn, choose one:
 
 ---
 
-*(by Santuric)*
+_(by Santuric)_

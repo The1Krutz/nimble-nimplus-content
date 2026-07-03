@@ -6,9 +6,10 @@
 ---
 
 Choose one:
-* **Slingshot.** (Range 8) 1d4+2 Piercing.
-* **"This One!"** Target enemy gains Spotted.
+
+- **Slingshot.** (Range 8) 1d4+2 Piercing.
+- **"This One!"** Target enemy gains Spotted.
 
 ---
 
-*(by Malikua)*
+_(by Malikua)_
