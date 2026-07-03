@@ -654,7 +654,7 @@
       "_key": "!actors.items!vgwq3Fpps4YPPZWV.6dQjjB8Bnao1g3Cm"
     },
     {
-      "name": "Last Stand",
+      "name": "At 0 HP:",
       "type": "monsterFeature",
       "_id": "i6SgZbsvb8xDDzEJ",
       "img": "icons/svg/item-bag.svg",
@@ -724,7 +724,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783052173793,
-    "modifiedTime": 1783052906420,
+    "modifiedTime": 1783053316865,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
