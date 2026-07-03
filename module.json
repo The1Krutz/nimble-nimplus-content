@@ -70,6 +70,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "nimplus-monsters",
+      "label": "Nim+ Monsters",
+      "path": "packs/monsters",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "nimble"
     }
   ],
   "packFolders": [
@@ -81,6 +92,7 @@
         "nimplus-backgrounds",
         "nimplus-class-features",
         "nimplus-magic-items",
+        "nimplus-monsters",
         "nimplus-subclasses"
       ]
     }
