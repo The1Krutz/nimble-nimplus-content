@@ -20,8 +20,8 @@
         "burrow": 0,
         "climb": 0,
         "fly": 0,
-        "swim": 3,
-        "walk": 3
+        "swim": 6,
+        "walk": 6
       }
     },
     "description": "",
@@ -149,66 +149,6 @@
   },
   "items": [
     {
-      "name": "Indivisible",
-      "type": "monsterFeature",
-      "_id": "FZt9U73a1F1uKNRa",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>Cannot spawn other Droplets</p>",
-        "subtype": "feature",
-        "parentItemId": "",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!9SvUjciODicPO9hQ.FZt9U73a1F1uKNRa"
-    },
-    {
       "name": "Sprinkle",
       "type": "monsterFeature",
       "_id": "U6sQv1zjH1otk2OP",
@@ -321,7 +261,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783047500111,
-    "modifiedTime": 1783047633101,
+    "modifiedTime": 1783052903215,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {

@@ -1,0 +1,735 @@
+{
+  "name": "Nymeron, The First Current",
+  "type": "soloMonster",
+  "folder": "JviwwtZNW6ajvAEX",
+  "_id": "vgwq3Fpps4YPPZWV",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "attributes": {
+      "armor": "medium",
+      "damageResistances": [],
+      "damageVulnerabilities": [],
+      "damageImmunities": [],
+      "hp": {
+        "max": 45,
+        "temp": 0,
+        "value": 45
+      },
+      "sizeCategory": "huge",
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 0,
+        "swim": 6,
+        "walk": 6
+      }
+    },
+    "description": "<p>Max health is 45 per hero</p>",
+    "details": {
+      "creatureType": "Elemental Serpent",
+      "level": "7"
+    },
+    "attackSequence": "",
+    "savingThrows": {
+      "strength": {
+        "bonus": 0,
+        "defaultRollMode": 1,
+        "mod": 0
+      },
+      "dexterity": {
+        "bonus": 0,
+        "defaultRollMode": 1,
+        "mod": 0
+      },
+      "intelligence": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "will": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "New Actor",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Sprinkler",
+      "type": "monsterFeature",
+      "_id": "phqXy4iwPTvZsOiW",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Spawn LVL @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.9SvUjciODicPO9hQ]{Droplets} on death</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.phqXy4iwPTvZsOiW"
+    },
+    {
+      "name": "Ceaseless Currents",
+      "type": "monsterFeature",
+      "_id": "2VFP5tipgiWqlSV7",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>When hit, move up to 4 spaces.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.2VFP5tipgiWqlSV7"
+    },
+    {
+      "name": "Choose 1",
+      "type": "monsterFeature",
+      "_id": "PwpS2iJR3wrvbYCH",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>After each hero's turn, choose one:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.PwpS2iJR3wrvbYCH"
+    },
+    {
+      "name": "Tidal Wave",
+      "type": "monsterFeature",
+      "_id": "oImqHQ6ZaoHoWDXU",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": true,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "Nebj2Hd4o77gKqNy",
+              "type": "damage",
+              "damageType": "bludgeoning",
+              "formula": "1d12",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": false,
+              "canMiss": false,
+              "on": {
+                "hit": [
+                  {
+                    "id": "mtzFX2BIXJx9mNOQ",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "Nebj2Hd4o77gKqNy"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "3YInjcHngrrGhvbu",
+              "type": "savingThrow",
+              "savingThrowType": "strength",
+              "parentContext": null,
+              "parentNode": null,
+              "saveType": "strength",
+              "saveDC": "12",
+              "on": {
+                "failedSave": [
+                  {
+                    "id": "nM3ul62M72X6KL2L",
+                    "type": "condition",
+                    "condition": "prone",
+                    "parentContext": "failedSave",
+                    "parentNode": "3YInjcHngrrGhvbu"
+                  }
+                ]
+              },
+              "sharedRolls": []
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 4,
+            "radius": 1,
+            "shape": "cone",
+            "width": 1
+          }
+        },
+        "description": "<p>(Cone 4) 1d12 Bludgeoning. DC 12 STR save or Prone (advantage if behind cover).</p>",
+        "subtype": "action",
+        "parentItemId": "PwpS2iJR3wrvbYCH",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.oImqHQ6ZaoHoWDXU"
+    },
+    {
+      "name": "Waterfall",
+      "type": "monsterFeature",
+      "_id": "pGDRqdCK2hPfVG84",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "IJk65nAkwhtKuW8p",
+              "type": "damage",
+              "damageType": "bludgeoning",
+              "formula": "3d12+8",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "miss": [
+                  {
+                    "id": "LmLDHsMD6UKU98sj",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "IJk65nAkwhtKuW8p"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "U0Ru5rvbB7bl9lHM",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "IJk65nAkwhtKuW8p"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "81nxCGjCz8eeCLVV",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "IJk65nAkwhtKuW8p"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>(a Prone creature) Move 4, 3d12+8 Bludgeoning.</p>",
+        "subtype": "action",
+        "parentItemId": "PwpS2iJR3wrvbYCH",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 20000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.pGDRqdCK2hPfVG84"
+    },
+    {
+      "name": "Coil",
+      "type": "monsterFeature",
+      "_id": "dTnuldKBJcrM8zBl",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Take half damage from the next attack against you.</p>",
+        "subtype": "action",
+        "parentItemId": "PwpS2iJR3wrvbYCH",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 30000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.dTnuldKBJcrM8zBl"
+    },
+    {
+      "name": "Bloodied",
+      "type": "monsterFeature",
+      "_id": "6dQjjB8Bnao1g3Cm",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>@UUID[Actor.vgwq3Fpps4YPPZWV.Item.oImqHQ6ZaoHoWDXU]{Tidal Wave} becomes a DC 15 STR save.</p>",
+        "subtype": "bloodied",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.6dQjjB8Bnao1g3Cm"
+    },
+    {
+      "name": "Last Stand",
+      "type": "monsterFeature",
+      "_id": "i6SgZbsvb8xDDzEJ",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Nymeron evaporates into a @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.VRBhTC1x0U2bYPt1]{Whirling Lagoonite}.</p>",
+        "subtype": "lastStand",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!vgwq3Fpps4YPPZWV.i6SgZbsvb8xDDzEJ"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1783052173793,
+    "modifiedTime": 1783052906420,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "sort": 100000,
+  "_key": "!actors!vgwq3Fpps4YPPZWV"
+}
