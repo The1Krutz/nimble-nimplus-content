@@ -2,7 +2,7 @@
   "name": "Droplet",
   "type": "minion",
   "folder": "5i5mBXDRikIlMAWI",
-  "_id": "KjXfqPNgdOWtSfgY",
+  "_id": "9SvUjciODicPO9hQ",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "attributes": {
@@ -26,7 +26,7 @@
     },
     "description": "",
     "details": {
-      "creatureType": "",
+      "creatureType": "Lagoon Elemental",
       "level": "1/4"
     },
     "attackSequence": "",
@@ -149,111 +149,9 @@
   },
   "items": [
     {
-      "name": "Sprinkle",
-      "type": "monsterFeature",
-      "_id": "DxR1AhnjAQQghPIv",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [
-            {
-              "id": "YWvK3kNUmoTY4VoU",
-              "type": "damage",
-              "damageType": "bludgeoning",
-              "formula": "1d6",
-              "parentContext": null,
-              "parentNode": null,
-              "canCrit": true,
-              "canMiss": true,
-              "on": {
-                "miss": [
-                  {
-                    "id": "6rGWlXLqEc4fYeg1",
-                    "type": "note",
-                    "noteType": "warning",
-                    "text": "MISS",
-                    "parentContext": "miss",
-                    "parentNode": "YWvK3kNUmoTY4VoU"
-                  }
-                ],
-                "criticalHit": [
-                  {
-                    "id": "vkSoEPqsYU3l67At",
-                    "type": "note",
-                    "noteType": "warning",
-                    "text": "CRIT",
-                    "parentContext": "criticalHit",
-                    "parentNode": "YWvK3kNUmoTY4VoU"
-                  }
-                ],
-                "hit": [
-                  {
-                    "id": "YKFRd1Eiw9Xqw3uR",
-                    "type": "damageOutcome",
-                    "outcome": "fullDamage",
-                    "parentContext": "hit",
-                    "parentNode": "YWvK3kNUmoTY4VoU"
-                  }
-                ]
-              }
-            }
-          ],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "",
-        "subtype": "action",
-        "parentItemId": "",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!cI3fX1wXh1ynV4cU.DxR1AhnjAQQghPIv"
-    },
-    {
       "name": "Indivisible",
       "type": "monsterFeature",
-      "_id": "y2VZfywAw0ZMXtJ2",
+      "_id": "FZt9U73a1F1uKNRa",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -308,15 +206,112 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!cI3fX1wXh1ynV4cU.y2VZfywAw0ZMXtJ2"
+      "_key": "!actors.items!9SvUjciODicPO9hQ.FZt9U73a1F1uKNRa"
+    },
+    {
+      "name": "Sprinkle",
+      "type": "monsterFeature",
+      "_id": "U6sQv1zjH1otk2OP",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "V03LZFURy0nFph4Q",
+              "type": "damage",
+              "damageType": "bludgeoning",
+              "formula": "1d6",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "miss": [
+                  {
+                    "id": "wMzYpJQSFQSIhfYB",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "V03LZFURy0nFph4Q"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "LN86WYPcAkqtOAHT",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "V03LZFURy0nFph4Q"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "1woULJTOIZymIWSt",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "V03LZFURy0nFph4Q"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>1d6 damage.</p>",
+        "subtype": "action",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!9SvUjciODicPO9hQ.U6sQv1zjH1otk2OP"
     }
   ],
   "effects": [],
-  "sort": 0,
-  "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
-  },
   "flags": {},
   "_stats": {
     "compendiumSource": null,
@@ -325,9 +320,13 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1783046064227,
-    "modifiedTime": 1783046184392,
+    "createdTime": 1783047500111,
+    "modifiedTime": 1783047633101,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
-  "_key": "!actors!KjXfqPNgdOWtSfgY"
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!actors!9SvUjciODicPO9hQ"
 }
