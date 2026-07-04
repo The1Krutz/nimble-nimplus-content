@@ -11,12 +11,12 @@
       "damageVulnerabilities": [],
       "damageImmunities": [],
       "hp": {
-        "max": 10,
+        "max": 20,
         "temp": 0,
-        "value": 10
+        "value": 20
       },
       "movement": {
-        "burrow": 0,
+        "burrow": 8,
         "climb": 0,
         "fly": 0,
         "swim": 0,
@@ -148,7 +148,297 @@
     "appendNumber": false,
     "prependAdjective": false
   },
-  "items": [],
+  "items": [
+    {
+      "name": "Sand Dwellers",
+      "type": "monsterFeature",
+      "_id": "1AR8fOprMv1wcIa5",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Use Naturecraft when rolling initiative against the Meriähti.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!P9KBO4O0MGGduB37.1AR8fOprMv1wcIa5"
+    },
+    {
+      "name": "Autonomous",
+      "type": "monsterFeature",
+      "_id": "2HE7esNAWTaHrsIE",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Spawn 2 @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.S64ILg6ftsl1lutQ]{Severed Arms} on death.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!P9KBO4O0MGGduB37.2HE7esNAWTaHrsIE"
+    },
+    {
+      "name": "Suction",
+      "type": "monsterFeature",
+      "_id": "RiqVvRJ6Q1zM44Ws",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Grappled creatures move with you overground.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!P9KBO4O0MGGduB37.RiqVvRJ6Q1zM44Ws"
+    },
+    {
+      "name": "Slam",
+      "type": "monsterFeature",
+      "_id": "f8JdAGHuhYQmRojn",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "ZOOwAEDBFjJkKNS9",
+              "type": "damage",
+              "damageType": "bludgeoning",
+              "formula": "1d10",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "hit": [
+                  {
+                    "id": "5zhawrQNyPYerIR1",
+                    "type": "condition",
+                    "condition": "grappled",
+                    "parentContext": "hit",
+                    "parentNode": "ZOOwAEDBFjJkKNS9"
+                  },
+                  {
+                    "id": "PHvCJyAv5IG0TQ5m",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "ZOOwAEDBFjJkKNS9"
+                  }
+                ],
+                "miss": [
+                  {
+                    "id": "fK6c3cF7QlBJVoKG",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "ZOOwAEDBFjJkKNS9"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "6CiXJu7ArHFQpo7J",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "ZOOwAEDBFjJkKNS9"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>1d10 Bludgeoning, Grappled (escape DC 10).</p>",
+        "subtype": "action",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!P9KBO4O0MGGduB37.f8JdAGHuhYQmRojn"
+    }
+  ],
   "effects": [],
   "flags": {},
   "_stats": {
@@ -159,12 +449,11 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783054243880,
-    "modifiedTime": 1783054243880,
+    "modifiedTime": 1783135489572,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!P9KBO4O0MGGduB37"

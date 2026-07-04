@@ -11,16 +11,16 @@
       "damageVulnerabilities": [],
       "damageImmunities": [],
       "hp": {
-        "max": 10,
+        "max": 50,
         "temp": 0,
-        "value": 10
+        "value": 50
       },
       "movement": {
         "burrow": 0,
         "climb": 0,
         "fly": 0,
         "swim": 0,
-        "walk": 6
+        "walk": 1
       },
       "sizeCategory": "medium"
     },
@@ -28,7 +28,7 @@
     "details": {
       "creatureType": "",
       "isFlunky": false,
-      "level": "1"
+      "level": "4"
     },
     "attackSequence": "",
     "savingThrows": {
@@ -148,7 +148,278 @@
     "appendNumber": false,
     "prependAdjective": false
   },
-  "items": [],
+  "items": [
+    {
+      "name": "Sand Dwellers",
+      "type": "monsterFeature",
+      "_id": "xJu1SyL46FNNuOa7",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Use Naturecraft when rolling initiative against the Meriähti.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!qQ3BzFZpeWDYjCdv.xJu1SyL46FNNuOa7"
+    },
+    {
+      "name": "Autonomous",
+      "type": "monsterFeature",
+      "_id": "QT2ttzPPipiKsjMQ",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Spawn 2 @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.S64ILg6ftsl1lutQ]{Severed Arms} on death.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!qQ3BzFZpeWDYjCdv.QT2ttzPPipiKsjMQ"
+    },
+    {
+      "name": "Pinpricks",
+      "type": "monsterFeature",
+      "_id": "LLEHOZkrHvYsz3eQ",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "DFUynpoWDyxW4p39",
+              "type": "damage",
+              "damageType": "piercing",
+              "formula": "5",
+              "parentContext": null,
+              "parentNode": null,
+              "on": {
+                "hit": [
+                  {
+                    "id": "uQl9hvr0EggfJDWs",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "DFUynpoWDyxW4p39"
+                  }
+                ]
+              },
+              "canCrit": false,
+              "canMiss": false
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Deals 5 Piercing damage on contact.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!qQ3BzFZpeWDYjCdv.LLEHOZkrHvYsz3eQ"
+    },
+    {
+      "name": "Sandtrap",
+      "type": "monsterFeature",
+      "_id": "RhHoy4e10yKt2GEJ",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": true,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "LawWK6KKqbgsrsCX",
+              "type": "condition",
+              "condition": "slowed",
+              "parentContext": null,
+              "parentNode": null
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "reach",
+            "distance": 2
+          },
+          "template": {
+            "length": 1,
+            "radius": 2,
+            "shape": "emanation",
+            "width": 1
+          }
+        },
+        "description": "<p>Pull all enemies within Reach 2 adjacent to you and inflict Slowed. This counts as contact.</p>",
+        "subtype": "action",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!qQ3BzFZpeWDYjCdv.RhHoy4e10yKt2GEJ"
+    }
+  ],
   "effects": [],
   "flags": {},
   "_stats": {
@@ -159,12 +430,11 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783054243880,
-    "modifiedTime": 1783054243880,
+    "modifiedTime": 1783135489572,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!qQ3BzFZpeWDYjCdv"

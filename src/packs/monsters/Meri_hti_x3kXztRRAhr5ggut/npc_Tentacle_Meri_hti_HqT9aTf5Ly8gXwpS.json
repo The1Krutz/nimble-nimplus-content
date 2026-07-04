@@ -11,9 +11,9 @@
       "damageVulnerabilities": [],
       "damageImmunities": [],
       "hp": {
-        "max": 10,
+        "max": 40,
         "temp": 0,
-        "value": 10
+        "value": 40
       },
       "movement": {
         "burrow": 0,
@@ -28,7 +28,7 @@
     "details": {
       "creatureType": "",
       "isFlunky": false,
-      "level": "1"
+      "level": "3"
     },
     "attackSequence": "",
     "savingThrows": {
@@ -148,7 +148,350 @@
     "appendNumber": false,
     "prependAdjective": false
   },
-  "items": [],
+  "items": [
+    {
+      "name": "Sand Dwellers",
+      "type": "monsterFeature",
+      "_id": "Pk2Tp7T0DvLd90kV",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Use Naturecraft when rolling initiative against the Meriähti.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!HqT9aTf5Ly8gXwpS.Pk2Tp7T0DvLd90kV"
+    },
+    {
+      "name": "Autonomous",
+      "type": "monsterFeature",
+      "_id": "9Cszi83N2rZNSYDf",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Spawn 2 @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.S64ILg6ftsl1lutQ]{Severed Arms} on death.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!HqT9aTf5Ly8gXwpS.9Cszi83N2rZNSYDf"
+    },
+    {
+      "name": "Choose 1",
+      "type": "monsterFeature",
+      "_id": "jP5vDOcd4GO5LPQN",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Choose one:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!HqT9aTf5Ly8gXwpS.jP5vDOcd4GO5LPQN"
+    },
+    {
+      "name": "Lash (2x)",
+      "type": "monsterFeature",
+      "_id": "HKwbZ4mdYGom5D9f",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "8IXekXLpVKMh9yMX",
+              "type": "damage",
+              "damageType": "bludgeoning",
+              "formula": "1d10",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "hit": [
+                  {
+                    "id": "kvTjXotU45EggPgc",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "8IXekXLpVKMh9yMX"
+                  }
+                ],
+                "miss": [
+                  {
+                    "id": "ZdsSWQiCZ1V5coXm",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "8IXekXLpVKMh9yMX"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "fJB5kteA8YnK6Jgi",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "8IXekXLpVKMh9yMX"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "reach",
+            "distance": 6
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>(Reach 6) 1d10 Bludgeoning. On damage: Leashed (escape DC 12).</p>",
+        "subtype": "action",
+        "parentItemId": "jP5vDOcd4GO5LPQN",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!HqT9aTf5Ly8gXwpS.HKwbZ4mdYGom5D9f"
+    },
+    {
+      "name": "Retract",
+      "type": "monsterFeature",
+      "_id": "dWy1B4I5kxdznTVP",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Pull all Leashed creatures adjacent to you.</p>",
+        "subtype": "action",
+        "parentItemId": "jP5vDOcd4GO5LPQN",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 20000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!HqT9aTf5Ly8gXwpS.dWy1B4I5kxdznTVP"
+    }
+  ],
   "effects": [],
   "flags": {},
   "_stats": {
@@ -159,12 +502,11 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783054243880,
-    "modifiedTime": 1783054243880,
+    "modifiedTime": 1783135489572,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!HqT9aTf5Ly8gXwpS"

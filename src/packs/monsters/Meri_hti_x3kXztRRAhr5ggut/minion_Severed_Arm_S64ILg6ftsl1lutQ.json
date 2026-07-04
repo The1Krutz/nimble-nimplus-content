@@ -147,7 +147,110 @@
     "appendNumber": false,
     "prependAdjective": false
   },
-  "items": [],
+  "items": [
+    {
+      "name": "Stab",
+      "type": "monsterFeature",
+      "_id": "ioh0G0PLMLhDN3Es",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "cZ8Pbx4Sm4TFXL2w",
+              "type": "damage",
+              "damageType": "piercing",
+              "formula": "1d6",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "miss": [
+                  {
+                    "id": "O4rOFCm7S7yAE9se",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "p8q9ogJEzWgEJoco",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "du50UrIc5E5WSRr4",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>1d6 Piercing.</p>",
+        "subtype": "action",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!S64ILg6ftsl1lutQ.ioh0G0PLMLhDN3Es"
+    }
+  ],
   "effects": [],
   "flags": {},
   "_stats": {
@@ -158,12 +261,11 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783054243880,
-    "modifiedTime": 1783054243880,
+    "modifiedTime": 1783135489572,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!S64ILg6ftsl1lutQ"
