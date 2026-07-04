@@ -1,0 +1,513 @@
+{
+  "name": "Sand Meriähti",
+  "type": "npc",
+  "folder": "x3kXztRRAhr5ggut",
+  "_id": "UeCUdhSaVaFXlilY",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "attributes": {
+      "armor": "none",
+      "damageResistances": [],
+      "damageVulnerabilities": [],
+      "damageImmunities": [],
+      "hp": {
+        "max": 25,
+        "temp": 0,
+        "value": 25
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 0,
+        "swim": 0,
+        "walk": 6
+      },
+      "sizeCategory": "medium"
+    },
+    "description": "",
+    "details": {
+      "creatureType": "",
+      "isFlunky": false,
+      "level": "1"
+    },
+    "attackSequence": "",
+    "savingThrows": {
+      "strength": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "dexterity": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "intelligence": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "will": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "New Actor",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Sand Dwellers",
+      "type": "monsterFeature",
+      "_id": "djYbGtHPv3YRP5KY",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Use Naturecraft when rolling initiative against the Meriähti.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!UeCUdhSaVaFXlilY.djYbGtHPv3YRP5KY"
+    },
+    {
+      "name": "Autonomous",
+      "type": "monsterFeature",
+      "_id": "y1LHWxHw3I5fVwae",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Spawn 2 @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.S64ILg6ftsl1lutQ]{Severed Arms} on death.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!UeCUdhSaVaFXlilY.y1LHWxHw3I5fVwae"
+    },
+    {
+      "name": "Chose 1",
+      "type": "monsterFeature",
+      "_id": "AoJwZ73T9nPm5103",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Choose one:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!UeCUdhSaVaFXlilY.AoJwZ73T9nPm5103"
+    },
+    {
+      "name": "Poke",
+      "type": "monsterFeature",
+      "_id": "1VRZQIyHprRIQLg1",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "IM0xrbMXB5PRIlaP",
+              "type": "damage",
+              "damageType": "piercing",
+              "formula": "1d6",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "miss": [
+                  {
+                    "id": "7y12K9xtwS5Kp7CA",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "IM0xrbMXB5PRIlaP"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "H0TxrEtjPqsbOpKW",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "IM0xrbMXB5PRIlaP"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "IHuSITTr6N9DVkPh",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "IM0xrbMXB5PRIlaP"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>1d10 Piercing.</p>",
+        "subtype": "action",
+        "parentItemId": "AoJwZ73T9nPm5103",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!UeCUdhSaVaFXlilY.1VRZQIyHprRIQLg1"
+    },
+    {
+      "name": "Sand Wall",
+      "type": "monsterFeature",
+      "_id": "0fCeA1dNAIAeEBIf",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Create a wall of sand (Line 4). Blocks movement, but crumbles from a single hit.</p>",
+        "subtype": "action",
+        "parentItemId": "AoJwZ73T9nPm5103",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 20000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!UeCUdhSaVaFXlilY.0fCeA1dNAIAeEBIf"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1783054243880,
+    "modifiedTime": 1783135489572,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!actors!UeCUdhSaVaFXlilY"
+}
