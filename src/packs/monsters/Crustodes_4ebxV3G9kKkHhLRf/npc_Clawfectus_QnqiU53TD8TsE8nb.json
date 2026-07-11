@@ -1,0 +1,475 @@
+{
+  "name": "Clawfectus",
+  "type": "npc",
+  "folder": "4ebxV3G9kKkHhLRf",
+  "_id": "QnqiU53TD8TsE8nb",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "attributes": {
+      "armor": "none",
+      "damageResistances": [],
+      "damageVulnerabilities": [],
+      "damageImmunities": [],
+      "hp": {
+        "max": 35,
+        "temp": 0,
+        "value": 35
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 0,
+        "swim": 0,
+        "walk": 6
+      },
+      "sizeCategory": "large"
+    },
+    "description": "",
+    "details": {
+      "creatureType": "",
+      "isFlunky": false,
+      "level": "4"
+    },
+    "attackSequence": "",
+    "savingThrows": {
+      "strength": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "dexterity": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "intelligence": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "will": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "New Actor",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Shellguard",
+      "type": "monsterFeature",
+      "_id": "GQmcXHjMzXYGcqlE",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Increment Armor one step when adjacent to an ally (U»M»H).</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!QnqiU53TD8TsE8nb.GQmcXHjMzXYGcqlE"
+    },
+    {
+      "name": "Shear",
+      "type": "monsterFeature",
+      "_id": "oDkccTKYGwmJ0kAT",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "S4zC5krO0qRS0HhP",
+              "type": "damage",
+              "damageType": "slashing",
+              "formula": "2d4+12",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "miss": [
+                  {
+                    "id": "dMTISoK6gJrWNTA0",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "S4zC5krO0qRS0HhP"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "8xZpR7PvftJmGi1R",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "S4zC5krO0qRS0HhP"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "GQ62MnS1cVXFVZMo",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "S4zC5krO0qRS0HhP"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "a Grappled creature",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>(a Grappled creature) 2d4+12 Slashing.</p>",
+        "subtype": "action",
+        "parentItemId": "G1AghQcP5FNv9m0B",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 20000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!QnqiU53TD8TsE8nb.oDkccTKYGwmJ0kAT"
+    },
+    {
+      "name": "Grab",
+      "type": "monsterFeature",
+      "_id": "0W6ths65OwJyzFQL",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "F2QpbFRGyoPJVZZu",
+              "type": "savingThrow",
+              "savingThrowType": "strength",
+              "parentContext": null,
+              "parentNode": null,
+              "saveType": "strength",
+              "saveDC": "12",
+              "on": {
+                "failedSave": [
+                  {
+                    "id": "Q2LT3hfXyXlTHWjl",
+                    "type": "condition",
+                    "condition": "grappled",
+                    "parentContext": "failedSave",
+                    "parentNode": "F2QpbFRGyoPJVZZu"
+                  }
+                ]
+              },
+              "sharedRolls": []
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Grapple an adjacent creature (escape DC 12).</p>",
+        "subtype": "action",
+        "parentItemId": "G1AghQcP5FNv9m0B",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!QnqiU53TD8TsE8nb.0W6ths65OwJyzFQL"
+    },
+    {
+      "name": "Choose twice",
+      "type": "monsterFeature",
+      "_id": "G1AghQcP5FNv9m0B",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Choose twice:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!QnqiU53TD8TsE8nb.G1AghQcP5FNv9m0B"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1783749975547,
+    "modifiedTime": 1783750724810,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!actors!QnqiU53TD8TsE8nb"
+}
