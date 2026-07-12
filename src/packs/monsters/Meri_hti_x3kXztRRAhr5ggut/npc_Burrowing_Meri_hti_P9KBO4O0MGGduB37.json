@@ -364,11 +364,25 @@
               "on": {
                 "hit": [
                   {
-                    "id": "5zhawrQNyPYerIR1",
-                    "type": "condition",
-                    "condition": "grappled",
+                    "id": "yrOiOdu5zCKFsMxQ",
+                    "type": "savingThrow",
+                    "savingThrowType": "strength",
                     "parentContext": "hit",
-                    "parentNode": "ZOOwAEDBFjJkKNS9"
+                    "parentNode": "ZOOwAEDBFjJkKNS9",
+                    "saveType": "strength",
+                    "saveDC": "10",
+                    "on": {
+                      "failedSave": [
+                        {
+                          "id": "QkRapQR7UJCfoKOy",
+                          "type": "condition",
+                          "condition": "grappled",
+                          "parentContext": "failedSave",
+                          "parentNode": "yrOiOdu5zCKFsMxQ"
+                        }
+                      ]
+                    },
+                    "sharedRolls": []
                   },
                   {
                     "id": "PHvCJyAv5IG0TQ5m",
@@ -449,7 +463,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783054243880,
-    "modifiedTime": 1783135489572,
+    "modifiedTime": 1783833012716,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {

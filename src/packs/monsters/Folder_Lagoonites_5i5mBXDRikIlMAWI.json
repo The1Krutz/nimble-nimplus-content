@@ -1,7 +1,7 @@
 {
   "type": "Actor",
   "folder": null,
-  "name": "Lagoon Elementals",
+  "name": "Lagoonites",
   "color": null,
   "sorting": "a",
   "_id": "5i5mBXDRikIlMAWI",
@@ -16,7 +16,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783046044855,
-    "modifiedTime": 1783046044855,
+    "modifiedTime": 1783832741649,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "_key": "!folders!5i5mBXDRikIlMAWI"

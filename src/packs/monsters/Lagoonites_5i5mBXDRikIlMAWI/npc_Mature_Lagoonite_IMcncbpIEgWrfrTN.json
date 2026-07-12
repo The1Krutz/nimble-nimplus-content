@@ -1,12 +1,12 @@
 {
-  "name": "Whirling Lagoonite",
+  "name": "Mature Lagoonite",
   "type": "npc",
   "folder": "5i5mBXDRikIlMAWI",
-  "_id": "VRBhTC1x0U2bYPt1",
+  "_id": "IMcncbpIEgWrfrTN",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "attributes": {
-      "armor": "heavy",
+      "armor": "none",
       "damageResistances": [],
       "damageVulnerabilities": [],
       "damageImmunities": [],
@@ -19,16 +19,16 @@
         "burrow": 0,
         "climb": 0,
         "fly": 0,
-        "swim": 6,
-        "walk": 6
+        "swim": 4,
+        "walk": 4
       },
-      "sizeCategory": "large"
+      "sizeCategory": "medium"
     },
     "description": "",
     "details": {
       "creatureType": "Elemental",
       "isFlunky": false,
-      "level": "5"
+      "level": "3"
     },
     "attackSequence": "",
     "savingThrows": {
@@ -150,16 +150,16 @@
   },
   "items": [
     {
-      "name": "Whirlpool",
+      "name": "Surface Tension",
       "type": "monsterFeature",
-      "_id": "zSyyc3rW9RmwfwTt",
+      "_id": "IhaknJMxVF4Poq93",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
         "identifier": "",
         "rules": [],
         "activation": {
-          "acquireTargetsFromTemplate": true,
+          "acquireTargetsFromTemplate": false,
           "cost": {
             "details": "",
             "quantity": 1,
@@ -171,51 +171,29 @@
             "quantity": 1,
             "type": "none"
           },
-          "effects": [
-            {
-              "id": "X1Kr8wjty4hzY6p3",
-              "type": "savingThrow",
-              "savingThrowType": "strength",
-              "parentContext": null,
-              "parentNode": null,
-              "saveType": "strength",
-              "saveDC": "12",
-              "on": {
-                "failedSave": [
-                  {
-                    "id": "2TVursk3TdQxbteu",
-                    "type": "condition",
-                    "condition": "prone",
-                    "parentContext": "failedSave",
-                    "parentNode": "X1Kr8wjty4hzY6p3"
-                  }
-                ]
-              },
-              "sharedRolls": []
-            }
-          ],
+          "effects": [],
           "showDescription": true,
           "targets": {
             "count": 1,
             "restrictions": "",
-            "attackType": "reach",
-            "distance": 3
+            "attackType": "",
+            "distance": 1
           },
           "template": {
             "length": 1,
-            "radius": 3,
-            "shape": "circle",
+            "radius": 1,
+            "shape": "",
             "width": 1
           }
         },
-        "description": "<p>Push all enemies within Reach 3 clockwise around you. DC 12 STR save or Prone.</p>",
-        "subtype": "action",
-        "parentItemId": "3ML7DPQgWzvMh5P6",
+        "description": "<p>When targeting a @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.9SvUjciODicPO9hQ]{Droplet} with @UUID[Actor.IMcncbpIEgWrfrTN.Item.zVUZZ9NczVXXfVSa]{Warp}, absorb it to gain one instance of Heavy Armor.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
         "lastStandHp": 0
       },
       "effects": [],
       "folder": null,
-      "sort": 30000,
+      "sort": 10000,
       "flags": {},
       "_stats": {
         "compendiumSource": null,
@@ -229,12 +207,12 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.zSyyc3rW9RmwfwTt"
+      "_key": "!actors.items!IMcncbpIEgWrfrTN.IhaknJMxVF4Poq93"
     },
     {
-      "name": "Soak",
+      "name": "Splash (x2)",
       "type": "monsterFeature",
-      "_id": "2ypCwBtZewNmZAh7",
+      "_id": "7lQDEE7GZ3F3sPAL",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -255,49 +233,42 @@
           },
           "effects": [
             {
-              "id": "jDyWIEOrMn8WRojQ",
+              "id": "vcREA4CepGgQOiPd",
               "type": "damage",
               "damageType": "bludgeoning",
-              "formula": "4d6",
+              "formula": "2d6",
               "parentContext": null,
               "parentNode": null,
               "canCrit": true,
               "canMiss": true,
               "on": {
-                "hit": [
-                  {
-                    "id": "WYmBWqsdZBFtymYZ",
-                    "type": "condition",
-                    "condition": "slowed",
-                    "parentContext": "hit",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
-                  },
-                  {
-                    "id": "CABN8KWuEzfRdRiC",
-                    "type": "damageOutcome",
-                    "outcome": "fullDamage",
-                    "parentContext": "hit",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
-                  }
-                ],
                 "miss": [
                   {
-                    "id": "QN7PX2tO6RIggiuL",
+                    "id": "Yfo03ckLLjqNntFr",
                     "type": "note",
                     "noteType": "warning",
                     "text": "MISS",
                     "parentContext": "miss",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
+                    "parentNode": "vcREA4CepGgQOiPd"
                   }
                 ],
                 "criticalHit": [
                   {
-                    "id": "reWMMJyUkvlod61s",
+                    "id": "HZsRsG4bVxlaVUAm",
                     "type": "note",
                     "noteType": "warning",
                     "text": "CRIT",
                     "parentContext": "criticalHit",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
+                    "parentNode": "vcREA4CepGgQOiPd"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "heVVhvCmiIYpLQng",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "vcREA4CepGgQOiPd"
                   }
                 ]
               }
@@ -317,9 +288,9 @@
             "width": 1
           }
         },
-        "description": "<p>4d6 Bludgeoning, Slowed</p>",
+        "description": "<p>2d6 Bludgeoning</p>",
         "subtype": "action",
-        "parentItemId": "3ML7DPQgWzvMh5P6",
+        "parentItemId": "mWuqjLyDMek9oh8G",
         "lastStandHp": 0
       },
       "effects": [],
@@ -338,12 +309,12 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.2ypCwBtZewNmZAh7"
+      "_key": "!actors.items!IMcncbpIEgWrfrTN.7lQDEE7GZ3F3sPAL"
     },
     {
-      "name": "Downpour",
+      "name": "Warp",
       "type": "monsterFeature",
-      "_id": "tsxyvyTjWpI46nbJ",
+      "_id": "zVUZZ9NczVXXfVSa",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -367,8 +338,8 @@
           "targets": {
             "count": 1,
             "restrictions": "",
-            "attackType": "",
-            "distance": 1
+            "attackType": "reach",
+            "distance": 12
           },
           "template": {
             "length": 1,
@@ -377,9 +348,9 @@
             "width": 1
           }
         },
-        "description": "<p>Spawn 2 @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.9SvUjciODicPO9hQ]{Droplets} within Reach 3</p>",
+        "description": "<p>Teleport adjacent to a creature within Reach 12.</p>",
         "subtype": "action",
-        "parentItemId": "3ML7DPQgWzvMh5P6",
+        "parentItemId": "mWuqjLyDMek9oh8G",
         "lastStandHp": 0
       },
       "effects": [],
@@ -398,72 +369,12 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.tsxyvyTjWpI46nbJ"
-    },
-    {
-      "name": "Choose 2:",
-      "type": "monsterFeature",
-      "_id": "3ML7DPQgWzvMh5P6",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>Choose 2:</p>",
-        "subtype": "attackSequence",
-        "parentItemId": "",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.3ML7DPQgWzvMh5P6"
+      "_key": "!actors.items!IMcncbpIEgWrfrTN.zVUZZ9NczVXXfVSa"
     },
     {
       "name": "Sprinkler",
       "type": "monsterFeature",
-      "_id": "g8AJDAXy2hHta2Cb",
+      "_id": "OeyduuCUcrtTcejF",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -518,7 +429,67 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.g8AJDAXy2hHta2Cb"
+      "_key": "!actors.items!IMcncbpIEgWrfrTN.OeyduuCUcrtTcejF"
+    },
+    {
+      "name": "Choose 1",
+      "type": "monsterFeature",
+      "_id": "mWuqjLyDMek9oh8G",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Choose one:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!IMcncbpIEgWrfrTN.mWuqjLyDMek9oh8G"
     }
   ],
   "effects": [],
@@ -531,12 +502,12 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783052173793,
-    "modifiedTime": 1783052903215,
+    "modifiedTime": 1783832732237,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
     "default": 0
   },
   "sort": 0,
-  "_key": "!actors!VRBhTC1x0U2bYPt1"
+  "_key": "!actors!IMcncbpIEgWrfrTN"
 }

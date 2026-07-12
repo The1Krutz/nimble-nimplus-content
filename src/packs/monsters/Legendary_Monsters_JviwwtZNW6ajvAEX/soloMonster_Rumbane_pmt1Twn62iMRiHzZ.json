@@ -185,7 +185,7 @@
             "width": 1
           }
         },
-        "description": "<p>Permanently Tipsy. Heavy Armor while Prone.</p>",
+        "description": "<p>Permanently @UUID[Actor.pmt1Twn62iMRiHzZ.Item.o1qHHrOhCbCImx4X]{Tipsy}. Heavy Armor while Prone.</p>",
         "subtype": "feature",
         "parentItemId": "",
         "lastStandHp": 0
@@ -373,7 +373,7 @@
             "width": 1
           }
         },
-        "description": "<p>Daze an adjacent creature. DC 11 STR save or become Tipsy.</p>",
+        "description": "<p>Daze an adjacent creature. DC 11 STR save or become @UUID[Actor.pmt1Twn62iMRiHzZ.Item.o1qHHrOhCbCImx4X]{Tipsy}.</p>",
         "subtype": "action",
         "parentItemId": "ahY3QJz5cOfvj64o",
         "lastStandHp": 0
@@ -603,7 +603,7 @@
             "width": 1
           }
         },
-        "description": "<p>Rumbane transforms into a Large dragon and gains 2 uses of Mighty Belch.</p>",
+        "description": "<p>Rumbane transforms into a Large dragon and gains 2 uses of @UUID[Actor.pmt1Twn62iMRiHzZ.Item.PO2iPN7meIawbvlc]{Mighty Belch}.</p>",
         "subtype": "bloodied",
         "parentItemId": "",
         "lastStandHp": 0
@@ -663,7 +663,7 @@
             "width": 1
           }
         },
-        "description": "<p>Rumbane is exhausted and really wants a nap! He gains Heavy Armor and Dragon Fist rolls with advantage. Falls asleep after 1 round if not defeated before then.</p>",
+        "description": "<p>Rumbane is exhausted and really wants a nap! He gains Heavy Armor and @UUID[Actor.pmt1Twn62iMRiHzZ.Item.z4yEiOP1IXIO7q5A]{Dragon Fist} rolls with advantage. Falls asleep after 1 round if not defeated before then.</p>",
         "subtype": "lastStand",
         "parentItemId": "",
         "lastStandHp": 30
@@ -757,12 +757,11 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783831177065,
-    "modifiedTime": 1783831177065,
+    "modifiedTime": 1783832906731,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!pmt1Twn62iMRiHzZ"

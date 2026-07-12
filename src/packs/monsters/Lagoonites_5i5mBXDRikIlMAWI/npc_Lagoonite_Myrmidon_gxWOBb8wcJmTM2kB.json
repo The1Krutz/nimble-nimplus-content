@@ -1,12 +1,12 @@
 {
-  "name": "Mature Lagoonite",
+  "name": "Lagoonite Myrmidon",
   "type": "npc",
   "folder": "5i5mBXDRikIlMAWI",
-  "_id": "IMcncbpIEgWrfrTN",
+  "_id": "gxWOBb8wcJmTM2kB",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "attributes": {
-      "armor": "none",
+      "armor": "medium",
       "damageResistances": [],
       "damageVulnerabilities": [],
       "damageImmunities": [],
@@ -19,8 +19,8 @@
         "burrow": 0,
         "climb": 0,
         "fly": 0,
-        "swim": 4,
-        "walk": 4
+        "swim": 6,
+        "walk": 6
       },
       "sizeCategory": "medium"
     },
@@ -28,7 +28,7 @@
     "details": {
       "creatureType": "Elemental",
       "isFlunky": false,
-      "level": "3"
+      "level": "4"
     },
     "attackSequence": "",
     "savingThrows": {
@@ -150,69 +150,9 @@
   },
   "items": [
     {
-      "name": "Surface Tension",
+      "name": "Waterwhip",
       "type": "monsterFeature",
-      "_id": "IhaknJMxVF4Poq93",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>When targeting a @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.9SvUjciODicPO9hQ]{Droplet} with @UUID[Actor.IMcncbpIEgWrfrTN.Item.zVUZZ9NczVXXfVSa]{Warp}, absorb it to gain one instance of Heavy Armor.</p>",
-        "subtype": "feature",
-        "parentItemId": "",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 10000,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!IMcncbpIEgWrfrTN.IhaknJMxVF4Poq93"
-    },
-    {
-      "name": "Splash (x2)",
-      "type": "monsterFeature",
-      "_id": "7lQDEE7GZ3F3sPAL",
+      "_id": "zjoCToHuyBVF76uc",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -233,10 +173,10 @@
           },
           "effects": [
             {
-              "id": "vcREA4CepGgQOiPd",
+              "id": "AURltlPRcbu2tl7r",
               "type": "damage",
               "damageType": "bludgeoning",
-              "formula": "2d6",
+              "formula": "3d6",
               "parentContext": null,
               "parentNode": null,
               "canCrit": true,
@@ -244,31 +184,31 @@
               "on": {
                 "miss": [
                   {
-                    "id": "Yfo03ckLLjqNntFr",
+                    "id": "CcBJ0DYe5oJGfXsM",
                     "type": "note",
                     "noteType": "warning",
                     "text": "MISS",
                     "parentContext": "miss",
-                    "parentNode": "vcREA4CepGgQOiPd"
+                    "parentNode": "AURltlPRcbu2tl7r"
                   }
                 ],
                 "criticalHit": [
                   {
-                    "id": "HZsRsG4bVxlaVUAm",
+                    "id": "Le9Mx7UeFEX9nwPR",
                     "type": "note",
                     "noteType": "warning",
                     "text": "CRIT",
                     "parentContext": "criticalHit",
-                    "parentNode": "vcREA4CepGgQOiPd"
+                    "parentNode": "AURltlPRcbu2tl7r"
                   }
                 ],
                 "hit": [
                   {
-                    "id": "heVVhvCmiIYpLQng",
+                    "id": "9CUdT9DYKZxvTAsl",
                     "type": "damageOutcome",
                     "outcome": "fullDamage",
                     "parentContext": "hit",
-                    "parentNode": "vcREA4CepGgQOiPd"
+                    "parentNode": "AURltlPRcbu2tl7r"
                   }
                 ]
               }
@@ -278,8 +218,8 @@
           "targets": {
             "count": 1,
             "restrictions": "",
-            "attackType": "",
-            "distance": 1
+            "attackType": "reach",
+            "distance": 9
           },
           "template": {
             "length": 1,
@@ -288,9 +228,9 @@
             "width": 1
           }
         },
-        "description": "<p>2d6 Bludgeoning</p>",
+        "description": "<p>(Reach 9) 3d6 Bludgeoning, Pull 3 spaces.</p>",
         "subtype": "action",
-        "parentItemId": "mWuqjLyDMek9oh8G",
+        "parentItemId": "rpPm6HKByncMTvEg",
         "lastStandHp": 0
       },
       "effects": [],
@@ -309,12 +249,12 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!IMcncbpIEgWrfrTN.7lQDEE7GZ3F3sPAL"
+      "_key": "!actors.items!gxWOBb8wcJmTM2kB.zjoCToHuyBVF76uc"
     },
     {
-      "name": "Warp",
+      "name": "Kelp Net",
       "type": "monsterFeature",
-      "_id": "zVUZZ9NczVXXfVSa",
+      "_id": "q4baOsTi8aCj2G87",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -333,13 +273,35 @@
             "quantity": 1,
             "type": "none"
           },
-          "effects": [],
+          "effects": [
+            {
+              "id": "2SWSY5Lh93RWcv4M",
+              "type": "savingThrow",
+              "savingThrowType": "strength",
+              "parentContext": null,
+              "parentNode": null,
+              "saveType": "strength",
+              "saveDC": "12",
+              "on": {
+                "failedSave": [
+                  {
+                    "id": "gfOTeOekHAVmVJCt",
+                    "type": "condition",
+                    "condition": "restrained",
+                    "parentContext": "failedSave",
+                    "parentNode": "2SWSY5Lh93RWcv4M"
+                  }
+                ]
+              },
+              "sharedRolls": []
+            }
+          ],
           "showDescription": true,
           "targets": {
             "count": 1,
             "restrictions": "",
             "attackType": "reach",
-            "distance": 12
+            "distance": 3
           },
           "template": {
             "length": 1,
@@ -348,9 +310,9 @@
             "width": 1
           }
         },
-        "description": "<p>Teleport adjacent to a creature within Reach 12.</p>",
+        "description": "<p>(Reach 3) Restrain a creature (escape DC 12).</p>",
         "subtype": "action",
-        "parentItemId": "mWuqjLyDMek9oh8G",
+        "parentItemId": "rpPm6HKByncMTvEg",
         "lastStandHp": 0
       },
       "effects": [],
@@ -369,12 +331,12 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!IMcncbpIEgWrfrTN.zVUZZ9NczVXXfVSa"
+      "_key": "!actors.items!gxWOBb8wcJmTM2kB.q4baOsTi8aCj2G87"
     },
     {
       "name": "Sprinkler",
       "type": "monsterFeature",
-      "_id": "OeyduuCUcrtTcejF",
+      "_id": "Kv8z57f8LwqFo4w1",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -429,12 +391,12 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!IMcncbpIEgWrfrTN.OeyduuCUcrtTcejF"
+      "_key": "!actors.items!gxWOBb8wcJmTM2kB.Kv8z57f8LwqFo4w1"
     },
     {
       "name": "Choose 1",
       "type": "monsterFeature",
-      "_id": "mWuqjLyDMek9oh8G",
+      "_id": "rpPm6HKByncMTvEg",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -489,7 +451,7 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!IMcncbpIEgWrfrTN.mWuqjLyDMek9oh8G"
+      "_key": "!actors.items!gxWOBb8wcJmTM2kB.rpPm6HKByncMTvEg"
     }
   ],
   "effects": [],
@@ -502,12 +464,12 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783052173793,
-    "modifiedTime": 1783052903215,
+    "modifiedTime": 1783832732237,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
     "default": 0
   },
   "sort": 0,
-  "_key": "!actors!IMcncbpIEgWrfrTN"
+  "_key": "!actors!gxWOBb8wcJmTM2kB"
 }

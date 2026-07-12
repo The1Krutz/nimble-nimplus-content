@@ -268,7 +268,7 @@
             "width": 3
           }
         },
-        "description": "<p>Take aim at a 3×3 area within Range 20. After one round, use BOOM!</p>",
+        "description": "<p>Take aim at a 3x3 area within Range 20. After one round, use @UUID[Actor.jFXxWUfdyj6FHhPn.Item.6F1B5qeCQz0VGf4H]{BOOM}!</p>",
         "subtype": "action",
         "parentItemId": "g0OGtjfn6V5iJma4",
         "lastStandHp": 0
@@ -328,7 +328,7 @@
             "width": 1
           }
         },
-        "description": "<p>Uses Sizzling Fuse when lit by a @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.c2w4KUcn8gN5cQqj]{Kraken Cannoneer}.</p>",
+        "description": "<p>Uses @UUID[Actor.jFXxWUfdyj6FHhPn.Item.Bclhq9JiWh9kJQv7]{Sizzling Fuse} when lit by a @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.c2w4KUcn8gN5cQqj]{Kraken Cannoneer}.</p>",
         "subtype": "attackSequence",
         "parentItemId": "",
         "lastStandHp": 0
@@ -362,7 +362,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783827206437,
-    "modifiedTime": 1783828078252,
+    "modifiedTime": 1783832617239,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {

@@ -656,7 +656,7 @@
             "width": 1
           }
         },
-        "description": "<p>Coral Scales break, suppressing the effect. Retain all Surge stacks.</p>",
+        "description": "<p>@UUID[Actor.jEN7tsgP2LrvQUSR.Item.8NKciYZo06B9Ig6y]{Coral Scales} break, suppressing the effect. Retain all Surge stacks.</p>",
         "subtype": "bloodied",
         "parentItemId": "",
         "lastStandHp": 0
@@ -750,12 +750,11 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783831177065,
-    "modifiedTime": 1783831177065,
+    "modifiedTime": 1783832906731,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
-    "default": 0,
-    "h42CcTzyU22SgcaA": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!actors!jEN7tsgP2LrvQUSR"

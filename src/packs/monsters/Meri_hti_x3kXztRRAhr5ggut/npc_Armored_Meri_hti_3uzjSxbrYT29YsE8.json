@@ -457,7 +457,7 @@
           "showDescription": true,
           "targets": {
             "count": 1,
-            "restrictions": "",
+            "restrictions": "an Enveloped creature",
             "attackType": "",
             "distance": 1
           },
@@ -502,7 +502,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783054243880,
-    "modifiedTime": 1783135489572,
+    "modifiedTime": 1783833012716,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
