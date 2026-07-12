@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "Othdn7P4hi3a49sk",
   "_id": "c2w4KUcn8gN5cQqj",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/singleplayer.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/singleplayer.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "YARR!",
       "type": "monsterFeature",
       "_id": "60BBqNyV1ZVnwEs1",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/icon_star.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "FIRE!",
       "type": "monsterFeature",
       "_id": "bSiiJNmQvOhXuOLL",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Empty Bottle",
       "type": "monsterFeature",
       "_id": "481KTsPEl0X0ZBMP",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_bow.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -442,7 +442,7 @@
     "systemId": "nimble",
     "systemVersion": "0.8.7",
     "createdTime": 1783827206437,
-    "modifiedTime": 1783828078252,
+    "modifiedTime": 1783836669983,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
