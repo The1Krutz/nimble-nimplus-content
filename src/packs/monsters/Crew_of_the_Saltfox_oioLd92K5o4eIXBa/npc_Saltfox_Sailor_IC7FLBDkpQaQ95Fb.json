@@ -153,7 +153,7 @@
       "name": "Dirty Fighting",
       "type": "monsterFeature",
       "_id": "XSmbfj8t2Hozv1c5",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Dagger (2x)",
       "type": "monsterFeature",
       "_id": "66UG2Ld4rQCcgSPe",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

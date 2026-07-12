@@ -375,7 +375,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "4x9v7k0T4Ydiyrh9",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

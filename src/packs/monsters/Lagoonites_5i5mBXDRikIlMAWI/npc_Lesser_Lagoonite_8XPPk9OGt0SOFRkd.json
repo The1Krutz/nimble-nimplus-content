@@ -153,7 +153,7 @@
       "name": "Sprinkler",
       "type": "monsterFeature",
       "_id": "YyUL02hVXzirBQfK",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Coalesce",
       "type": "monsterFeature",
       "_id": "ASXjpY8eRqQNy32j",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -283,7 +283,7 @@
       "name": "Splash",
       "type": "monsterFeature",
       "_id": "JAHz3nGy35Pu80GM",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -385,7 +385,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "GCdI3AjRLYRTuiZV",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

@@ -152,7 +152,7 @@
       "name": "Stab",
       "type": "monsterFeature",
       "_id": "ioh0G0PLMLhDN3Es",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

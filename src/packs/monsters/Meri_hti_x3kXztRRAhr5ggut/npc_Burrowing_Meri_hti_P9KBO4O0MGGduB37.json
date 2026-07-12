@@ -153,7 +153,7 @@
       "name": "Sand Dwellers",
       "type": "monsterFeature",
       "_id": "1AR8fOprMv1wcIa5",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Autotomous",
       "type": "monsterFeature",
       "_id": "2HE7esNAWTaHrsIE",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Suction",
       "type": "monsterFeature",
       "_id": "RiqVvRJ6Q1zM44Ws",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -333,7 +333,7 @@
       "name": "Slam",
       "type": "monsterFeature",
       "_id": "f8JdAGHuhYQmRojn",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

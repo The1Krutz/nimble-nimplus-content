@@ -153,7 +153,7 @@
       "name": "YARR!",
       "type": "monsterFeature",
       "_id": "CSzqeftCTudAWJwq",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "BLty6VtQXCqSzV0v",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Retaliate",
       "type": "monsterFeature",
       "_id": "JJQenUCcpC5cee5F",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -355,7 +355,7 @@
       "name": "Smokebeard",
       "type": "monsterFeature",
       "_id": "vbXsuySmbQ6tAopn",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -430,7 +430,7 @@
       "name": "\"Hop To, Scallywags!\"",
       "type": "monsterFeature",
       "_id": "JHsM5IQeAq61OV4l",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -490,7 +490,7 @@
       "name": "Cutlass (2x)",
       "type": "monsterFeature",
       "_id": "vU81d5hetuqAeFfs",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

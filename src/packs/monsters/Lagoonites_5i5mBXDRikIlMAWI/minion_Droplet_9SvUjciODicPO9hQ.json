@@ -152,7 +152,7 @@
       "name": "Sprinkle",
       "type": "monsterFeature",
       "_id": "U6sQv1zjH1otk2OP",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

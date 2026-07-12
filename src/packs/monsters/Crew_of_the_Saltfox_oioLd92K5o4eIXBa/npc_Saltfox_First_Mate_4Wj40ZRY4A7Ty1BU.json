@@ -153,7 +153,7 @@
       "name": "Dirty Fighting",
       "type": "monsterFeature",
       "_id": "DZL8b5tZJpBC8Gz1",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "P79TjOyW37gkL4Dw",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Cutlass (2x)",
       "type": "monsterFeature",
       "_id": "tqFcb1wGJc3JCYPB",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -375,7 +375,7 @@
       "name": "Parry",
       "type": "monsterFeature",
       "_id": "FFXKIAvDhwMublOd",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -435,7 +435,7 @@
       "name": "Taunt",
       "type": "monsterFeature",
       "_id": "SoH8WgkN6ddokrqc",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

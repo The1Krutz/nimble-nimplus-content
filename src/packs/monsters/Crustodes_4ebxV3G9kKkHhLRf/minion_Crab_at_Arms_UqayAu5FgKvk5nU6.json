@@ -152,7 +152,7 @@
       "name": "Slash",
       "type": "monsterFeature",
       "_id": "4FNNduIlKLcdRgXf",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

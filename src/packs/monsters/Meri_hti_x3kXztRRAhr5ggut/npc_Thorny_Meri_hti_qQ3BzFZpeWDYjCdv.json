@@ -153,7 +153,7 @@
       "name": "Sand Dwellers",
       "type": "monsterFeature",
       "_id": "xJu1SyL46FNNuOa7",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Autotomous",
       "type": "monsterFeature",
       "_id": "QT2ttzPPipiKsjMQ",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Pinpricks",
       "type": "monsterFeature",
       "_id": "LLEHOZkrHvYsz3eQ",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -355,7 +355,7 @@
       "name": "Sandtrap",
       "type": "monsterFeature",
       "_id": "RhHoy4e10yKt2GEJ",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
