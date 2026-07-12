@@ -3,7 +3,7 @@
   "type": "soloMonster",
   "folder": "JviwwtZNW6ajvAEX",
   "_id": "vgwq3Fpps4YPPZWV",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -60,7 +60,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -152,7 +152,7 @@
       "name": "Sprinkler",
       "type": "monsterFeature",
       "_id": "phqXy4iwPTvZsOiW",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -212,7 +212,7 @@
       "name": "Ceaseless Currents",
       "type": "monsterFeature",
       "_id": "2VFP5tipgiWqlSV7",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -272,7 +272,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "PwpS2iJR3wrvbYCH",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -332,7 +332,7 @@
       "name": "Tidal Wave",
       "type": "monsterFeature",
       "_id": "oImqHQ6ZaoHoWDXU",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -435,7 +435,7 @@
       "name": "Waterfall",
       "type": "monsterFeature",
       "_id": "pGDRqdCK2hPfVG84",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -537,7 +537,7 @@
       "name": "Coil",
       "type": "monsterFeature",
       "_id": "dTnuldKBJcrM8zBl",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -597,7 +597,7 @@
       "name": "Bloodied",
       "type": "monsterFeature",
       "_id": "6dQjjB8Bnao1g3Cm",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -657,7 +657,7 @@
       "name": "Last Stand",
       "type": "monsterFeature",
       "_id": "i6SgZbsvb8xDDzEJ",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

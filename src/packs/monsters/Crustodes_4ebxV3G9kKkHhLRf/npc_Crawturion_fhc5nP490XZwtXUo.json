@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "4ebxV3G9kKkHhLRf",
   "_id": "fhc5nP490XZwtXUo",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Shellguard",
       "type": "monsterFeature",
       "_id": "DFO1CVvc2AwooNqp",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Back in Formation!",
       "type": "monsterFeature",
       "_id": "xjVmMVKWP8h92RxI",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Snip",
       "type": "monsterFeature",
       "_id": "n9zUcMccc13jgfR3",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -375,7 +375,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "Yb4dxRT61OuKpTtX",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "4ebxV3G9kKkHhLRf",
   "_id": "psY4HeFaHeeqRQfA",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Shellguard",
       "type": "monsterFeature",
       "_id": "rTlyWfG8Bmoyl1Mp",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "The Emperor Protects!",
       "type": "monsterFeature",
       "_id": "3m3SAK6Q9UH5VbQq",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Slam",
       "type": "monsterFeature",
       "_id": "qljU6GrVyuaUR3MB",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -375,7 +375,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "iWNs9XOI9NhBaLFn",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

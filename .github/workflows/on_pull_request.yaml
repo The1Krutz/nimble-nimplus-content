@@ -28,6 +28,12 @@ jobs:
       - name: Check format
         run: npm run format:check
 
+      - name: Check missing images
+        run: npm run checkMissingImages
+
+      - name: Check unused images
+        run: npm run checkUnusedImages
+
       - name: Pack json into ldb
         run: |
           npm run packLDB

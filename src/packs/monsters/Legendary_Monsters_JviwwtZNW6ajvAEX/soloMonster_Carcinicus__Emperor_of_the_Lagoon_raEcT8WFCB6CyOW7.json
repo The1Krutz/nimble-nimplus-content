@@ -3,7 +3,7 @@
   "type": "soloMonster",
   "folder": "JviwwtZNW6ajvAEX",
   "_id": "raEcT8WFCB6CyOW7",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
   "system": {
     "attributes": {
       "armor": "heavy",
@@ -60,7 +60,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -152,7 +152,7 @@
       "name": "Shellguard",
       "type": "monsterFeature",
       "_id": "lUDd7PFrAL0nZ2Sy",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -212,7 +212,7 @@
       "name": "Declaw",
       "type": "monsterFeature",
       "_id": "bP7foqhNQpOvZYCa",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -272,7 +272,7 @@
       "name": "Spit",
       "type": "monsterFeature",
       "_id": "np1TGXkNmg6SKDdF",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -374,7 +374,7 @@
       "name": "Scuttle",
       "type": "monsterFeature",
       "_id": "Vn1ZyWUlidAWE5EX",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -476,7 +476,7 @@
       "name": "Choose 1:",
       "type": "monsterFeature",
       "_id": "CM4pry6yKRmybtPG",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -536,7 +536,7 @@
       "name": "Carcinisation",
       "type": "monsterFeature",
       "_id": "TmQK6klyqBLNZmCi",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -596,7 +596,7 @@
       "name": "Bloodied",
       "type": "monsterFeature",
       "_id": "D9pH3WtTgxCgu9bi",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -656,7 +656,7 @@
       "name": "Last Stand",
       "type": "monsterFeature",
       "_id": "90mZ2cHIumnpP9BP",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

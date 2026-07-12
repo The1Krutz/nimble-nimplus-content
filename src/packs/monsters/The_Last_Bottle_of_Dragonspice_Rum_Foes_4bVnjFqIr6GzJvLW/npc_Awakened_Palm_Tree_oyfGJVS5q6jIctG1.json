@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "4bVnjFqIr6GzJvLW",
   "_id": "oyfGJVS5q6jIctG1",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/palm-tree.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/palm-tree.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Throw Coconut",
       "type": "monsterFeature",
       "_id": "NtXZSphDjJ6ltjq6",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -255,7 +255,7 @@
       "name": "Branch Slam",
       "type": "monsterFeature",
       "_id": "KsReLAQPiZ4TgDUz",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -357,7 +357,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "fUkoaayZslujUVFr",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -417,7 +417,7 @@
       "name": "Watch Your Head",
       "type": "monsterFeature",
       "_id": "2ai80ghQ5JsJ7mNR",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -477,7 +477,7 @@
       "name": "Make Like a Tree",
       "type": "monsterFeature",
       "_id": "VonvpfX6cnhfcDNA",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

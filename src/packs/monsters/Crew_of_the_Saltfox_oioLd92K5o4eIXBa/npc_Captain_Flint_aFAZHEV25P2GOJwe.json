@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "oioLd92K5o4eIXBa",
   "_id": "aFAZHEV25P2GOJwe",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-captain.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-captain.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Dirty Fighting",
       "type": "monsterFeature",
       "_id": "ELsn1ZxMWCnIBpWJ",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "eCu2vMgshunqJVAT",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Parry",
       "type": "monsterFeature",
       "_id": "Onnf7DdLvECRzqk1",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -333,7 +333,7 @@
       "name": "Cutlass (2x)",
       "type": "monsterFeature",
       "_id": "TdXZTKkrpw7Kc9hp",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -435,7 +435,7 @@
       "name": "Flintlock",
       "type": "monsterFeature",
       "_id": "LpleiBjy3XiOI4z4",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -537,7 +537,7 @@
       "name": "\"All Hands On Deck!\"",
       "type": "monsterFeature",
       "_id": "WfujakyzYZaEKvJB",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",

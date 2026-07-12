@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "5i5mBXDRikIlMAWI",
   "_id": "gxWOBb8wcJmTM2kB",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Waterwhip",
       "type": "monsterFeature",
       "_id": "zjoCToHuyBVF76uc",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -255,7 +255,7 @@
       "name": "Kelp Net",
       "type": "monsterFeature",
       "_id": "q4baOsTi8aCj2G87",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -337,7 +337,7 @@
       "name": "Sprinkler",
       "type": "monsterFeature",
       "_id": "Kv8z57f8LwqFo4w1",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -397,7 +397,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "rpPm6HKByncMTvEg",
-      "img": "icons/svg/item-bag.svg",
+      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
       "system": {
         "macro": "",
         "identifier": "",
