@@ -18,7 +18,9 @@
     "packLDB": "node ./scripts/packLDB.mjs",
     "unpackLDB": "node ./scripts/unpackLDB.mjs",
     "format": "oxfmt",
-    "format:check": "oxfmt --check"
+    "format:check": "oxfmt --check",
+    "checkMissingImages": "node ./scripts/checkMissingImages.mjs",
+    "checkUnusedImages": "node ./scripts/checkUnusedImages.mjs"
   },
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "^3.0.3",

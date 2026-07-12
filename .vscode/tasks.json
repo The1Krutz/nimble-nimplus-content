@@ -33,6 +33,17 @@
         "reveal": "always"
       },
       "group": "build"
+    },
+    {
+      "label": "Check images",
+      "command": "npm run checkMissingImages && npm run checkUnusedImages",
+      "type": "shell",
+      "args": [],
+      "problemMatcher": ["$tsc"],
+      "presentation": {
+        "reveal": "always"
+      },
+      "group": "build"
     }
   ]
 }
