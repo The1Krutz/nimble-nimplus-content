@@ -1,0 +1,768 @@
+{
+  "name": "Rumbane",
+  "type": "soloMonster",
+  "folder": "JviwwtZNW6ajvAEX",
+  "_id": "pmt1Twn62iMRiHzZ",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "attributes": {
+      "armor": "medium",
+      "damageResistances": [],
+      "damageVulnerabilities": [],
+      "damageImmunities": [],
+      "hp": {
+        "max": 25,
+        "temp": 0,
+        "value": 25
+      },
+      "sizeCategory": "medium",
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 0,
+        "swim": 0,
+        "walk": 6
+      }
+    },
+    "description": "<p>Max HP is 25 per hero</p>",
+    "details": {
+      "creatureType": "Drunken Fist & Also A Dragon",
+      "level": "3"
+    },
+    "attackSequence": "",
+    "savingThrows": {
+      "strength": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "dexterity": {
+        "bonus": 0,
+        "defaultRollMode": 1,
+        "mod": 0
+      },
+      "intelligence": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "will": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "New Actor",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Drunken Master",
+      "type": "monsterFeature",
+      "_id": "7NL2JX77rGLAKarc",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Permanently @UUID[Actor.pmt1Twn62iMRiHzZ.Item.o1qHHrOhCbCImx4X]{Tipsy}. Heavy Armor while Prone.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "nimble": {
+          "collapsed": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.7NL2JX77rGLAKarc"
+    },
+    {
+      "name": "Mighty Belch",
+      "type": "monsterFeature",
+      "_id": "PO2iPN7meIawbvlc",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": true,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "aG9JRf1OshnuSxEi",
+              "type": "savingThrow",
+              "savingThrowType": "strength",
+              "parentContext": null,
+              "parentNode": null,
+              "saveType": "dexterity",
+              "saveDC": "11",
+              "on": {},
+              "sharedRolls": [
+                {
+                  "id": "Mbt56Mv7pwnozLpZ",
+                  "type": "damage",
+                  "damageType": "fire",
+                  "formula": "3d10+5",
+                  "parentContext": "sharedRolls",
+                  "parentNode": "aG9JRf1OshnuSxEi",
+                  "on": {
+                    "failedSave": [
+                      {
+                        "id": "JTPfRp4tvr1c9YOr",
+                        "type": "damageOutcome",
+                        "outcome": "fullDamage",
+                        "parentContext": "failedSave",
+                        "parentNode": "Mbt56Mv7pwnozLpZ"
+                      }
+                    ],
+                    "passedSave": [
+                      {
+                        "id": "zzcxZmI0SDrQHFjH",
+                        "type": "damageOutcome",
+                        "outcome": "halfDamage",
+                        "parentContext": "passedSave",
+                        "parentNode": "Mbt56Mv7pwnozLpZ"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 4,
+            "radius": 1,
+            "shape": "cone",
+            "width": 1
+          }
+        },
+        "description": "<p>(1 use, Cone 4) 3d10+5 Fire, half on a DC 11 DEX save.</p>",
+        "subtype": "action",
+        "parentItemId": "ahY3QJz5cOfvj64o",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 30000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.PO2iPN7meIawbvlc"
+    },
+    {
+      "name": "Rancid Breath",
+      "type": "monsterFeature",
+      "_id": "LeI7yyuWwycAaUQL",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": true,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "sr44ipCmv0CcnSYy",
+              "type": "savingThrow",
+              "savingThrowType": "strength",
+              "parentContext": null,
+              "parentNode": null,
+              "saveType": "strength",
+              "saveDC": "11",
+              "on": {
+                "failedSave": [
+                  {
+                    "id": "P8TqXBPXxgcTrQbH",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "Gain condition: Tispy",
+                    "parentContext": "failedSave",
+                    "parentNode": "sr44ipCmv0CcnSYy"
+                  }
+                ]
+              },
+              "sharedRolls": []
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "emanation",
+            "width": 1
+          }
+        },
+        "description": "<p>Daze an adjacent creature. DC 11 STR save or become @UUID[Actor.pmt1Twn62iMRiHzZ.Item.o1qHHrOhCbCImx4X]{Tipsy}.</p>",
+        "subtype": "action",
+        "parentItemId": "ahY3QJz5cOfvj64o",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 20000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.LeI7yyuWwycAaUQL"
+    },
+    {
+      "name": "Dragon Fist",
+      "type": "monsterFeature",
+      "_id": "z4yEiOP1IXIO7q5A",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "toyLRHfve40DZ6a1",
+              "type": "damage",
+              "damageType": "slashing",
+              "formula": "1d4+12",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "criticalHit": [
+                  {
+                    "id": "NSvHesFOj87YqqeW",
+                    "type": "damage",
+                    "damageType": "fire",
+                    "formula": "5",
+                    "parentContext": "criticalHit",
+                    "parentNode": "toyLRHfve40DZ6a1"
+                  },
+                  {
+                    "id": "Ey11f1TBBy8lZD2C",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "toyLRHfve40DZ6a1"
+                  }
+                ],
+                "miss": [
+                  {
+                    "id": "GqLHAcVFYPHT4Kp9",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "toyLRHfve40DZ6a1"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "eiMfGFcqOlgWCXoh",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "toyLRHfve40DZ6a1"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>1d4+12 Slashing. On crit: Enemies adjacent to the target take 5 Fire damage.</p>",
+        "subtype": "action",
+        "parentItemId": "ahY3QJz5cOfvj64o",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.z4yEiOP1IXIO7q5A"
+    },
+    {
+      "name": "After each Hero",
+      "type": "monsterFeature",
+      "_id": "ahY3QJz5cOfvj64o",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>After each hero's turn, move 6 and choose one:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.ahY3QJz5cOfvj64o"
+    },
+    {
+      "name": "Bloodied",
+      "type": "monsterFeature",
+      "_id": "8ay9gzXZZldRqr2z",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Rumbane transforms into a Large dragon and gains 2 uses of @UUID[Actor.pmt1Twn62iMRiHzZ.Item.PO2iPN7meIawbvlc]{Mighty Belch}.</p>",
+        "subtype": "bloodied",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.8ay9gzXZZldRqr2z"
+    },
+    {
+      "name": "Last Stand",
+      "type": "monsterFeature",
+      "_id": "wVF9wOSim55Ri80Q",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Rumbane is exhausted and really wants a nap! He gains Heavy Armor and @UUID[Actor.pmt1Twn62iMRiHzZ.Item.z4yEiOP1IXIO7q5A]{Dragon Fist} rolls with advantage. Falls asleep after 1 round if not defeated before then.</p>",
+        "subtype": "lastStand",
+        "parentItemId": "",
+        "lastStandHp": 30
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.wVF9wOSim55Ri80Q"
+    },
+    {
+      "name": "Tipsy",
+      "type": "monsterFeature",
+      "_id": "o1qHHrOhCbCImx4X",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Attacks miss on a roll of 1 or 2. Fall Prone when missing an attack.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!pmt1Twn62iMRiHzZ.o1qHHrOhCbCImx4X"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1783831177065,
+    "modifiedTime": 1783832906731,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "_key": "!actors!pmt1Twn62iMRiHzZ"
+}

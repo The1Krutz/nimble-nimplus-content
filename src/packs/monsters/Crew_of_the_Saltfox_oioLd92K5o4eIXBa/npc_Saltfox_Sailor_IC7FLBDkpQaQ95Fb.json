@@ -1,19 +1,19 @@
 {
-  "name": "Armored Meriähti",
+  "name": "Saltfox Sailor",
   "type": "npc",
-  "folder": "x3kXztRRAhr5ggut",
-  "_id": "3uzjSxbrYT29YsE8",
+  "folder": "oioLd92K5o4eIXBa",
+  "_id": "IC7FLBDkpQaQ95Fb",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "attributes": {
-      "armor": "heavy",
+      "armor": "none",
       "damageResistances": [],
       "damageVulnerabilities": [],
       "damageImmunities": [],
       "hp": {
-        "max": 25,
+        "max": 22,
         "temp": 0,
-        "value": 25
+        "value": 22
       },
       "movement": {
         "burrow": 0,
@@ -28,7 +28,7 @@
     "details": {
       "creatureType": "",
       "isFlunky": false,
-      "level": "2"
+      "level": "1"
     },
     "attackSequence": "",
     "savingThrows": {
@@ -150,9 +150,9 @@
   },
   "items": [
     {
-      "name": "Sand Dwellers",
+      "name": "Dirty Fighting",
       "type": "monsterFeature",
-      "_id": "S5aAXXnQD714MtFB",
+      "_id": "XSmbfj8t2Hozv1c5",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -186,7 +186,7 @@
             "width": 1
           }
         },
-        "description": "<p>Use Naturecraft when rolling initiative against the Meriähti.</p>",
+        "description": "<p>Attacks Daze on crit.</p>",
         "subtype": "feature",
         "parentItemId": "",
         "lastStandHp": 0
@@ -196,203 +196,23 @@
       "sort": 0,
       "flags": {},
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "nimble",
         "systemVersion": "0.8.7",
-        "lastModifiedBy": null,
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null
+        "lastModifiedBy": null
       },
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!3uzjSxbrYT29YsE8.S5aAXXnQD714MtFB"
+      "_key": "!actors.items!IC7FLBDkpQaQ95Fb.XSmbfj8t2Hozv1c5"
     },
     {
-      "name": "Autonomous",
+      "name": "Dagger (2x)",
       "type": "monsterFeature",
-      "_id": "cNUcPqVACt7aa4WN",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>Spawn 2 @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.S64ILg6ftsl1lutQ]{Severed Arms} on death.</p>",
-        "subtype": "feature",
-        "parentItemId": "",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null,
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!3uzjSxbrYT29YsE8.cNUcPqVACt7aa4WN"
-    },
-    {
-      "name": "Choose 1",
-      "type": "monsterFeature",
-      "_id": "HwNetaQsvAudYanB",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>Choose one:</p>",
-        "subtype": "attackSequence",
-        "parentItemId": "",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null,
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!3uzjSxbrYT29YsE8.HwNetaQsvAudYanB"
-    },
-    {
-      "name": "Envelop",
-      "type": "monsterFeature",
-      "_id": "VJC25ejNlHNhqyUp",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>Wrap yourself around an adjacent creature (escape DC 11). You move with them. Attacks against the Enveloped creature hit you instead.</p>",
-        "subtype": "action",
-        "parentItemId": "HwNetaQsvAudYanB",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 10000,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null,
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!3uzjSxbrYT29YsE8.VJC25ejNlHNhqyUp"
-    },
-    {
-      "name": "Constrict",
-      "type": "monsterFeature",
-      "_id": "B8fZsWaYHgQ7Ea9Y",
+      "_id": "66UG2Ld4rQCcgSPe",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -413,10 +233,10 @@
           },
           "effects": [
             {
-              "id": "HKBAvNqHVmub8y9g",
+              "id": "cZ8Pbx4Sm4TFXL2w",
               "type": "damage",
-              "damageType": "bludgeoning",
-              "formula": "2d10+5",
+              "damageType": "slashing",
+              "formula": "1d4+2",
               "parentContext": null,
               "parentNode": null,
               "canCrit": true,
@@ -424,31 +244,31 @@
               "on": {
                 "miss": [
                   {
-                    "id": "AoPizdlW4qVkR0hi",
+                    "id": "O4rOFCm7S7yAE9se",
                     "type": "note",
                     "noteType": "warning",
                     "text": "MISS",
                     "parentContext": "miss",
-                    "parentNode": "HKBAvNqHVmub8y9g"
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
                   }
                 ],
                 "criticalHit": [
                   {
-                    "id": "l9Zsjj46mxEfzVLc",
+                    "id": "p8q9ogJEzWgEJoco",
                     "type": "note",
                     "noteType": "warning",
                     "text": "CRIT",
                     "parentContext": "criticalHit",
-                    "parentNode": "HKBAvNqHVmub8y9g"
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
                   }
                 ],
                 "hit": [
                   {
-                    "id": "SLJf0imE7BUpTnlh",
+                    "id": "du50UrIc5E5WSRr4",
                     "type": "damageOutcome",
                     "outcome": "fullDamage",
                     "parentContext": "hit",
-                    "parentNode": "HKBAvNqHVmub8y9g"
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
                   }
                 ]
               }
@@ -457,7 +277,7 @@
           "showDescription": true,
           "targets": {
             "count": 1,
-            "restrictions": "an Enveloped creature",
+            "restrictions": "",
             "attackType": "",
             "distance": 1
           },
@@ -468,28 +288,28 @@
             "width": 1
           }
         },
-        "description": "<p>(an Enveloped creature) 2d10+5.</p>",
+        "description": "<p>1d4+2 Slashing.</p>",
         "subtype": "action",
-        "parentItemId": "HwNetaQsvAudYanB",
+        "parentItemId": "",
         "lastStandHp": 0
       },
       "effects": [],
       "folder": null,
-      "sort": 20000,
+      "sort": 0,
       "flags": {},
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "nimble",
         "systemVersion": "0.8.7",
-        "lastModifiedBy": null,
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null
+        "lastModifiedBy": null
       },
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!3uzjSxbrYT29YsE8.B8fZsWaYHgQ7Ea9Y"
+      "_key": "!actors.items!IC7FLBDkpQaQ95Fb.66UG2Ld4rQCcgSPe"
     }
   ],
   "effects": [],
@@ -501,13 +321,13 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1783054243880,
-    "modifiedTime": 1783833012716,
+    "createdTime": 1783829321686,
+    "modifiedTime": 1783829427709,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
     "default": 0
   },
   "sort": 0,
-  "_key": "!actors!3uzjSxbrYT29YsE8"
+  "_key": "!actors!IC7FLBDkpQaQ95Fb"
 }

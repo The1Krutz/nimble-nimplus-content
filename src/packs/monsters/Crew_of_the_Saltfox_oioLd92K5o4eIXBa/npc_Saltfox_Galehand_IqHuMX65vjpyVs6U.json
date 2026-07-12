@@ -1,34 +1,34 @@
 {
-  "name": "Whirling Lagoonite",
+  "name": "Saltfox Galehand",
   "type": "npc",
-  "folder": "5i5mBXDRikIlMAWI",
-  "_id": "VRBhTC1x0U2bYPt1",
+  "folder": "oioLd92K5o4eIXBa",
+  "_id": "IqHuMX65vjpyVs6U",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "attributes": {
-      "armor": "heavy",
+      "armor": "none",
       "damageResistances": [],
       "damageVulnerabilities": [],
       "damageImmunities": [],
       "hp": {
-        "max": 40,
+        "max": 30,
         "temp": 0,
-        "value": 40
+        "value": 30
       },
       "movement": {
         "burrow": 0,
         "climb": 0,
         "fly": 0,
-        "swim": 6,
+        "swim": 0,
         "walk": 6
       },
-      "sizeCategory": "large"
+      "sizeCategory": "medium"
     },
     "description": "",
     "details": {
-      "creatureType": "Elemental",
+      "creatureType": "",
       "isFlunky": false,
-      "level": "5"
+      "level": "3"
     },
     "attackSequence": "",
     "savingThrows": {
@@ -150,200 +150,9 @@
   },
   "items": [
     {
-      "name": "Whirlpool",
+      "name": "Dirty Fighting",
       "type": "monsterFeature",
-      "_id": "zSyyc3rW9RmwfwTt",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": true,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [
-            {
-              "id": "X1Kr8wjty4hzY6p3",
-              "type": "savingThrow",
-              "savingThrowType": "strength",
-              "parentContext": null,
-              "parentNode": null,
-              "saveType": "strength",
-              "saveDC": "12",
-              "on": {
-                "failedSave": [
-                  {
-                    "id": "2TVursk3TdQxbteu",
-                    "type": "condition",
-                    "condition": "prone",
-                    "parentContext": "failedSave",
-                    "parentNode": "X1Kr8wjty4hzY6p3"
-                  }
-                ]
-              },
-              "sharedRolls": []
-            }
-          ],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "reach",
-            "distance": 3
-          },
-          "template": {
-            "length": 1,
-            "radius": 3,
-            "shape": "circle",
-            "width": 1
-          }
-        },
-        "description": "<p>Push all enemies within Reach 3 clockwise around you. DC 12 STR save or Prone.</p>",
-        "subtype": "action",
-        "parentItemId": "3ML7DPQgWzvMh5P6",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 30000,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.zSyyc3rW9RmwfwTt"
-    },
-    {
-      "name": "Soak",
-      "type": "monsterFeature",
-      "_id": "2ypCwBtZewNmZAh7",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [
-            {
-              "id": "jDyWIEOrMn8WRojQ",
-              "type": "damage",
-              "damageType": "bludgeoning",
-              "formula": "4d6",
-              "parentContext": null,
-              "parentNode": null,
-              "canCrit": true,
-              "canMiss": true,
-              "on": {
-                "hit": [
-                  {
-                    "id": "WYmBWqsdZBFtymYZ",
-                    "type": "condition",
-                    "condition": "slowed",
-                    "parentContext": "hit",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
-                  },
-                  {
-                    "id": "CABN8KWuEzfRdRiC",
-                    "type": "damageOutcome",
-                    "outcome": "fullDamage",
-                    "parentContext": "hit",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
-                  }
-                ],
-                "miss": [
-                  {
-                    "id": "QN7PX2tO6RIggiuL",
-                    "type": "note",
-                    "noteType": "warning",
-                    "text": "MISS",
-                    "parentContext": "miss",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
-                  }
-                ],
-                "criticalHit": [
-                  {
-                    "id": "reWMMJyUkvlod61s",
-                    "type": "note",
-                    "noteType": "warning",
-                    "text": "CRIT",
-                    "parentContext": "criticalHit",
-                    "parentNode": "jDyWIEOrMn8WRojQ"
-                  }
-                ]
-              }
-            }
-          ],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>4d6 Bludgeoning, Slowed</p>",
-        "subtype": "action",
-        "parentItemId": "3ML7DPQgWzvMh5P6",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 10000,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.2ypCwBtZewNmZAh7"
-    },
-    {
-      "name": "Downpour",
-      "type": "monsterFeature",
-      "_id": "tsxyvyTjWpI46nbJ",
+      "_id": "9GAvLpX2ALvjGze3",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -377,127 +186,7 @@
             "width": 1
           }
         },
-        "description": "<p>Spawn 2 @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.9SvUjciODicPO9hQ]{Droplets} within Reach 3</p>",
-        "subtype": "action",
-        "parentItemId": "3ML7DPQgWzvMh5P6",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 20000,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.tsxyvyTjWpI46nbJ"
-    },
-    {
-      "name": "Choose 2:",
-      "type": "monsterFeature",
-      "_id": "3ML7DPQgWzvMh5P6",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>Choose 2:</p>",
-        "subtype": "attackSequence",
-        "parentItemId": "",
-        "lastStandHp": 0
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "nimble",
-        "systemVersion": "0.8.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.3ML7DPQgWzvMh5P6"
-    },
-    {
-      "name": "Sprinkler",
-      "type": "monsterFeature",
-      "_id": "g8AJDAXy2hHta2Cb",
-      "img": "icons/svg/item-bag.svg",
-      "system": {
-        "macro": "",
-        "identifier": "",
-        "rules": [],
-        "activation": {
-          "acquireTargetsFromTemplate": false,
-          "cost": {
-            "details": "",
-            "quantity": 1,
-            "type": "none",
-            "isReaction": false
-          },
-          "duration": {
-            "details": "",
-            "quantity": 1,
-            "type": "none"
-          },
-          "effects": [],
-          "showDescription": true,
-          "targets": {
-            "count": 1,
-            "restrictions": "",
-            "attackType": "",
-            "distance": 1
-          },
-          "template": {
-            "length": 1,
-            "radius": 1,
-            "shape": "",
-            "width": 1
-          }
-        },
-        "description": "<p>Spawn LVL @UUID[Compendium.nimble-nimplus-content.nimplus-monsters.Actor.9SvUjciODicPO9hQ]{Droplets} on death</p>",
+        "description": "<p>Attacks Daze on crit.</p>",
         "subtype": "feature",
         "parentItemId": "",
         "lastStandHp": 0
@@ -518,7 +207,311 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!VRBhTC1x0U2bYPt1.g8AJDAXy2hHta2Cb"
+      "_key": "!actors.items!IqHuMX65vjpyVs6U.9GAvLpX2ALvjGze3"
+    },
+    {
+      "name": "Choose 1",
+      "type": "monsterFeature",
+      "_id": "eLHb49mYAUvkRQ8f",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Choose one:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!IqHuMX65vjpyVs6U.eLHb49mYAUvkRQ8f"
+    },
+    {
+      "name": "Gale (2x)",
+      "type": "monsterFeature",
+      "_id": "xyPBuJ6XqW1frIRe",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "cZ8Pbx4Sm4TFXL2w",
+              "type": "damage",
+              "damageType": "slashing",
+              "formula": "1d4+3",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "miss": [
+                  {
+                    "id": "O4rOFCm7S7yAE9se",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "p8q9ogJEzWgEJoco",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "du50UrIc5E5WSRr4",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "cZ8Pbx4Sm4TFXL2w"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "range",
+            "distance": 12
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>(Range 12) 1d4+3 Slashing. On damage: Push Primary Die spaces.</p>",
+        "subtype": "action",
+        "parentItemId": "eLHb49mYAUvkRQ8f",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!IqHuMX65vjpyVs6U.xyPBuJ6XqW1frIRe"
+    },
+    {
+      "name": "Wind Barrier",
+      "type": "monsterFeature",
+      "_id": "Xyl2nXXjKqApHQI4",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Heavy Armor against Ranged attacks.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!IqHuMX65vjpyVs6U.Xyl2nXXjKqApHQI4"
+    },
+    {
+      "name": "Sweep",
+      "type": "monsterFeature",
+      "_id": "hiRw3DYaqgMunNlp",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": true,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "8dKsPVDTfvicHTaZ",
+              "type": "savingThrow",
+              "savingThrowType": "strength",
+              "parentContext": null,
+              "parentNode": null,
+              "saveType": "strength",
+              "saveDC": "12",
+              "on": {
+                "failedSave": [
+                  {
+                    "id": "nB4M1R94HubYq2ug",
+                    "type": "condition",
+                    "condition": "prone",
+                    "parentContext": "failedSave",
+                    "parentNode": "8dKsPVDTfvicHTaZ"
+                  }
+                ]
+              },
+              "sharedRolls": []
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "range",
+            "distance": 12
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "square",
+            "width": 2
+          }
+        },
+        "description": "<p>(1 use, 2×2 area within Range 12) DC 12 STR save or Prone.</p>",
+        "subtype": "action",
+        "parentItemId": "eLHb49mYAUvkRQ8f",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 20000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!IqHuMX65vjpyVs6U.hiRw3DYaqgMunNlp"
     }
   ],
   "effects": [],
@@ -530,13 +523,13 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1783052173793,
-    "modifiedTime": 1783052903215,
+    "createdTime": 1783829321686,
+    "modifiedTime": 1783829427709,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
     "default": 0
   },
   "sort": 0,
-  "_key": "!actors!VRBhTC1x0U2bYPt1"
+  "_key": "!actors!IqHuMX65vjpyVs6U"
 }

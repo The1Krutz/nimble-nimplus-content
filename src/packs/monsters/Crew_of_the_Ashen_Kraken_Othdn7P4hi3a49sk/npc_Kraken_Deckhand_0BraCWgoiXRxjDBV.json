@@ -1,8 +1,8 @@
 {
-  "name": "Droplet",
-  "type": "minion",
-  "folder": "5i5mBXDRikIlMAWI",
-  "_id": "9SvUjciODicPO9hQ",
+  "name": "Kraken Deckhand",
+  "type": "npc",
+  "folder": "Othdn7P4hi3a49sk",
+  "_id": "0BraCWgoiXRxjDBV",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "attributes": {
@@ -11,23 +11,24 @@
       "damageVulnerabilities": [],
       "damageImmunities": [],
       "hp": {
-        "max": 1,
+        "max": 12,
         "temp": 0,
-        "value": 1
+        "value": 12
       },
-      "sizeCategory": "tiny",
       "movement": {
         "burrow": 0,
         "climb": 0,
         "fly": 0,
-        "swim": 6,
+        "swim": 0,
         "walk": 6
-      }
+      },
+      "sizeCategory": "medium"
     },
     "description": "",
     "details": {
-      "creatureType": "Lagoon Elemental",
-      "level": "1/4"
+      "creatureType": "",
+      "isFlunky": false,
+      "level": "1/3"
     },
     "attackSequence": "",
     "savingThrows": {
@@ -149,9 +150,69 @@
   },
   "items": [
     {
-      "name": "Sprinkle",
+      "name": "YARR!",
       "type": "monsterFeature",
-      "_id": "U6sQv1zjH1otk2OP",
+      "_id": "8WGftcDtWAx5PamJ",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Whenever an enemy kills a crewmate, they gain Spotted (the next attack against the target gains advantage).</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!0BraCWgoiXRxjDBV.8WGftcDtWAx5PamJ"
+    },
+    {
+      "name": "Cutlass",
+      "type": "monsterFeature",
+      "_id": "bEnDsBphAWhkEqbx",
       "img": "icons/svg/item-bag.svg",
       "system": {
         "macro": "",
@@ -172,10 +233,10 @@
           },
           "effects": [
             {
-              "id": "V03LZFURy0nFph4Q",
+              "id": "OCqMM1U1EWl3u8ef",
               "type": "damage",
-              "damageType": "bludgeoning",
-              "formula": "1d6",
+              "damageType": "slashing",
+              "formula": "1d8",
               "parentContext": null,
               "parentNode": null,
               "canCrit": true,
@@ -183,31 +244,31 @@
               "on": {
                 "miss": [
                   {
-                    "id": "wMzYpJQSFQSIhfYB",
+                    "id": "jrCQdV7zPKxVRwu1",
                     "type": "note",
                     "noteType": "warning",
                     "text": "MISS",
                     "parentContext": "miss",
-                    "parentNode": "V03LZFURy0nFph4Q"
+                    "parentNode": "OCqMM1U1EWl3u8ef"
                   }
                 ],
                 "criticalHit": [
                   {
-                    "id": "LN86WYPcAkqtOAHT",
+                    "id": "bGIrBasBv9hSMG9K",
                     "type": "note",
                     "noteType": "warning",
                     "text": "CRIT",
                     "parentContext": "criticalHit",
-                    "parentNode": "V03LZFURy0nFph4Q"
+                    "parentNode": "OCqMM1U1EWl3u8ef"
                   }
                 ],
                 "hit": [
                   {
-                    "id": "1woULJTOIZymIWSt",
+                    "id": "G7bkD75nOTGx53pM",
                     "type": "damageOutcome",
                     "outcome": "fullDamage",
                     "parentContext": "hit",
-                    "parentNode": "V03LZFURy0nFph4Q"
+                    "parentNode": "OCqMM1U1EWl3u8ef"
                   }
                 ]
               }
@@ -227,7 +288,7 @@
             "width": 1
           }
         },
-        "description": "<p>1d6 damage.</p>",
+        "description": "<p>1d8 Slashing.</p>",
         "subtype": "action",
         "parentItemId": "",
         "lastStandHp": 0
@@ -248,7 +309,7 @@
       "ownership": {
         "default": 0
       },
-      "_key": "!actors.items!9SvUjciODicPO9hQ.U6sQv1zjH1otk2OP"
+      "_key": "!actors.items!0BraCWgoiXRxjDBV.bEnDsBphAWhkEqbx"
     }
   ],
   "effects": [],
@@ -260,13 +321,13 @@
     "coreVersion": "13.351",
     "systemId": "nimble",
     "systemVersion": "0.8.7",
-    "createdTime": 1783047500111,
-    "modifiedTime": 1783052903215,
+    "createdTime": 1783827206437,
+    "modifiedTime": 1783828078252,
     "lastModifiedBy": "h42CcTzyU22SgcaA"
   },
   "ownership": {
     "default": 0
   },
-  "sort": 0,
-  "_key": "!actors!9SvUjciODicPO9hQ"
+  "sort": 150000,
+  "_key": "!actors!0BraCWgoiXRxjDBV"
 }
