@@ -33,10 +33,14 @@ Credit and links are present in this README, as well as in the Foundry package d
 
 ### Icons
 
-All icons are from [Kenney](www.kenney.nl) Board Game Icons, with this license text:
+Some icons are from [Kenney](www.kenney.nl) Board Game Icons, with this license text:
 
 > License: [Creative Commons Zero, CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 >
 > This content is free to use in personal, educational and commercial projects.
 >
 > Support us by crediting Kenney or [www.kenney.nl](www.kenney.nl) (this is not mandatory)
+
+---
+
+The rest of the icons are from [Game-icons.net](game-icons.net), released under the Creative Commons 3.0 BY license.
