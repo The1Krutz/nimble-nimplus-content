@@ -1,0 +1,574 @@
+{
+  "name": "Cheeky Parrot",
+  "type": "npc",
+  "folder": "4bVnjFqIr6GzJvLW",
+  "_id": "3KtqwuClWDVz4BD2",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "attributes": {
+      "armor": "none",
+      "damageResistances": [],
+      "damageVulnerabilities": [],
+      "damageImmunities": [],
+      "hp": {
+        "max": 20,
+        "temp": 0,
+        "value": 20
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 6,
+        "swim": 0,
+        "walk": 6
+      },
+      "sizeCategory": "small"
+    },
+    "description": "<p>Max HP is 20 per hero.</p>",
+    "details": {
+      "creatureType": "Bird",
+      "isFlunky": false,
+      "level": "3"
+    },
+    "attackSequence": "",
+    "savingThrows": {
+      "strength": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "dexterity": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "intelligence": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      },
+      "will": {
+        "bonus": 0,
+        "defaultRollMode": 0,
+        "mod": 0
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "New Actor",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Mimicry",
+      "type": "monsterFeature",
+      "_id": "HZLY5dusJxWT235a",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>The parrot learns to mimic the first spell cast each round within earshot. It already knows @UUID[Compendium.nimble.nimble-spells.Item.kTJSEElZSzeOMXBO]{Vicious Mockery}.</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3KtqwuClWDVz4BD2.HZLY5dusJxWT235a"
+    },
+    {
+      "name": "Choose 1",
+      "type": "monsterFeature",
+      "_id": "tLltN6oWQbD0XYlo",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Choose one:</p>",
+        "subtype": "attackSequence",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3KtqwuClWDVz4BD2.tLltN6oWQbD0XYlo"
+    },
+    {
+      "name": "Avian Menace",
+      "type": "monsterFeature",
+      "_id": "r5TYQkZXhIL3yRVu",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Acts twice per round (divided evenly).</p>",
+        "subtype": "feature",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3KtqwuClWDVz4BD2.r5TYQkZXhIL3yRVu"
+    },
+    {
+      "name": "Peck",
+      "type": "monsterFeature",
+      "_id": "D39iTTjHAsXADzAO",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [
+            {
+              "id": "hmKCqVkuUgbt64bC",
+              "type": "damage",
+              "damageType": "piercing",
+              "formula": "1d6+3",
+              "parentContext": null,
+              "parentNode": null,
+              "canCrit": true,
+              "canMiss": true,
+              "on": {
+                "miss": [
+                  {
+                    "id": "laegUkckcSaCLimD",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "MISS",
+                    "parentContext": "miss",
+                    "parentNode": "hmKCqVkuUgbt64bC"
+                  }
+                ],
+                "criticalHit": [
+                  {
+                    "id": "gg5wcRIdL4j9SYjn",
+                    "type": "note",
+                    "noteType": "warning",
+                    "text": "CRIT",
+                    "parentContext": "criticalHit",
+                    "parentNode": "hmKCqVkuUgbt64bC"
+                  }
+                ],
+                "hit": [
+                  {
+                    "id": "0MVKAsrBzwoYnjg0",
+                    "type": "damageOutcome",
+                    "outcome": "fullDamage",
+                    "parentContext": "hit",
+                    "parentNode": "hmKCqVkuUgbt64bC"
+                  }
+                ]
+              }
+            }
+          ],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>1d6+3 Piercing.</p>",
+        "subtype": "action",
+        "parentItemId": "tLltN6oWQbD0XYlo",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 10000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3KtqwuClWDVz4BD2.D39iTTjHAsXADzAO"
+    },
+    {
+      "name": "Rah! Bracadabra",
+      "type": "monsterFeature",
+      "_id": "YtXqI4IxGBfPFSUA",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Cast a spell learned via @UUID[Actor.3KtqwuClWDVz4BD2.Item.HZLY5dusJxWT235a]{Mimicry}.</p>",
+        "subtype": "action",
+        "parentItemId": "tLltN6oWQbD0XYlo",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 20000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3KtqwuClWDVz4BD2.YtXqI4IxGBfPFSUA"
+    },
+    {
+      "name": "Bloodied",
+      "type": "monsterFeature",
+      "_id": "aseyS2taGmtSH206",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "macro": "",
+        "identifier": "",
+        "rules": [],
+        "activation": {
+          "acquireTargetsFromTemplate": false,
+          "cost": {
+            "details": "",
+            "quantity": 1,
+            "type": "none",
+            "isReaction": false
+          },
+          "duration": {
+            "details": "",
+            "quantity": 1,
+            "type": "none"
+          },
+          "effects": [],
+          "showDescription": true,
+          "targets": {
+            "count": 1,
+            "restrictions": "",
+            "attackType": "",
+            "distance": 1
+          },
+          "template": {
+            "length": 1,
+            "radius": 1,
+            "shape": "",
+            "width": 1
+          }
+        },
+        "description": "<p>Casts @UUID[Compendium.nimble.nimble-spells.Item.VIyLo7aKq3eK9H0K]{Unspeakable Word} on its next turn.</p>",
+        "subtype": "bloodied",
+        "parentItemId": "",
+        "lastStandHp": 0
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "nimble",
+        "systemVersion": "0.8.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3KtqwuClWDVz4BD2.aseyS2taGmtSH206"
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "nimble",
+    "systemVersion": "0.8.7",
+    "createdTime": 1783832108944,
+    "modifiedTime": 1783832108944,
+    "lastModifiedBy": "h42CcTzyU22SgcaA"
+  },
+  "ownership": {
+    "default": 0,
+    "h42CcTzyU22SgcaA": 3
+  },
+  "sort": 0,
+  "_key": "!actors!3KtqwuClWDVz4BD2"
+}
