@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "4bVnjFqIr6GzJvLW",
   "_id": "1vCCK13fKvUdZmg8",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/sharp-crown.png",
   "system": {
     "attributes": {
       "armor": "heavy",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/sharp-crown.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,

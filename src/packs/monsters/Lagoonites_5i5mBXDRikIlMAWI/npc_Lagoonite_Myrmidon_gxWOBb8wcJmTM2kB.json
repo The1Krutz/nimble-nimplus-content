@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "5i5mBXDRikIlMAWI",
   "_id": "gxWOBb8wcJmTM2kB",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,

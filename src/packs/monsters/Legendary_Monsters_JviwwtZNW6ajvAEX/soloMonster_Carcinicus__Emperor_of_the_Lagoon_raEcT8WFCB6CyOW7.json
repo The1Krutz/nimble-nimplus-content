@@ -3,7 +3,7 @@
   "type": "soloMonster",
   "folder": "JviwwtZNW6ajvAEX",
   "_id": "raEcT8WFCB6CyOW7",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
   "system": {
     "attributes": {
       "armor": "heavy",
@@ -60,7 +60,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,

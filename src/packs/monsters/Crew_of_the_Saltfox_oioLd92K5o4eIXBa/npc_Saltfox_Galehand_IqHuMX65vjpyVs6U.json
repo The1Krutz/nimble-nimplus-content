@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "oioLd92K5o4eIXBa",
   "_id": "IqHuMX65vjpyVs6U",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,

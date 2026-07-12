@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "4bVnjFqIr6GzJvLW",
   "_id": "3KtqwuClWDVz4BD2",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/parrot-head.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/parrot-head.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
