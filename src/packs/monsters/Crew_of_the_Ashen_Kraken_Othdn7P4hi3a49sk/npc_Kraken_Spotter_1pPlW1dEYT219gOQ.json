@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "Othdn7P4hi3a49sk",
   "_id": "1pPlW1dEYT219gOQ",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "YARR!",
       "type": "monsterFeature",
       "_id": "YVOQ2mOR3pyBH1Jv",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "\"This One!\"",
       "type": "monsterFeature",
       "_id": "v93tCEOPf1Gu5Epl",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Slingshot",
       "type": "monsterFeature",
       "_id": "ez0owo8dha5ZoiYM",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -375,7 +375,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "DJLxKtKzUYHyTJeT",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",

@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "oioLd92K5o4eIXBa",
   "_id": "4Wj40ZRY4A7Ty1BU",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-hat.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "img": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-hat.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Dirty Fighting",
       "type": "monsterFeature",
       "_id": "DZL8b5tZJpBC8Gz1",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-hat.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "P79TjOyW37gkL4Dw",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-hat.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Cutlass (2x)",
       "type": "monsterFeature",
       "_id": "tqFcb1wGJc3JCYPB",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-hat.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -375,7 +375,7 @@
       "name": "Parry",
       "type": "monsterFeature",
       "_id": "FFXKIAvDhwMublOd",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-hat.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -435,7 +435,7 @@
       "name": "Taunt",
       "type": "monsterFeature",
       "_id": "SoH8WgkN6ddokrqc",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-hat.png",
       "system": {
         "macro": "",
         "identifier": "",

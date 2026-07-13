@@ -153,7 +153,7 @@
       "name": "BOOM!",
       "type": "monsterFeature",
       "_id": "6F1B5qeCQz0VGf4H",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-cannon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -235,7 +235,7 @@
       "name": "Sizzling Fuse",
       "type": "monsterFeature",
       "_id": "Bclhq9JiWh9kJQv7",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-cannon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -295,7 +295,7 @@
       "name": "When lit...",
       "type": "monsterFeature",
       "_id": "g0OGtjfn6V5iJma4",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-cannon.png",
       "system": {
         "macro": "",
         "identifier": "",
