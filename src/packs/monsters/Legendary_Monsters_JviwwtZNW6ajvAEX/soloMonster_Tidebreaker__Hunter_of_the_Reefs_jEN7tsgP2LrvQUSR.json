@@ -152,7 +152,7 @@
       "name": "Undertow",
       "type": "monsterFeature",
       "_id": "45sp8xN7zFGA2YkJ",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/sea-dragon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -283,7 +283,7 @@
       "name": "New Feature",
       "type": "monsterFeature",
       "_id": "m1ZlPvS59nkzjLAP",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/sea-dragon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -393,7 +393,7 @@
       "name": "Ebb",
       "type": "monsterFeature",
       "_id": "hKI7odueB7LKLm2u",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/sea-dragon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -503,7 +503,7 @@
       "name": "Coral Scales",
       "type": "monsterFeature",
       "_id": "8NKciYZo06B9Ig6y",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/sea-dragon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -563,7 +563,7 @@
       "name": "After each hero...",
       "type": "monsterFeature",
       "_id": "vnf7EkfWetPEhA5j",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/sea-dragon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -623,7 +623,7 @@
       "name": "Bloodied",
       "type": "monsterFeature",
       "_id": "jA4pV8ZxTTi433Br",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/sea-dragon.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -683,7 +683,7 @@
       "name": "Last Stand",
       "type": "monsterFeature",
       "_id": "QvgVfUwKh8LdBwQq",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/sea-dragon.png",
       "system": {
         "macro": "",
         "identifier": "",

@@ -153,7 +153,7 @@
       "name": "Sand Dwellers",
       "type": "monsterFeature",
       "_id": "Pk2Tp7T0DvLd90kV",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Autotomous",
       "type": "monsterFeature",
       "_id": "9Cszi83N2rZNSYDf",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "jP5vDOcd4GO5LPQN",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -333,7 +333,7 @@
       "name": "Lash (2x)",
       "type": "monsterFeature",
       "_id": "HKwbZ4mdYGom5D9f",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -435,7 +435,7 @@
       "name": "Retract",
       "type": "monsterFeature",
       "_id": "dWy1B4I5kxdznTVP",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
       "system": {
         "macro": "",
         "identifier": "",

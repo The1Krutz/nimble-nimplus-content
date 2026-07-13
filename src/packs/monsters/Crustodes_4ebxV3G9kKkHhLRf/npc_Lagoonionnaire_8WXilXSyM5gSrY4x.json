@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "4ebxV3G9kKkHhLRf",
   "_id": "8WXilXSyM5gSrY4x",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/claws.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/crab.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/claws.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Shellguard",
       "type": "monsterFeature",
       "_id": "h4vTES2BFI5H5kK3",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/claws.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Pinch (x2)",
       "type": "monsterFeature",
       "_id": "VuGEg5A0dLSHIdAG",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/claws.png",
       "system": {
         "macro": "",
         "identifier": "",

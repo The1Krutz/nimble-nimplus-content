@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "x3kXztRRAhr5ggut",
   "_id": "qQ3BzFZpeWDYjCdv",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/spiked-tentacle.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/spiked-tentacle.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Sand Dwellers",
       "type": "monsterFeature",
       "_id": "xJu1SyL46FNNuOa7",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spiked-tentacle.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Autotomous",
       "type": "monsterFeature",
       "_id": "QT2ttzPPipiKsjMQ",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spiked-tentacle.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Pinpricks",
       "type": "monsterFeature",
       "_id": "LLEHOZkrHvYsz3eQ",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spiked-tentacle.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -355,7 +355,7 @@
       "name": "Sandtrap",
       "type": "monsterFeature",
       "_id": "RhHoy4e10yKt2GEJ",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spiked-tentacle.png",
       "system": {
         "macro": "",
         "identifier": "",

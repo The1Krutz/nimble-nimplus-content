@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "oioLd92K5o4eIXBa",
   "_id": "Qbc2nNgVgKvy8AdR",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "XewDs0KofiovE3cF",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Dagger",
       "type": "monsterFeature",
       "_id": "1RtVAESnJtcmAv27",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -315,7 +315,7 @@
       "name": "Crossbow",
       "type": "monsterFeature",
       "_id": "xbwQPXsD67br4Xbx",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -417,7 +417,7 @@
       "name": "Rigging Runner",
       "type": "monsterFeature",
       "_id": "KnVwtI04jb6bk664",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -477,7 +477,7 @@
       "name": "Dirty Fighting",
       "type": "monsterFeature",
       "_id": "gcuZeifzTL88jLAx",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spyglass.png",
       "system": {
         "macro": "",
         "identifier": "",

@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "Othdn7P4hi3a49sk",
   "_id": "dgYUjGKHDSGe8aDv",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/spearfishing.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/bandana.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/spearfishing.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "YARR!",
       "type": "monsterFeature",
       "_id": "jlhQ7Og1lYmdBdco",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spearfishing.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Choose both",
       "type": "monsterFeature",
       "_id": "b6nsfIZVN4VlYVjz",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spearfishing.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -273,7 +273,7 @@
       "name": "Reel In",
       "type": "monsterFeature",
       "_id": "4sZRZOPms3HxQ5CU",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spearfishing.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -333,7 +333,7 @@
       "name": "Harpoon",
       "type": "monsterFeature",
       "_id": "PCjtNKYAljDMYk1q",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/spearfishing.png",
       "system": {
         "macro": "",
         "identifier": "",
