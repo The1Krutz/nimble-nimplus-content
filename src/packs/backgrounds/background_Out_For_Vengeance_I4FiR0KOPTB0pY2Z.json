@@ -2,12 +2,12 @@
   "name": "Out For Vengeance",
   "type": "background",
   "_id": "I4FiR0KOPTB0pY2Z",
-  "img": "modules/nimble-nimplus-content/assets/artwork/background/campfire.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/background/chalk-outline-murder.png",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p>Someone wronged you and vengeance demands that they must pay! Work out who your nemesis is – and what they did – with your GM. You have advantage on all checks related to tracking them. While in combat with your nemesis, you are permanently Taunted by them.</p>"
+    "description": "<p>Someone wronged you and vengeance demands that they must pay! Work out who your nemesis is - and what they did - with your GM. You have advantage on all checks related to tracking them. While in combat with your nemesis, you are permanently Taunted by them.</p>"
   },
   "effects": [],
   "folder": null,
