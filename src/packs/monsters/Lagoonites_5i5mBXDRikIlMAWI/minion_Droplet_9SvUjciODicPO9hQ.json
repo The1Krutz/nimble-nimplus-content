@@ -3,7 +3,7 @@
   "type": "minion",
   "folder": "5i5mBXDRikIlMAWI",
   "_id": "9SvUjciODicPO9hQ",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/water-drop.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -60,7 +60,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/water-drop.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -152,7 +152,7 @@
       "name": "Sprinkle",
       "type": "monsterFeature",
       "_id": "U6sQv1zjH1otk2OP",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/water-drop.png",
       "system": {
         "macro": "",
         "identifier": "",

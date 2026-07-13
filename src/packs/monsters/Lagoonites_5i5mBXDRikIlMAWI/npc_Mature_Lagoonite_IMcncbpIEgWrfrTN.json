@@ -3,7 +3,7 @@
   "type": "npc",
   "folder": "5i5mBXDRikIlMAWI",
   "_id": "IMcncbpIEgWrfrTN",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/big-wave.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -61,7 +61,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/wave-crest.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/big-wave.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -153,7 +153,7 @@
       "name": "Surface Tension",
       "type": "monsterFeature",
       "_id": "IhaknJMxVF4Poq93",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/big-wave.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -213,7 +213,7 @@
       "name": "Splash (x2)",
       "type": "monsterFeature",
       "_id": "7lQDEE7GZ3F3sPAL",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/big-wave.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -315,7 +315,7 @@
       "name": "Warp",
       "type": "monsterFeature",
       "_id": "zVUZZ9NczVXXfVSa",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/big-wave.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -375,7 +375,7 @@
       "name": "Sprinkler",
       "type": "monsterFeature",
       "_id": "OeyduuCUcrtTcejF",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/big-wave.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -435,7 +435,7 @@
       "name": "Choose 1",
       "type": "monsterFeature",
       "_id": "mWuqjLyDMek9oh8G",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/big-wave.png",
       "system": {
         "macro": "",
         "identifier": "",
