@@ -3,7 +3,7 @@
   "type": "soloMonster",
   "folder": "JviwwtZNW6ajvAEX",
   "_id": "pmt1Twn62iMRiHzZ",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-captain.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
   "system": {
     "attributes": {
       "armor": "medium",
@@ -60,7 +60,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/pirate-captain.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -152,7 +152,7 @@
       "name": "Drunken Master",
       "type": "monsterFeature",
       "_id": "7NL2JX77rGLAKarc",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -216,7 +216,7 @@
       "name": "Mighty Belch",
       "type": "monsterFeature",
       "_id": "PO2iPN7meIawbvlc",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -317,7 +317,7 @@
       "name": "Rancid Breath",
       "type": "monsterFeature",
       "_id": "LeI7yyuWwycAaUQL",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -400,7 +400,7 @@
       "name": "Dragon Fist",
       "type": "monsterFeature",
       "_id": "z4yEiOP1IXIO7q5A",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -510,7 +510,7 @@
       "name": "After each Hero",
       "type": "monsterFeature",
       "_id": "ahY3QJz5cOfvj64o",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -570,7 +570,7 @@
       "name": "Bloodied",
       "type": "monsterFeature",
       "_id": "8ay9gzXZZldRqr2z",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -630,7 +630,7 @@
       "name": "Last Stand",
       "type": "monsterFeature",
       "_id": "wVF9wOSim55Ri80Q",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
@@ -690,7 +690,7 @@
       "name": "Tipsy",
       "type": "monsterFeature",
       "_id": "o1qHHrOhCbCImx4X",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/beer-stein.png",
       "system": {
         "macro": "",
         "identifier": "",
