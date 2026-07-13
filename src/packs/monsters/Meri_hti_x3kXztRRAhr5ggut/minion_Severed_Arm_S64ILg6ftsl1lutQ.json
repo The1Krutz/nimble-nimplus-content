@@ -3,7 +3,7 @@
   "type": "minion",
   "folder": "x3kXztRRAhr5ggut",
   "_id": "S64ILg6ftsl1lutQ",
-  "img": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/monster/suckered-tentacle.png",
   "system": {
     "attributes": {
       "armor": "none",
@@ -60,7 +60,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/nimble-nimplus-content/assets/artwork/monster/tentacles-barrier.png",
+      "src": "modules/nimble-nimplus-content/assets/artwork/monster/suckered-tentacle.png",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -152,7 +152,7 @@
       "name": "Stab",
       "type": "monsterFeature",
       "_id": "ioh0G0PLMLhDN3Es",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_sword_a.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/suckered-tentacle.png",
       "system": {
         "macro": "",
         "identifier": "",
