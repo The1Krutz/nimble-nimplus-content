@@ -2,12 +2,12 @@
   "name": "Plucky Young Hero",
   "type": "background",
   "_id": "DHnKSmICTAtg7wxb",
-  "img": "modules/nimble-nimplus-content/assets/artwork/background/campfire.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/background/shield-bash.png",
   "system": {
     "macro": "",
     "identifier": "",
     "rules": [],
-    "description": "<p>You got moxie, kid. You’re just looking for that one opportunity to truly make waves. When you hit an enemy with an attack, you may turn it into a crit (1/encounter). If you do so, the next attack against you is a guaranteed crit.</p>"
+    "description": "<p>You got moxie, kid. You're just looking for that one opportunity to truly make waves. When you hit an enemy with an attack, you may turn it into a crit (1/encounter). If you do so, the next attack against you is a guaranteed crit.</p>"
   },
   "effects": [],
   "folder": null,
