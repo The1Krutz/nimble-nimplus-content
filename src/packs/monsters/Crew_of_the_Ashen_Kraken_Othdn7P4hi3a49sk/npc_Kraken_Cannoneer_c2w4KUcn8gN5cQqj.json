@@ -273,7 +273,7 @@
       "name": "Empty Bottle",
       "type": "monsterFeature",
       "_id": "481KTsPEl0X0ZBMP",
-      "img": "modules/nimble-nimplus-content/assets/artwork/feature/tool_bow.png",
+      "img": "modules/nimble-nimplus-content/assets/artwork/monster/primitive-torch.png",
       "system": {
         "macro": "",
         "identifier": "",
