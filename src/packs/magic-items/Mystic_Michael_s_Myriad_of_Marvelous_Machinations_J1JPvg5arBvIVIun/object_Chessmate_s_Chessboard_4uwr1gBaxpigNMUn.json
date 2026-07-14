@@ -1,7 +1,7 @@
 {
   "name": "Chessmate's Chessboard",
   "type": "object",
-  "img": "modules/nimble-nimplus-content/assets/artwork/item/flask_half.png",
+  "img": "modules/nimble-nimplus-content/assets/artwork/item/empty-chessboard.png",
   "folder": "J1JPvg5arBvIVIun",
   "_id": "4uwr1gBaxpigNMUn",
   "system": {
