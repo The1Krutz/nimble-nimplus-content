@@ -1,10 +1,10 @@
-# Nimble Nim+ Content
+# Nimble _Nim+_ Content
 
-Content packs to get Nim+ into a [Foundry package](https://foundryvtt.com/packages/nimble-nimplus-content)
+Content packs to get _Nim+_ into a [Foundry package](https://foundryvtt.com/packages/nimble-nimplus-content)
 
 ## Original Content
 
-Nim+ zines are found on itch.io, courtesy [Santuric](https://santuric.itch.io/):
+_Nim+_ zines are found on itch.io:
 
 - [Volume 1 - Character Creation](https://santuric.itch.io/nimplus-vol-1)
 - [Volume 2 - Traveler's Guide: The Golden Archipelago](https://santuric.itch.io/nimplus-vol-2)
@@ -17,12 +17,18 @@ These zines are completely free and made by volunteers. I did not create any of 
 
 No generative AI was used in the making of this project.
 
+## Attribution
+
+- _Nimble Nim+ Content_ is an independent product published under the Nimble 3rd Party Creator License. [Nimble](https://nimblerpg.com/) © Nimble Co.
+
+- _Nim+_ © [Santuric](https://santuric.itch.io/) and contributors
+
 ## Licenses
 
 ### My Code
 
-MIT License
-
+> MIT License
+>
 > Copyright (c) 2026 Krutz
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -56,8 +62,7 @@ MIT License
 
 ### Nim+
 
-> This work is published under CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)). © Santuric and contributors. Please provide credit
-and include a link to [santuric.itch.io](https://santuric.itch.io/) as part of your attribution notice.
+> This work is published under CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)). © Santuric and contributors. Please provide credit and include a link to [santuric.itch.io](https://santuric.itch.io/) as part of your attribution notice.
 
 ### Icons
 
