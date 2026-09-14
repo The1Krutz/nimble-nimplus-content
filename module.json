@@ -2,11 +2,11 @@
   "id": "nimble-nimplus-content",
   "title": "Nimble Nim+ Content",
   "description": "<p>Content packs to get Nim+ community content into Foundry.</p><p>Contains Nim+ Volumes 1-4. Original zines can be found here: https://santuric.itch.io/</p>",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13.351",
-    "maximum": "13.999"
+    "minimum": "14",
+    "verified": "14.361",
+    "maximum": "14.999"
   },
   "authors": [
     {
